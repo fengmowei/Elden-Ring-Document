@@ -15,4 +15,4 @@
 
 >不支持IE核心，建议使用Edge运行（若下载到本地请添加运行参数 --profile-directory=Default）。
 
-[在线快捷链接](https://fengmowei.github.io/Elden-Ring-Documents/)
+[在线快捷链接](https://fengmowei.github.io/Elden-Ring-Document/)
