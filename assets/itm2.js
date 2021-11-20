@@ -11,36 +11,36 @@ window.onload=function(){
   type=geturl("type");
   lines=geturl("lines");
   title=unescape(geturl("title").replace(/\\/g,"%").replace(/\//g,"%"));
-  document.title="黑暗之魂"+[game]+[title];
+  document.title="艾尔登法环"+[title];
   var xmlhttp=new window.XMLHttpRequest();
-  xmlhttp.open("get","text/chn"+[game]+"/"+[type]+"_name.xml",false);
+  xmlhttp.open("get","text/chn"+"/"+[type]+"_name.xml",false);
   xmlhttp.send(null);
   xmlDoc=xmlhttp.responseXML;
   var namec=xmlDoc.getElementsByTagName("text");
-  xmlhttp.open("get","text/chn"+[game]+"/"+[type]+"_desc.xml",false);
+  xmlhttp.open("get","text/chn"+"/"+[type]+"_desc.xml",false);
   xmlhttp.send(null);
   xmlDoc=xmlhttp.responseXML;
   var descc=xmlDoc.getElementsByTagName("text");
-  xmlhttp.open("get","text/jap"+[game]+"/"+[type]+"_name.xml",false);
+  xmlhttp.open("get","text/jap"+"/"+[type]+"_name.xml",false);
   xmlhttp.send(null);
   xmlDoc=xmlhttp.responseXML;
   var namej=xmlDoc.getElementsByTagName("text");
-  xmlhttp.open("get","text/jap"+[game]+"/"+[type]+"_desc.xml",false);
+  xmlhttp.open("get","text/jap"+"/"+[type]+"_desc.xml",false);
   xmlhttp.send(null);
   xmlDoc=xmlhttp.responseXML;
   var descj=xmlDoc.getElementsByTagName("text");
-  xmlhttp.open("get","text/eng"+[game]+"/"+[type]+"_name.xml",false);
+  xmlhttp.open("get","text/eng"+"/"+[type]+"_name.xml",false);
   xmlhttp.send(null);
   xmlDoc=xmlhttp.responseXML;
   var namee=xmlDoc.getElementsByTagName("text");
-  xmlhttp.open("get","text/eng"+[game]+"/"+[type]+"_desc.xml",false);
+  xmlhttp.open("get","text/eng"+"/"+[type]+"_desc.xml",false);
   xmlhttp.send(null);
   xmlDoc=xmlhttp.responseXML;
   var desce=xmlDoc.getElementsByTagName("text");
   frm=document.getElementsByClassName("frame")[0];
   for(var i=0;i<[lines];i++){
     document.getElementById("content").appendChild(frm.cloneNode(true));
-    document.getElementsByClassName("icon")[i].firstChild.src="icons/"+[type]+[game]+"/"+[i]+".png";
+    document.getElementsByClassName("icon")[i].firstChild.src="icons/"+[type]+"/"+[i]+".png";
     document.getElementsByClassName("chn")[i].childNodes[0].innerHTML=namec[i].childNodes[0].nodeValue.replace(/##/,"<i>未采用</i>");
     document.getElementsByClassName("chn")[i].childNodes[1].firstChild.innerHTML="<p>"+descc[i].childNodes[0].nodeValue.replace(/\n/g,"</p><p>")+"</p>";
     document.getElementsByClassName("jap")[i].childNodes[0].innerHTML=namej[i].childNodes[0].nodeValue.replace(/##/,"<i>未使用</i>");
@@ -49,6 +49,6 @@ window.onload=function(){
     document.getElementsByClassName("eng")[i].childNodes[1].firstChild.innerHTML="<p>"+desce[i].childNodes[0].nodeValue.replace(/\n/g,"</p><p>")+"</p>";
   }
   document.getElementById("content").removeChild(document.getElementsByClassName("frame")[i]);
-  document.getElementById([type]+[game]).setAttribute("class","mainitm");
-  document.getElementById("content").setAttribute("class","content"+" game"+[game]);
+  document.getElementById([type]).setAttribute("class","mainitm");
+  document.getElementById("content").setAttribute("class","content"+" game");
 }

@@ -11,7 +11,7 @@ window.onload=function(){
   npc=geturl("npc");
   lines=geturl("lines");
   title=unescape(geturl("title").replace(/\\/g,"%").replace(/\//g,"%"));
-  document.title="黑暗之魂"+[game]+"对话";
+  document.title="艾尔登法环"+"对话";
   document.getElementsByClassName("icon")[0].firstChild.setAttribute("src","icons/dialogue"+game+"/"+npc+".jpg");
   document.getElementsByClassName("title")[0].firstChild.innerHTML=title;
   var xmlhttp=new window.XMLHttpRequest();
