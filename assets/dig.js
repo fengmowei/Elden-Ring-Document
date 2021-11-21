@@ -12,16 +12,16 @@ window.onload=function(){
   lines=geturl("lines");
   title=unescape(geturl("title").replace(/\\/g,"%").replace(/\//g,"%"));
   document.title="艾尔登法环"+"对话";
-  document.getElementsByClassName("icon")[0].firstChild.setAttribute("src","icons/dialogue"+game+"/"+npc+".jpg");
+  document.getElementsByClassName("icon")[0].firstChild.setAttribute("src","icons/dialogue"+"/"+npc+".jpg");
   document.getElementsByClassName("title")[0].firstChild.innerHTML=title;
   var xmlhttp=new window.XMLHttpRequest();
-  xmlhttp.open("get","text/chn"+[game]+"/dialogue/"+[npc]+".xml",false);
+  xmlhttp.open("get","text/chn"+"/dialogue/"+[npc]+".xml",false);
   xmlhttp.send(null);
   xmlc=xmlhttp.responseXML;
-  xmlhttp.open("get","text/jap"+[game]+"/dialogue/"+[npc]+".xml",false);
+  xmlhttp.open("get","text/jap"+"/dialogue/"+[npc]+".xml",false);
   xmlhttp.send(null);
   xmlj=xmlhttp.responseXML;
-  xmlhttp.open("get","text/eng"+[game]+"/dialogue/"+[npc]+".xml",false);
+  xmlhttp.open("get","text/eng"+"/dialogue/"+[npc]+".xml",false);
   xmlhttp.send(null);
   xmle=xmlhttp.responseXML;
   var nline=document.createElement("p");
@@ -42,5 +42,5 @@ window.onload=function(){
     if(bmsge.indexOf("##")!==-1){printe.setAttribute("class","uud")}
     printe.innerHTML=desce;
   }
-  document.getElementById("dialogue"+[game]).setAttribute("class","mainitm");
+  document.getElementById("dialogue").setAttribute("class","mainitm");
 }
