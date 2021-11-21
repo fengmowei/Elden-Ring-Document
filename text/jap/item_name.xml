@@ -1,301 +1,98 @@
-﻿
 <?xml version="1.0" encoding="utf-8"?>
 <entries>
 
-<text> 
-ツール鞄</text>
 
-
-<text> 
-地図断片(リムグレイブ西)</text>
-
-<text> 
-錆びた鍵</text>
-
-<text> 
-遠眼鏡 </text>
-
-<text> 
-霊馬の指笛</text>
-
-<text> 
-松明</text>
-
-<text> 
-青い秘文字の指環</text>
-
-<text> 
-白い秘文字の指環</text>
-
-<text> 
-鉤呼びの指薬</text>
-
-<text> 
-指切り</text>
-
-<text> 
-褪せ人の鉤指</text>
-
-<text> 
-闘士の鉤指</text>
-
-<text> 
- 褪色者老指</text>
-
-<text> 
-血の指</text>
-
-
-<text> 
-嘲弄者の下</text>
-
-<text> 
-祝福の幻想</text>
-
-<text> 
-金の小偶像 </text>
-
-<text> 
-赤の小偶像</text>
-
-<text> 
-緋雫の聖杯瓶 </text>
-
-
-<text> 
-青雫の聖杯瓶</text>
-
-<text> 
-辺境人のルーン</text>
-
-<text> 
-聖水壷</text>
-
-<text> 
-言の葉石</text>
-
-
-<text> 
-虹色石</text>
-
-<text> 
-ロア・レーズン</text>
-
-
-<text> 
-紐付き火炎壷</text>
-
-<text> 
-灯り石</text>
-
-<text> 
-霊薬の聖杯瓶</text>
-
-<text> 
-貧者のルーン</text>
-
-<text> 
-免疫の干し肉 </text>
-
-<text> 
-重隕石の破片</text>
-
-<text> 
-亀首漬け</text>
-
-<text> 
-火脂</text>
-
-<text> 
-火の干し肝 </text>
-
-<text> 
-火炎壷</text>
-
-
-
-<text> 
-ボーンナイフ</text>
-
-<text> 
-血の苔薬</text>
-
-
-<text> 
-鳥脚の黄金漬け</text>
-
-
-<text> 
- 毒の苔薬</text>
-
-
-<text> 
-勇者の肉塊</text>
-
-
-<text> 
-睡眠壷 </text>
-
-
-<text> 
-竜の心臓</text>
-
-
-<text> 
-スローイングダガー</text>
-
-<text> 
-遺跡石</text>
-
-<text> 
-鍛石の欠片</text>
-
-<text> 
-武具職人の製法書</text>
-
-
-<text> 
-ファリスの製法書</text>
-
-<text> 
- 宣教師の製法書</text>
-
-<text> 
-逃亡戦士の製法書 </text>
-
-<text> 
- 根脂</text>
-
-<text> 
-血の薔薇</text>
-
-<text> 
-アルテリアの葉</text>
-
-<text> 
- そぎ肉</text>
-
-<text> 
- 獣肝</text>
-
-<text> 
-獣肉の塊 </text>
-
-<text> 
-燻り蝶 </text>
-
-<text> 
-毒花 </text>
-
-<text> 
-洞窟苔 </text>
-
-<text> 
-</text>
-
-<text> 
-亀の首肉</text>
-
-<text> 
-</text>
-
-
-<text> 
-</text>
-
-<text> 
- </text>
-
-<text> 
- </text>
-
-<text> 
-色褪せた金輪草</text>
-
-<text> 
-</text>
-
-
-<text> 
-</text>
-
-
-<text> 
-大トンボの頭</text>
-
-
-<text> 
-ヘルパ</text>
-
-
-<text> 
-</text>
-
-
-<text> 
-トリーナのスイレン </text>
-
-
-<text> 
-ロアの実 </text>
-
-
-<text> 
-細い獣骨 </text>
-
-<text> 
-四指の鳥脚 </text>
-
-<text> 
-風切羽</text>
-
-<text> 
-紐 </text>
-
-<text> 
-ヒビ壺 </text>
-
-
-<text> 
- </text>
-
-<text> 
-落葉花 </text>
-
-
-<text> 
-破裂した結晶雫 </text>
-
-<text> 
-青色の結晶雫</text>
-
-<text> 
-緋色の結晶雫</text>
-
-<text> 
-青色の結晶雫 </text>
-
-
-
-<text> 
-骨の火矢</text>
-
-
-<text> 
-骨の火矢(羽付き)</text>
-
-<text> 
-骨の矢</text>
-
-<text> 
-骨の矢(羽付き) </text>
-
-
-<text> 
-矢 </text>
+<text>Crafting Kit</text>
+<text>Map (Limgrave, West)</text>
+<text>Rusty Key</text>
+<text>Telescope</text>
+<text>Spectral Steed Whistle</text>
+<text>Torch</text>
+<text>Blue Cipher Ring</text>
+<text>White Cipher Ring</text>
+<text>Furlcalling Finger Remedy</text>
+<text>Finger Severer</text>
+<text>Tarnished's Furled Finger</text>
+<text>Duelist's Furled Finger</text>
+<text>Tarnished's Wizened Finger</text>
+<text>Bloody Finger</text>
+<text>Taunter's Tongue</text>
+<text>Vision of Grace</text>
+<text>Small Golden Effigy</text>
+<text>Small Red Effigy</text>
+<text>Flask of Crimson Tears</text>
+<text>Flask of Cerulean Tears</text>
+<text>Fringefolk's Rune</text>
+<text>Holy Water Pot</text>
+<text>Scriptstone</text>
+<text>Rainbow Stone</text>
+<text>Rowa Raisin</text>
+<text>Roped Fire Pot</text>
+<text>Glowstone</text>
+<text>Flask of Wondrous Physick</text>
+<text>Pauper's Rune</text>
+<text>CURED IMMUNIZING MEAT</text>
+<text>Heavy Meteorite Fragment</text>
+<text>Pickled Turtle Neck</text>
+<text>Fire Grease</text>
+<text>Fireproof Dried Liver</text>
+<text>Fire Pot</text>
+<text>Bone Knife</text>
+<text>Staunching Boluses</text>
+<text>Gold-Pickled Fowl Foot</text>
+<text>Neutralizing Boluses</text>
+<text>Exalted Flesh</text>
+<text>Sleep Pot</text>
+<text>Dragon Heart</text>
+<text>Throwing Dagger</text>
+<text>Ruin Fragment</text>
+<text>Smithing Stone Shard</text>
+<text>Armorer's Cookbook</text>
+<text>Fevor's Cookbook</text>
+<text>Missionary's Cookbook</text>
+<text>Deserter's Cookbook</text>
+<text>Root Resin</text>
+<text>Bloodrose</text>
+<text>Arteria Leaf</text>
+<text>Sliver of Meat</text>
+<text>Beast Liver</text>
+<text>Lump of Flesh</text>
+<text>Smouldering Butterfly</text>
+<text>Poisonbloom</text>
+<text>Cave Moss</text>
+<text>Silver Firefly</text>
+<text>Turtle Neck Meat</text>
+<text>Land Octopus Ovary</text>
+<text>Strip of White Flesh</text>
+<text>Mushroom</text>
+<text>Gold-Tinged Excrement</text>
+<text>Tarnished Blossom</text>
+<text>Fulgurbloom</text>
+<text>Crab Eggs</text>
+<text>Great Dragonfly Head</text>
+<text>Herba</text>
+<text>Moon Egg</text>
+<text>Trina's Lily</text>
+<text>Rowa Fruit</text>
+<text>Thin Animal Bones</text>
+<text>Four-Toed Fowl Foot</text>
+<text>Flight Pinion</text>
+<text>String</text>
+<text>Cracked Pot</text>
+<text>Glintstone Scrap</text>
+<text>Erdleaf Flower</text>
+<text>Ruptured Crystal Tear</text>
+<text>GREENSPILL CRYSTAL TEAR</text>
+<text>CRIMSON CRYSTAL TEAR</text>
+<text>Cerulean Crystal Tear</text>
+<text>Firebone Arrow</text>
+<text>Firebone Arrow (Fletched)</text>
+<text>Bone Arrow</text>
+<text>Bone Arrow (Fletched)</text>
+<text>Poisonbone Arrow</text>
+<text>Poisonbone Arrow (Fletched)</text>
+<text>Arrow</text>
+<text>Trina's Arrow</text>
+<text>Sleepbone Arrow（Fletched）</text>
 
 </entries>
-
-
-
-
