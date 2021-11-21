@@ -13,6 +13,7 @@
 * 敌人伤害属性信息
 * 敌人物品掉落信息
 
+部分内容未完工，目前只有第一行的文本能看
 >不支持IE核心，建议使用Edge运行（若下载到本地请添加运行参数 --profile-directory=Default）。
 
 [在线快捷链接](https://fengmowei.github.io/Elden-Ring-Document/)
