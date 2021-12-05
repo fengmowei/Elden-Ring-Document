@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <entries>
 
-
 <text>Leather bag containing a pestle and mortar, small blade, and various other tools.
 	Enables item crafting from the main menu.
 Provides both means to fight and means to survive.</text>
@@ -20,8 +19,7 @@ The fate once writ in the night skies had been fettered by the Gold
 	Sound the whistle to summon and ride spectral steed.
 	(Dismounts steed when used while on horseback.)
 Upon death, the spectral steed can be summoned again, but doing so consumes the Flask of Crimson Tears.</text>
-<text>This torch's tip is wrapped in oil-soaked rags and set on fire. The flame can illuminate dark locales, or used to attack enemies.
-Can be raised up when equipped in the left hand, illuminating more of the surrounding area.</text>
+<text>暂缺</text>
 <text>Item for online play.
 	(Can also be used from the Multiplayer menu.)
 	Puts the wearer in ready state to answer should someone in another world call for rescue.
@@ -353,7 +351,6 @@ Craftable item.</text>
 	The tip is daubed with venom.Afflicts targets with poison.
 	Craftable item.
 The addition of fletching enables more precise shots that can travel farther.</text>
-<text>暂无</text>
 <text>Arrow carved to resemble a withered water lily.
 	Afflicts targets with a powerful soporific effect.
 
