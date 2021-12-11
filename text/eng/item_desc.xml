@@ -1,369 +1,733 @@
 <?xml version="1.0" encoding="utf-8"?>
 <entries>
 
-<text>Leather bag containing a pestle and mortar, small blade, and various other tools.
-	Enables item crafting from the main menu.
+<text>
+Leather bag containing a pestle and mortar, 
+small blade, and various other tools.
+Enables item crafting from the main menu.
 Provides both means to fight and means to survive.</text>
-<text>Map of the western region of Limgrave.
-The demense of Limgrave, far south of the Erdtree, is bordered to the northwest by the cliffs of Stormveil, and under its ever-clouded skies roll the great steppes of the pale lands.</text>
-<text>A key to a lock inside Stormveil Castle.
+
+<text>
+Map of the western region of Limgrave.
+The demense of Limgrave, far south of the Erdtree,
+is bordered to the northwest by the cliffs 
+of Stormveil, and under its ever-clouded skies 
+roll the great steppes of the pale lands.</text>
+
+<text>
+A key to a lock inside Stormveil Castle.
 Opens a locked door.</text>
-<text>Astrology tool used by members of the Carian royal family. Part of a larger instrument, removed and stolen away.
 
+<text>
+Astrology tool used by members of the Carian 
+royal family. Part of a larger instrument, 
+removed and stolen away.
 Allows the viewer to better see faraway things.
+During the age of the Erdtree, Carian 
+astrology withered on the vine.
+The fate once writ in the night skies had 
+been fettered by the Golden Order.</text>
 
-During the age of the Erdtree, Carian astrology withered on the vine.
-The fate once writ in the night skies had been fettered by the Golden Order.</text>
-<text>A delicate goldwork ring.
-	Can be used as a finger whistle.
-	Sound the whistle to summon and ride spectral steed.
-	(Dismounts steed when used while on horseback.)
-Upon death, the spectral steed can be summoned again, but doing so consumes the Flask of Crimson Tears.</text>
-<text>暂缺</text>
-<text>Item for online play.
-	(Can also be used from the Multiplayer menu.)
-	Puts the wearer in ready state to answer should someone in another world call for rescue.
-	You will be summoned to their world as a hunter.
-When summoned to rescue another player, your objective will be to defeat the invader.</text>
-<text>Item for online play.
-	(Can also be used from the Multiplayer menu.)
-	Allows you to automatically request for a hunter from another world to come to your rescue when your world is invaded.
-	(You may be unable to summon rescuers under certain circumstances).
-	A lost mystic code, enchanted to take the form of a ring.
-One of the fetishes said to have been bestowed by the Two Fingers.</text>
-<text>Item for online play.
-	(Can also be used from the Multiplayer menu.)
-	Craftable item.
-	Reveals cooperative and competitive multiplayer signs.
-	Cooperative signs will be shown in gold, while competitive signs will be shown in red.
-Multiplayer begins when you summon a player from another world through their sign.</text>
-<text>Item for online play.
-	(Can also be used from the Multiplayer menu.)
-	Use as a Host of Fingers to select a summoned player and send them back to their world.
-	Use when you have been summoned to another player's world to return to your own world.
-This stone blade severs the link formed by a Furled Finger, but the maidens scorn those who revel in overuse.</text>
-<text>Item for online play.
-	(Can also be used from the Multiplayer menu.)
-	Creates a summon sign for cooperative multiplayer.
-	Your objective will be to defeat the area boss of the world to which you were summoned.
-	A finger of corpse wax, furled like a hook.
-It is a relic of those who came before, left to help those who would come after.</text>
-<text>Item for online play.
+<text>
+A delicate goldwork ring.
+Can be used as a finger whistle.
+Sound the whistle to summon 
+and ride spectral steed.
+(Dismounts steed when used while on horseback.)
+Upon death, the spectral steed can be summoned 
+again, but doing so consumes the Flask 
+of Crimson Tears.</text>
+
+<text>
+暂缺</text>
+
+<text>
+Item for online play.
+(Can also be used from the Multiplayer menu.)
+Puts the wearer in ready state to answer should 
+someone in another world call for rescue.
+You will be summoned to their world as a hunter.
+When summoned to rescue another player, your 
+objective will be to defeat the invader.</text>
+
+<text>
+Item for online play.
+(Can also be used from the Multiplayer menu.)
+Allows you to automatically request for a 
+hunter from another world to come to your 
+rescue when your world is invaded.
+(You may be unable to summon rescuers 
+under certain circumstances).
+A lost mystic code, enchanted to take 
+the form of a ring.
+One of the fetishes said to have been 
+bestowed by the Two Fingers.</text>
+
+<text>
+Item for online play.
+(Can also be used from the Multiplayer menu.)
+Craftable item.
+Reveals cooperative and competitive
+multiplayer signs.
+Cooperative signs will be shown in gold, 
+while competitive signs will be shown in red.
+Multiplayer begins when you summon a player 
+from another world through their sign.</text>
+
+<text>
+Item for online play.
+(Can also be used from the Multiplayer menu.)
+Use as a Host of Fingers to select a summoned 
+player and send them back to their world.
+Use when you have been summoned to another 
+player's world to return to your own world.
+This stone blade severs the link formed by 
+a Furled Finger, but the maidens scorn 
+those who revel in overuse.</text>
+
+<text>
+Item for online play.
+(Can also be used from the Multiplayer menu.)
+Creates a summon sign for cooperative multiplayer.
+Your objective will be to defeat the area boss of 
+the world to which you were summoned.
+A finger of corpse wax, furled like a hook.
+It is a relic of those who came before, left 
+to help those who would come after.</text>
+
+<text>
+Item for online play.
 (Can also be used from the Multiplayer menu.)
 Creates a summon sign for competitive multiplayer.
-Your objective will be to defeat the Host of Fingers of the world to which you were summoned.
+Your objective will be to defeat the Host of 
+Fingers of the world to which you were summoned.
 A finger of corpse wax, furled like a hook.
 The bronze adornments are the mark of a duelist.</text>
-<text>Item for online play.
-	(Can also be used from the Messages menu.)
-	Use to write messages.
-	Your messages will be conveyed to other worlds, allowing other players to read them.
-	A finger of corpse wax, so emaciated the bone is visible.
-	It is a relic of those who came before, left to help those who would come after.</text>
-<text>Item for online play.
-	(Can also be used from the Multiplayer menu.)
-	Attempts an invasion of another player's world.
-	If successful, your objective will be to defeat the Host of Fingers of the world to which you were summoned.
-	The nail of this finger is shot through with streaks of fresh, glistening blood.
-The finger's sickly pale skin feels nothing now, but the nail still aches with sweetest pain.</text>
-<text>Item for online play.
-	(Can also be used from the Multiplayer menu.)
-	Lures in invaders.
-	This allows your world to be invaded without any Furled Finger cooperators present, and it also shortens the interval between windows of opportunity for invasion.
-	Additionally, enables the arrival of a second invader.
-(When two invaders are present, you will be limited to one cooperator.)</text>
-<text>A phantom vision of the first grace, which once guided the Tarnished to the Lands Between.
-	Lose all runes and return to last site of grace at which you rested.
-It all repeats. Be seen by the Elden Ring.Become the Elden Lord.</text>
-<text>Online multiplayer item. 
-Sends a summon sign for cooperative multiplayer to a nearby summoning pool.
-In cooperative multiplayer, you will be summoned to another world to help defeat the area boss.</text>
-<text>Item for online play. 
-Sends a competitive sign to a nearby summoning pool.
-In competitive multiplayer, your objective will be to defeat the Host of Fingers of the world to which you were summoned.</text>
-<text>A sacred flask modelled after a golden holy chalice that was once graced by a tear of life.
-	Filled with crimson tears, this flask restores HP with use.
-	Rest at a site of grace to replenish.
-It is said that a Finger Maiden will bestow two such chalices upon the chosen Tarnished when they meet.</text>
-<text>A sacred flask modelled after a golden holy chalice that was once graced by a tear of life.
-	Filled with cerulean tears, this flask restores FP with use.
-	Rest at a site of grace to replenish.
-It is said that a Finger Maiden will bestow two such chalices upon the chosen Tarnished when they meet.</text>
-<text>Grace that dwells within the inhabitants of The Lands Between; the lingering residue of gold.
-	Use to gain runes.
-Even now, runes are still imbued with the power of gold. Do you see the Erdtree towering o'er?</text>
-<text>Craftable item prepared using a cracked pot.
-	Incantations of the Golden Order have been sealed inside.
-	Consumes FP.
-	Throw at enemy to inflict holy damage.
-	Holy water causes significant damage to those who have lived beyond death, and prevents them from rising again.
-The Golden Order has no mercy for those who trespass beyond life's bounds.</text>
-<text>Ruin fragment inscribed with letters.
+
+<text>
+Item for online play.
+(Can also be used from the Messages menu.)
+Use to write messages.
+Your messages will be conveyed to other worlds, 
+allowing other players to read them.
+A finger of corpse wax, so emaciated 
+the bone is visible.
+It is a relic of those who came before, 
+left to help those who would come after.</text>
+
+<text>
+Item for online play.
+(Can also be used from the Multiplayer menu.)
+Attempts an invasion of another player's world.
+If successful, your objective will be to defeat 
+the Host of Fingers of the world to which 
+you were summoned.
+The nail of this finger is shot through 
+with streaks of fresh, glistening blood.
+The finger's sickly pale skin feels 
+nothing now, but the nail still aches 
+with sweetest pain.</text>
+
+<text>
+Item for online play.
+(Can also be used from the Multiplayer menu.)
+Lures in invaders.
+This allows your world to be invaded without 
+any Furled Finger cooperators present, 
+and it also shortens the interval 
+between windows of opportunity for invasion.
+Additionally, enables the arrival 
+of a second invader.
+(When two invaders are present, 
+you will be limited to one cooperator.)</text>
+
+<text>
+A phantom vision of the first grace, 
+which once guided the Tarnished 
+to the Lands Between.
+Lose all runes and return to last 
+site of grace at which you rested.
+It all repeats. Be seen by the 
+Elden Ring.Become the Elden Lord.</text>
+
+<text>
+Online multiplayer item. 
+Sends a summon sign for cooperative 
+multiplayer to a nearby summoning pool.
+In cooperative multiplayer, you will be 
+summoned to another world to help defeat 
+the area boss.</text>
+
+<text>
+Item for online play. 
+Sends a competitive sign to 
+a nearby summoning pool.
+In competitive multiplayer, 
+your objective will be to defeat 
+the Host of Fingers of the world 
+to which you were summoned.</text>
+
+<text>
+A sacred flask modelled after a golden holy 
+chalice that was once graced by a tear of life.
+Filled with crimson tears, this 
+flask restores HP with use.
+Rest at a site of grace to replenish.
+It is said that a Finger Maiden will 
+bestow two such chalices upon the chosen 
+Tarnished when they meet.</text>
+
+<text>
+A sacred flask modelled after a golden holy 
+chalice that was once graced by a tear of life.
+Filled with cerulean tears, this 
+flask restores FP with use.
+Rest at a site of grace to replenish.
+It is said that a Finger Maiden will 
+bestow two such chalices upon the chosen 
+Tarnished when they meet.</text>
+
+<text>
+Grace that dwells within the inhabitants of 
+The Lands Between; the lingering residue of gold.
+Use to gain runes.
+Even now, runes are still imbued with the 
+power of gold. Do you see the 
+Erdtree towering o'er?</text>
+
+<text>
+Craftable item prepared using a cracked pot.
+Incantations of the Golden Order 
+have been sealed inside.
+Consumes FP.
+Throw at enemy to inflict holy damage.
+Holy water causes significant damage to 
+those who have lived beyond death, and 
+prevents them from rising again.
+The Golden Order has no mercy for those 
+who trespass beyond life's bounds.</text>
+
+<text>
+Ruin fragment inscribed with letters.
 Craftable item.
 Reveals additional messages from other worlds.
-Words are gregarious things, drawn to one another much as people are.</text>
-<text>Stone ruin fragment that has undergone some simple processing.
+Words are gregarious things, drawn to 
+one another much as people are.</text>
+
+<text>
+Stone ruin fragment that has 
+undergone some simple processing.
 Craftable item.
-	Stones such as these shine with the colors of the rainbow, making them useful markers when placed on the ground.
-	Can also be dropped to gauge the distance of a fall.
-	The more high-pitched the sound it makes, the more likely it is that the fall will be fatal.
-Once used to entertain children in the Lands Between.</text>
-<text>Preparation of dried rowa fruit.
-	Craftable Item.
-	Feed to spectral steed while rideng to restore its HP.
-Rowa a fruit mildly poisonous and toxic to humans, but Torrent seems to have taste for it.</text>
-<text>Craftable item prepared using a cracked pot.
-	Incendiary materials have been mixed together and sealed inside, and a short rope that aids throwing has been secured around the pot.
-Throw at rearward enemies using the rope, causing the pot to explode and deal fire damage.</text>
-<text>Polished stone ruin fragment that shines brighter than a rainbow stone.
-	Craftable item.
-	Emits light from the location it is placed, illuminating surroundings.
-	However, the effect is short-lived, and it lacks the diverse colors of rainbow stones.
-May serve some benefit in dark places, or at night.</text>
-<text>A relic of the physick chemists, priests of the Erdtree.
-Harnesses the powers of crystal tears, which only form after the passage of many moons.
-	Various specials effects are bestowed upon the drinker, dependent on the specific mixture of crystal tears.
-	Rest at a site of grace to replenish.
-It is said that in the Lands Between, pools of crystal tears amass at the bases of Minor Erdtrees.</text>
-<text>Grace that dwells within the inhabitants of The Lands 		Between; the lingering residue of gold.
-	Use to gain a few runes.
-	For all that they may be feeble things, these runes will act as nourishment for the development of any Tarnished.
+Stones such as these shine with the colors 
+of the rainbow, making them useful 
+markers when placed on the ground.
+Can also be dropped to gauge 
+the distance of a fall.
+The more high-pitched the sound it makes, 
+the more likely it is that the 
+fall will be fatal.
+Once used to entertain children 
+in the Lands Between.</text>
+
+<text>
+Preparation of dried rowa fruit.
+Craftable Item.
+Feed to spectral steed while 
+rideng to restore its HP.
+Rowa a fruit mildly poisonous and toxic 
+to humans, but Torrent seems to 
+have taste for it.</text>
+
+<text>
+Craftable item prepared using a cracked pot.
+Incendiary materials have been mixed together 
+and sealed inside, and a short rope that aids 
+throwing has been secured around the pot.
+Throw at rearward enemies using the rope, 
+causing the pot to explode and deal fire damage.</text>
+
+<text>
+Polished stone ruin fragment that shines 
+brighter than a rainbow stone.
+Craftable item.
+Emits light from the location it is placed, 
+illuminating surroundings.
+However, the effect is short-lived, and it 
+lacks the diverse colors of rainbow stones.
+May serve some benefit in dark places, 
+or at night.</text>
+
+<text>
+A relic of the physick chemists, 
+priests of the Erdtree.
+Harnesses the powers of crystal tears,
+which only form after the passage of many moons.
+Various specials effects are bestowed upon 
+the drinker, dependent on the specific 
+mixture of crystal tears.
+Rest at a site of grace to replenish.
+It is said that in the Lands Between,
+pools of crystal tears amass at the 
+bases of Minor Erdtrees.</text>
+
+<text>
+Grace that dwells within the inhabitants 
+of The Lands Between; the lingering 
+residue of gold.
+Use to gain a few runes.
+For all that they may be feeble things, 
+these runes will act as nourishment for 
+the development of any Tarnished.
 Provided a Finger Maiden can be found...</text>
-<text>Cured strip of meat, dried out after pickling in a green medicinal solution.
-	Craftable item.
-	Boosts immunity for a short time.
-	Immunity governs resistance to various poisons and blights.
-The higher it is, the lower the chance of succumbing to such ailments.</text>
-<text>Shard of rock found in the wake of a meteorite strike.
-It is imbued with a particularly weighty magic.
-	Consumes FP.
-	Throw at the ground to create a gravitational shockwave.
-The desperate ones who scavenge for these shards dub themselves "starcallers".</text>
-<text>Turtle neck meat, pickled in a bitter medicinal solution.
-	Craftable item.
-	Boosts stamina recovery for a short time.
-The nutrients churn through the body, practically boiling out heat from the core.</text>
-<text>Solidified grease made from a mixture of incendiary materials.
-	Craftable item.
-	A smallish lump with a short string attached.
-	Quickly coats armament, inflicting fire damage.
-However, the effects are only brief.</text>
-<text>Cured animal liver, dried out after pickling in a flame-hued medical solution.
-	Craftable item.
-Boosts fire damage negation for a short time, improving damage mitigation against attacks imbued with fire.</text>
-<text>Craftable item prepared using a cracked pot.
-	 A mixture of incendiary materials has been sealed inside.
-Throw at an enemy to cause the pot to explode, inflicting fire damage.</text>
-<text>Animal bone sharpened into a knife for throwing.
-	Craftable item.
-	Throw at enemy to deal damage.
-First came into use among the hunters who lay low in the wilds.</text>
-<text>Red boluses made from cave moss.
-	Craftable item.
-	Relieves impending hemorrhage.
-	A hemorrhage builds up slowly, causing great damage once the threshold is reached.
-Take one of these in timely fashion to avoid such an event.</text>
-<text>Four-toed bird foot, pickled in a golden medicinal solution.
+
+<text>
+Cured strip of meat, dried out after pickling 
+in a green medicinal solution.
 Craftable item.
-	Boosts the amount of runes obtained from defeating enemies for a short time.
-A macabre item, evidence of the desperate ends that those who crave riches will go to.</text>
-<text>Boluses made from green cave moss.
-	Craftable item.
-	Cures poison ailment and relieves poison build-up.
-	Poison accumulates gradually, coming into effect once the threshold is reached.
-Poison ailment lowers HP in steady increments for a period.</text>
-<text>A lump of beast flesh pickled in a medicinal solution mixed with fiery spices.
-	Craftable item.
-	Boosts physical attack for a short time.
-Considered a delicacy in the badlands, this invigorating repast was for the exclusive benefit of those who they called heroes.</text>
-<text>Craftable item prepared using a cracked pot.
+Boosts immunity for a short time.
+Immunity governs resistance to 
+various poisons and blights.
+The higher it is, the lower the 
+chance of succumbing to such ailments.</text>
+
+<text>
+Shard of rock found in the wake 
+of a meteorite strike.
+It is imbued with a particularly weighty magic.
+Consumes FP.
+Throw at the ground to create 
+a gravitational shockwave.
+The desperate ones who scavenge for these 
+shards dub themselves "starcallers".</text>
+
+<text>
+Turtle neck meat, pickled in a 
+bitter medicinal solution.
+Craftable item.
+Boosts stamina recovery for a short time.
+The nutrients churn through the body, 
+practically boiling out heat from the core.</text>
+
+<text>
+Solidified grease made from a mixture 
+of incendiary materials.
+Craftable item.
+A smallish lump with a short string attached.
+Quickly coats armament, inflicting fire damage.
+However, the effects are only brief.</text>
+
+<text>
+Cured animal liver, dried out after 
+pickling in a flame-hued medical solution.
+Craftable item.
+Boosts fire damage negation for a short time,
+improving damage mitigation against 
+attacks imbued with fire.</text>
+
+<text>
+Craftable item prepared using a cracked pot.
+A mixture of incendiary materials 
+has been sealed inside.
+Throw at an enemy to cause the pot to explode, 
+inflicting fire damage.</text>
+
+<text>
+Animal bone sharpened into a knife for throwing.
+Craftable item.
+Throw at enemy to deal damage.
+First came into use among the hunters 
+who lay low in the wilds.</text>
+
+<text>
+Red boluses made from cave moss.
+Craftable item.
+Relieves impending hemorrhage.
+A hemorrhage builds up slowly, causing 
+great damage once the threshold is reached.
+Take one of these in timely fashion 
+to avoid such an event.</text>
+
+<text>
+Four-toed bird foot, pickled 
+in a golden medicinal solution.
+Craftable item.
+Boosts the amount of runes obtained 
+from defeating enemies for a short time.
+A macabre item, evidence of the desperate 
+ends that those who crave riches will go to.</text>
+
+<text>
+Boluses made from green cave moss.
+Craftable item.Cures poison 
+ailment and relieves poison build-up.
+Poison accumulates gradually, coming 
+into effect once the threshold is reached.
+Poison ailment lowers HP in steady 
+increments for a period.</text>
+
+<text>
+A lump of beast flesh pickled in a 
+medicinal solution mixed with fiery spices.
+Craftable item.
+Boosts physical attack for a short time.
+Considered a delicacy in the badlands, 
+this invigorating repast was for the 
+exclusive benefit of those who they called heroes.</text>
+
+<text>
+Craftable item prepared using a cracked pot.
 Filled with the incantations of St. Trina.
 Consumes FP.
-Throw at enemy to release a purple, soporific haze.
-Like a lullaby, or a quagmire, it irresistibly draws its victims down into sleep. Sweet dreams.</text>
-<text>Dragon heart seized by a dragon tracker. It has a bizarre shape, mottled by gravel, and it continues to beat vivaciously.
-An offering used in the Dragon Communion.
-	Consume a dragon's heart at the altar to make its power yours.
-While a terrible and savage-looking thing, the heart has a peculiar beauty to it.</text>
-<text>Short dagger for throwing.
-	It has no handguard.
-	The blade is polished, and its weight is expertly balanced.
-	Throw at enemy to deal damage.
-An auxiliary weapon used primarily to constrain an enemy's movements, it can still be deadly in the right hands.</text>
-<text>Stone fragment found near places where ruins have fallen from the sky. 
-Can be used for crafting, or simply for throwing at enemies. 
-These shards of stone are believed to have once been part of a temple in the sky. 
-They glow with a faint light from within.</text>
-<text>Stone shard used in a wide range of smithing processes.
-	Exceptionally common, it is found throughout the Lands Between
-	Used in smithing to strengthen armaments
-Smithing stone is distributed widely throughout the terrain of the Lands Between, and mining galleries built to excavate it can be found all over.</text>
-<text>Record of crafting techniques left by an armorer who served the great general Radahn.
-Contains knowledge of dealing with decay; the application of fire in particular.</text>
-<text>Record of crafting techniques left by a man who was denied the path of becoming a Finger Maiden.
-He instead became a missionary, spreading holy teachings.(有误)</text>
-<text>Record of crafting techniques left by a man who was denied the path of becoming a Finger Maiden.
-He instead became a missionary, spreading holy teachings.</text>
-<text>A fugitive deserter's record of crafting techniques.
-Contains knowledge for surviving in the face of utter scarcity.</text>
-<text>Resin secreted from the roots of the Great tree.
-	Material used in crafting items.
-	The roots of the Great tree drive far and wide through the earth of the Lands Between.
+Throw at enemy to release a purple, 
+soporific haze.
+Like a lullaby, or a quagmire, it irresistibly
+draws its victims down into sleep. Sweet dreams.</text>
 
-They were once entwined with the roots of the Erdtree, or so they say.</text>
-<text>Blood-slick roses that bloom in festering blood.
-	Material used for crafting items.
-	Particularly beloved by those who serve the Lord of Blood.
+<text>
+Dragon heart seized by a dragon tracker. 
+It has a bizarre shape, mottled by gravel,
+and it continues to beat vivaciously.
+An offering used in the Dragon Communion.
+Consume a dragon's heart at the altar 
+to make its power yours.
+While a terrible and savage-looking thing, 
+the heart has a peculiar beauty to it.</text>
+
+<text>
+Short dagger for throwing.
+It has no handguard.
+The blade is polished, and its weight
+is expertly balanced.
+Throw at enemy to deal damage.
+An auxiliary weapon used primarily to 
+constrain an enemy's movements, it can 
+still be deadly in the right hands.</text>
+
+<text>
+Stone fragment found near places where 
+ruins have fallen from the sky. 
+Can be used for crafting, or simply 
+for throwing at enemies. 
+These shards of stone are believed to 
+have once been part of a temple in the sky. 
+They glow with a faint light from within.</text>
+
+<text>
+Stone shard used in a wide range 
+of smithing processes.
+Exceptionally common, it is found 
+throughout the Lands Between
+Used in smithing to strengthen armaments
+Smithing stone is distributed widely throughout 
+the terrain of the Lands Between, 
+and mining galleries built to excavate 
+it can be found all over.</text>
+
+<text>
+Record of crafting techniques left by 
+an armorer who served the great general Radahn.
+Contains knowledge of dealing with decay; 
+the application of fire in particular.</text>
+
+<text>
+暂缺</text>
+
+<text>
+Record of crafting techniques left by 
+a man who was denied the path of 
+becoming a Finger Maiden.
+He instead became a missionary, 
+spreading holy teachings.</text>
+
+<text>
+A fugitive deserter's record of crafting techniques.
+Contains knowledge for surviving in 
+the face of utter scarcity.</text>
+
+<text>
+Resin secreted from the roots of the Great tree.
+Material used in crafting items.
+The roots of the Great tree drive far 
+and wide through the earth of the Lands Between.
+They were once entwined with the roots 
+of the Erdtree, or so they say.</text>
+
+<text>
+Blood-slick roses that bloom in festering blood.
+Material used for crafting items.
+Particularly beloved by those 
+who serve the Lord of Blood.
 Glory to his inevitable reign.</text>
-<text>Dark red leaves with thick, swollen veins.
-	Material used for crafting items.
-	Exceedingly rare to find.
-	A faint pulse can be felt in the veins.
+
+<text>
+Dark red leaves with thick, swollen veins.
+Material used for crafting items.
+Exceedingly rare to find.
+A faint pulse can be felt in the veins.
 Stirs the blood, providing an enlivening effect.</text>
-<text>A slice of thinly carved beast flesh.
-	Material used for crating items.
-	Found by hunting herbivorous beast.
+
+<text>
+A slice of thinly carved beast flesh.
+Material used for crating items.
+Found by hunting herbivorous beast.
 The dried meat toughens the constitution.</text>
-<text>The fresh liver of a beast; a luscious fruit of life.
+
+<text>
+The fresh liver of a beast; 
+a luscious fruit of life.
 Material used for crating items.
 Found by hunting herbivorous beast.
 Dried liver boost damage negation.</text>
-<text>A lump of beast flesh filled with rich juices.
+
+<text>
+A lump of beast flesh filled with rich juices.
 Material used for crafting items.
 Found by hunting carnivorous beast.
- 	Meat suitable for a rustic feast.</text>
-<text>An eternally burning butterfly found near wildfires and elsewhere.
+Meat suitable for a rustic feast.</text>
+
+<text>
+An eternally burning butterfly 
+found near wildfires and elsewhere.
 Material used for crafting items.
 Serves as the kindling for a number of items.</text>
-<text>Flower that grows in toxic terrain.
-	Material used for crafting items.
+
+<text>
+Flower that grows in toxic terrain.
+Material used for crafting items.
 Poisonous, but may also provide the cure.</text>
-<text>Faintly luminescent moss that grows in dark caves.
+
+<text>
+Faintly luminescent moss that grows in dark caves.
 Material used in crafting items.</text>
-<text>Firefly that gives off a silvery light. Material used in crafting items.
-	Found near bodies of cold water untouched by sunlight.
-	The light of fireflies is believed to have an alluring magic.
+
+<text>
+Firefly that gives off a silvery light.
+Material used in crafting items.
+Found near bodies of cold water 
+untouched by sunlight.
+The light of fireflies is believed 
+to have an alluring magic.
 Silver light is considered to invite riches.</text>
-<text>A splendid, lengthy cut of turtle neck meat.
+
+<text>
+A splendid, lengthy cut of turtle neck meat.
 Material used for crafting items.
-Turtle meat is said to boost virility, but none in the Lands Between seem to have much appetite for it these days.
-In Lands Between, the urge to reproduce has waned long ago.</text>
-<text>Puffy, milky white ovary of a land octopus.
+Turtle meat is said to boost virility, 
+but none in the Lands Between seem to have 
+much appetite for it these days.
+In Lands Between, the urge to reproduce 
+has waned long ago.</text>
+
+<text>
+Puffy, milky white ovary of a land octopus.
 Material used for crafting items.
-Land octopuses eat humans in order to bear young, and theirs is the 	blood that runs through these ovaries.</text>
-<text>Thin strips of flesh taken from a bloodless creature.
+Land octopuses eat humans in order 
+to bear young, and theirs is the
+blood that runs through these ovaries.</text>
+
+<text>
+Thin strips of flesh taken from 
+a bloodless creature.
 Material used for crafting items.
 The dried meat toughens the constitution.</text>
-<text>A fungal growth that thrives in damp thickets and elsewhere.
+
+<text>
+A fungal growth that thrives in damp 
+thickets and elsewhere.
 Material used for crafting items.
- Its thick, spongy flesh makes it a key component in throwing pots.</text>
-<text>Someone's excrement. It has a golden tinge. Material used for crafting items.
-	Often hidden in woods and thickets.
-	Gold-tinged excrement is a highly stable substance; it doesn't dry out, nor does it lose its customary warmth or scent.
+Its thick, spongy flesh makes it a 
+key component in throwing pots.</text>
+
+<text>
+Someone's excrement. It has a golden tinge. 
+Material used for crafting items.
+Often hidden in woods and thickets.
+Gold-tinged excrement is a highly stable substance; 
+it doesn't dry out, nor does it lose 
+its customary warmth or scent.
 For better or for worse, it remains as it is.</text>
-<text>A large flower that blooms facing the Erdtree.
-	Material used for crafting items.
-	Exceedingly rare to find.
-Though wilted and faded, it still retains holy essence.</text>
-<text>Yellow flower that grows in lightning-struck lands.
+
+<text>
+A large flower that blooms facing the Erdtree.
+Material used for crafting items.
+Exceedingly rare to find.
+Though wilted and faded, 
+it still retains holy essence.</text>
+
+<text>
+Yellow flower that grows in lightning-struck lands.
 Material used for crafting items.
 Imbued with traces of lightning's essence.</text>
-<text>Eggs of great crabs which dwell in the shallows.
-	Materials used for crafting items.
-	A nutritious foodstuff that warms from within.
+
+<text>
+Eggs of great crabs which dwell in the shallows.
+Materials used for crafting items.
+A nutritious foodstuff that warms from within.
 The flavor is exquisite.</text>
-<text>Head of a large dragonfly.
+
+<text>
+Head of a large dragonfly.
 Material used for crafting items.
-Long believed to have the ability to neutralize poisons.</text>
-<text>Evergreen leaves that give off a faith light.
-	Material used for crafting items.
-This very common medicinal plant can be found in thickets and elsewhere.</text>
-<text>Owl eggs that will never hatch.
-	Material used for crafting items.
+Long believed to have the ability 
+to neutralize poisons.</text>
+
+<text>
+Evergreen leaves that give off a faith light.
+Material used for crafting items.
+This very common medicinal plant can be 
+found in thickets and elsewhere.</text>
+
+<text>
+Owl eggs that will never hatch.
+Material used for crafting items.
 Prized as a symbol of the most sublime slumber.</text>
-<text>A pale purple water lily that is on the verge of wilting.
-	Material used for crafting items.
-	Exceedingly rare to find.
-	A symbol of faith in St. Trina.
+
+<text>
+A pale purple water lily that is on 
+the verge of wilting.
+Material used for crafting items.
+Exceedingly rare to find.
+A symbol of faith in St. Trina.
 Dulls the senses, preventing agitation.</text>
-<text>Berry-like red fruits that grow in shrubs.
-	Material used for crafting items.
-	Easily found everywhere in the Lands Betwee, it is primarily used in preserved foods.</text>
-<text>Thin, hard animal bones.
+
+<text>
+Berry-like red fruits that grow in shrubs.
+Material used for crafting items.
+Easily found everywhere in the Lands Betwee, 
+it is primarily used in preserved foods.</text>
+
+<text>
+Thin, hard animal bones.
 Material used for crafting items.
 Found by hunting beasts.
 Commonly used to make disposable weapons</text>
-<text>Foot of a four-toed fowl.
-	Material used for crafting items.
-	In the Lands Between, having three digits is seen as a bad omen.
-As such, the rarer four-toed fowl's is a gift of great luck indeed.</text>
-<text>Flight feather of a bird of prey.
+
+<text>
+Foot of a four-toed fowl.
+Material used for crafting items.
+In the Lands Between, having three 
+digits is seen as a bad omen.
+As such, the rarer four-toed fowl's 
+is a gift of great luck indeed.</text>
+
+<text>
+Flight feather of a bird of prey.
 Material used for crafting items.
 Commonly used for arrow fletchings.</text>
-<text>Boasting no special qualities, this is merely a goodly length of string. 
 
+<text>
+Boasting no special qualities, this is 
+merely a goodly length of string. 
 Material used for crafting items. 
-
 Often carried by demi-humans. 
-
 Used to make certain items easier to use.</text>
-<text>A remnant of bygone research into eternal life. 
 
+<text>
+A remnant of bygone research into eternal life.
 This empty pot somehow mends itself when broken. 
-Container required for crafting throwing items sealed in pots. 
+Container required for crafting 
+throwing items sealed in pots. 
+Sealed within, both materials and mysticism will
+demonstrate their effects when the pot is thrown.</text>
 
-Sealed within, both materials and mysticism will demonstrate their effects when the pot is thrown.</text>
-<text>Unremarkable glintstone, found along roadways everywhere.
-
+<text>
+Unremarkable glintstone, 
+found along roadways everywhere.
 Material used for crafting items.
+Though too impure to use as a permanent 
+catalyst for glintstone sorcery, 
+it's just about sufficient for crafting 
+disposable sorcerous items.</text>
 
-Though too impure to use as a permanent catalyst for glintstone sorcery, it's just about sufficient for crafting disposable sorcerous items.</text>
-<text>A dusky-yellow flower that has started to fade and wilt. Material used for crafting items.
-	Found throughout the Lands Between.
-Said to grow from the old fallen leaves of the Erdtree, these flowers serve as the base material for a number of sorcery techniques.</text>
-<text>A special crystallization formed within a tear of life over the course of many moons.
-	Causes concoction to explode when taken in mixed physick.
-	A dangerous form of crystal tear which possesses absolutely no medicinal qualities.
-A lesson said to be learned the hard way for some; faith can be a volatile matter, after all.</text>
-<text>A special crystallization formed over the course of many moons within a tear of life, a blessing of the Erdtree.
-	Can be mixed in a flask of wondrous physick.
-The resulting concoction temporarily raises max stamina.</text>
-<text>A special crystallization formed over the course of many moons within a tear of life, a blessing of the Erdtree.
-	Can be mixed in a flask of wondrous physick.
-The resulting concoction restores half of one's max HP.</text>
-<text>A special crystallization formed over the course of many moons within a tear of life, a blessing of the Erdtree.
-	Can be mixed in a flask of wondrous physick.
-The resulting concoction restores 20% of one's max FP.</text>
-<text>Arrow whittled from animal bones.
+<text>
+A dusky-yellow flower that has started to 
+fade and wilt. Material used for crafting items.
+Found throughout the Lands Between.
+Said to grow from the old fallen leaves of 
+the Erdtree, these flowers serve as the 
+base material for a number of sorcery techniques.</text>
+
+<text>
+A special crystallization formed within a 
+tear of life over the course of many moons.
+Causes concoction to explode when 
+taken in mixed physick.
+A dangerous form of crystal tear which 
+possesses absolutely no medicinal qualities.
+A lesson said to be learned the hard way for some; 
+faith can be a volatile matter, after all.</text>
+
+<text>
+A special crystallization formed over the 
+course of many moons within a tear of life, 
+a blessing of the Erdtree.
+Can be mixed in a flask of wondrous physick.
+The resulting concoction temporarily 
+raises max stamina.</text>
+
+<text>
+A special crystallization formed over the 
+course of many moons within a tear of life, 
+a blessing of the Erdtree.
+Can be mixed in a flask of wondrous physick.
+The resulting concoction restores half 
+of one's max HP.</text>
+
+<text>
+A special crystallization formed over the 
+course of many moons within a tear of life,
+a blessing of the Erdtree.
+Can be mixed in a flask of wondrous physick.
+The resulting concoction restores 
+20% of one's max FP.</text>
+
+<text>
+Arrow whittled from animal bones.
 The tip is set alight before firing.</text>
-<text>Arrow whittled from animal bones.
-	The tip is set alight before firing.
+
+<text>
+Arrow whittled from animal bones.
+The tip is set alight before firing.
 Deals fire damage to foes.</text>
-<text>Arrow whittled from thin animal bones.
-Though the arrowhead is sharp indeed, it doesn't fly particularly true.</text>
-<text>Arrow whittled from thin animal bones.
-The feather fletchings add distance and accuracy to the standard bone arrow.</text>
-<text>Arrow whittled from animal bones.
-	The tip is daubed with venom.
-	Afflicts targets with poison.
+
+<text>
+Arrow whittled from thin animal bones.
+Though the arrowhead is sharp indeed, 
+it doesn't fly particularly true.</text>
+
+<text>
+Arrow whittled from thin animal bones.
+The feather fletchings add distance 
+and accuracy to the standard bone arrow.</text>
+
+<text>
+Arrow whittled from animal bones.
+The tip is daubed with venom.
+Afflicts targets with poison.
 Craftable item.</text>
-<text>Arrow whittled from animal bones.
-	The tip is daubed with venom.Afflicts targets with poison.
-	Craftable item.
-The addition of fletching enables more precise shots that can travel farther.</text>
-<text>Arrow carved to resemble a withered water lily.
-	Afflicts targets with a powerful soporific effect.
 
-	Once served an exclusively ritual use by the priests of St. Trina.
-The peace of deepest slumber can be so very hard to resist.</text>
-<text>Arrow whittled from animal bones.
+<text>
+Arrow whittled from animal bones.
+The tip is daubed with venom.
+Afflicts targets with poison.
+Craftable item.
+The addition of fletching enables more 
+precise shots that can travel farther.</text>
 
-	The tip is daubed with a water lily tincture.
+<text>
+Arrow carved to resemble a withered water lily.
+Afflicts targets with a powerful soporific effect.
+Once served an exclusively ritual 
+use by the priests of St. Trina.
+The peace of deepest slumber can 
+be so very hard to resist.</text>
 
-	Afflicts targets with drowsiness.
-
-	Craftable item.
-
-The addition of fletching enables more precise shots that can travel farther.</text>
+<text>
+Arrow whittled from animal bones.
+The tip is daubed with a water lily tincture.
+Afflicts targets with drowsiness.
+Craftable item.
+The addition of fletching enables more 
+precise shots that can travel farther.</text>
 
 </entries>
