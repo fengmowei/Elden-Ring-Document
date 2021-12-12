@@ -15,13 +15,13 @@ window.onload=function(){
   document.getElementsByClassName("icon")[0].firstChild.setAttribute("src","icons/dialogue"+"/"+npc+".jpg");
   document.getElementsByClassName("title")[0].firstChild.innerHTML=title;
   var xmlhttp=new window.XMLHttpRequest();
-  xmlhttp.open("get","text/chn"+"/dialogue/"+[npc]+".xml",false);
+  xmlhttp.open("get","text/chn"+"/dialogue1/"+[npc]+".xml",false);
   xmlhttp.send(null);
   xmlc=xmlhttp.responseXML;
-  xmlhttp.open("get","text/jap"+"/dialogue/"+[npc]+".xml",false);
+  xmlhttp.open("get","text/jap"+"/dialogue1/"+[npc]+".xml",false);
   xmlhttp.send(null);
   xmlj=xmlhttp.responseXML;
-  xmlhttp.open("get","text/eng"+"/dialogue/"+[npc]+".xml",false);
+  xmlhttp.open("get","text/eng"+"/dialogue1/"+[npc]+".xml",false);
   xmlhttp.send(null);
   xmle=xmlhttp.responseXML;
   var nline=document.createElement("p");
