@@ -701,20 +701,6 @@ The feather fletchings add distance
 and accuracy to the standard bone arrow.</text>
 
 <text>
-Arrow whittled from animal bones.
-The tip is daubed with venom.
-Afflicts targets with poison.
-Craftable item.</text>
-
-<text>
-Arrow whittled from animal bones.
-The tip is daubed with venom.
-Afflicts targets with poison.
-Craftable item.
-The addition of fletching enables more 
-precise shots that can travel farther.</text>
-
-<text>
 Arrow carved to resemble a withered water lily.
 Afflicts targets with a powerful soporific effect.
 Once served an exclusively ritual 
@@ -728,6 +714,20 @@ The tip is daubed with a water lily tincture.
 Afflicts targets with drowsiness.
 Craftable item.
 The addition of fletching enables more 
+precise shots that can travel farther.</text>
+
+<text>
+Arrow whittled from animal bones.
+The tip is daubed with venom.
+Afflicts targets with poison.
+Craftable item.</text>
+
+<text>
+Arrow whittled from animal bones.
+The tip is daubed with venom.
+Afflicts targets with poison.
+Craftable item.
+The addition of fletching enables more
 precise shots that can travel farther.</text>
 
 </entries>
