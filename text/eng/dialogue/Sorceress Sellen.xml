@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<entries>
+
+<text>
+（初见、自我介绍）
+Tarnished, are we? 
+A wonder you should turn up here.
+I am Sellen, a sorcerer, quite plainly,
+Why are you here?</text>
+
+<text>
+（I want to learn glintstone sorcery）（智力不足）
+Ahh, a yen for glintstone sorceries?
+I dare say your proclivities are far from ideal... 
+Oh well, perhaps nurture will defy nature,
+with a bit of luck.
+But one must choose one's masters wisely.
+I was exiled from the Academy of Raya Lucaria
+as a reviled, apostate witch. 
+Do you still wish to learn from me?</text>
+
+<text>
+（I want to learn glintstone sorcery）（智力足够）
+Ahh, a yen for glintstone sorceries?
+Well, your aptitude does appear...passable.
+But one must choose one's masters wisely.
+I was exiled from the Academy of Raya Lucaria
+as a reviled, apostate witch. 
+Do you still wish to learn from me?</text>
+
+<text>
+(laughs)
+Well, you are a piece of work.
+Very well. You are now my protégé 
+in glintstone sorcery.
+But I refuse to coddle. 
+Or cast kind words. Never.
+Anticipate grievances, young apprentice.</text>
+
+<text>
+（继续对话）
+Young apprentice, first things first.
+You are a tadpole when it comes to magic.
+Infantile. Without the legs to walk.
+So, to become a sorcerer, 
+first, you must face your ignorance.
+Now, shall we start learning?</text>
+
+<text>
+（学习魔法——增加对话选项“导论”）
+Our are draws upon the powers embedded in glintstone,
+but what is the nature of such power?
+Glintstone is the amber of the cosmos,
+golden amber contains the renmants of ancient 
+life and houses its vitality,
+while Glintstone contains residual life.
+And thus, the vitality of the stars.
+It should not be forgotten that glintstone sorcery 
+is the study of the stars and the life therein.
+A fact lost on most sorcerers, these days...</text>
+
+<text>
+（第二次学习）
+Your appetite for learning is impressive.
+You make me proud. To have grown little legs so readily.
+You must have a fabulous teacher.</text>
+
+<text>
+（其他）
+There you are, my apprentice. 
+Shall we commence the lesson?
+All done? Well, be on your way then.</text>
+
+</entries>
