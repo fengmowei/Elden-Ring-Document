@@ -3,11 +3,14 @@
 
 <text>
 （初见、自我介绍）
-I Am Melina. I offer you an accord.
+Greetings.
+Traveller from beyond the Fog.
+I am Melina.
+I offer you an accord.
 Have you heard of the finger maidens?
 They serve the Two Fingers, offering guidance, 
-and aid, to the Tarnished. But you, 
-I am afraid, are maidenless.
+and aid, to the Tarnished.
+But you, I am afraid, are maidenless.
 I can play the role of maiden.
 Turning rune fragments into strength.
 To aid you in your search for the Elden Ring.
@@ -23,21 +26,35 @@ I bequeath to you this ring.
 Use it to traverse great distances.
 It will summon a spectral steed named Torrent.
 Torrent has chosen you.
-Treat him with respect.</text>
+Treat him with respect.
+
+（拒绝合作）
+I understand.
+I'm asking you to put faith in but a stranger.
+Yet I'm certain that we can reach an understanding.
+Summon me by grace if you should reconsider.</text>
 
 <text>
 （关于赐福）
-暂缺</text>
+This tiny golden aura is the grace of the Erdtree.
+This light once shone in the 
+eyes of your Tarnished brethren.
+But now it is all that guides you.
+Or so I hear.
+You can see them, can't you? 
+The rays of grace, 
+that guide you through your burden.</text>
 
 <text>
 （关于梅琳娜）
-Me, I'm searching for my purpose given to me by
+Me, I'm searching.
+For my purpose,given to me by
 my mother inside the Erdtree long ago, for the
 reason that I yet live, burned and bodyless.
 There is something for which I must apologize.
 I've acted the finger maiden yet
 I can offer no guidance, I am no maiden.
-My purpose was long ago lost...</text>
+My purpose was long ago lost.</text>
 
 <text>
 （升级）
@@ -45,6 +62,15 @@ Let my hand rest upon you, for but a moment.
 Share them with me,
 your thoughts, your ambitions,
 the principles you would follow.
-（暂缺“……这样就结束了”英文）</text>
+（暂缺“……这样就结束了”）
+
+（再次同意、升级）
+Have you reconsidered my offer?
+Shall I turn your runes to strength?
+Let my hand rest upon you, for but a moment.
+Share them with me.
+Your thoughts, your ambitions,
+the principles you would follow.
+It is done.</text>
 
 </entries>
