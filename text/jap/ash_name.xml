@@ -1,21 +1,101 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
 
-<text>さまよえる貴人の遺灰</text>
-<text>はぐれ狼の遺灰</text>
-<text>貴人の魔術師の遺灰</text>
-<text>北の傭兵の遺灰</text>
-<text>霊クラゲの遺灰</text>
-<text>戦灰「グラビタス」</text>
-<text>戦灰「カーリアの輝剣」</text>
-<text>戦灰「牙突き」</text>
-<text>戦灰「連続突き」</text>
-<text>戦灰「聖域」</text>
-<text>戦灰「鉄壁の盾」</text>
-<text>戦灰「嵐脚」</text>
-<text>戦灰「嵐の刃」</text>
-<text>戦灰「落雷」</text>
-<text>戦灰「輝剣の円陣」</text>
-<text>戦灰「デターミネーション」</text>
+<text> 戦灰「獅子斬り」 </text>
+<text> 戦灰「貫通突き」 </text>
+<text> 戦灰「牙突き」 </text>
+<text> 戦灰「回転斬り」 </text>
+<text> 戦灰「突撃」 </text>
+<text> 戦灰「踏み込み（斬り上げ）」 </text>
+<text> 戦灰「踏み込み（回転薙ぎ）」 </text>
+<text> 戦灰「血の徴収」 </text>
+<text> 戦灰「連続突き」 </text>
+<text> 戦灰「乱撃」 </text>
+<text> 戦灰「回転撃」 </text>
+<text> 戦灰「二連斬り」 </text>
+<text> 戦灰「司教の突進」 </text>
+<text> 戦灰「居合」 </text>
+<text> 戦灰「構え」 </text>
+<text> 戦灰「巨人狩り」 </text>
+<text> 戦灰「松明攻撃」 </text>
+<text> 戦灰「ローレッタの斬撃」 </text>
+<text> 戦灰「毒蛾は二度舞う」 </text>
+<text> 戦灰「回れ回れ」 </text>
+<text> 戦灰「嵐の襲撃」 </text>
+<text> 戦灰「嵐呼び」 </text>
+<text> 戦灰「剣舞」 </text>
+<text> 戦灰「鎖回し」 </text>
+<text> 戦灰「輝剣の円陣」 </text>
+<text> 戦灰「聖なる刃」 </text>
+<text> 戦灰「氷槍」 </text>
+<text> 戦灰「輝石のつぶて」 </text>
+<text> 戦灰「血の斬撃」 </text>
+<text> 戦灰「命奪拳」 </text>
+<text> 戦灰「溶岩噴火」 </text>
+<text> 戦灰「祈りの一撃」 </text>
+<text> 戦灰「グラビタス」 </text>
+<text> 戦灰「嵐の刃」 </text>
+<text> 戦灰「地揺らし」 </text>
+<text> 戦灰「黄金の地」 </text>
+<text> 戦灰「炎撃」 </text>
+<text> 戦灰「落雷」 </text>
+<text> 戦灰「雷撃斬」 </text>
+<text> 戦灰「グレート・カーリア」 </text>
+<text> 戦灰「カーリアの大剣」 </text>
+<text> 戦灰「真空斬り」 </text>
+<text> 戦灰「黒炎の渦」 </text>
+<text> 戦灰「聖なる光輪」 </text>
+<text> 戦灰「火吹き」 </text>
+<text> 戦灰「血の刃」 </text>
+<text> 戦灰「共撃の幻」 </text>
+<text> 戦灰「幻影の槍」 </text>
+<text> 戦灰「冷気の霧」 </text>
+<text> 戦灰「毒の霧」 </text>
+<text> 戦灰「シールドバッシュ」 </text>
+<text> 戦灰「鉄壁の盾」 </text>
+<text> 戦灰「パリィ」 </text>
+<text> 戦灰「バックラーパリィ」 </text>
+<text> 戦灰「パリィ」 </text>
+<text> 戦灰「カーリアの返報」 </text>
+<text> 戦灰「嵐の壁」 </text>
+<text> 戦灰「黄金パリィ」 </text>
+<text> 戦灰「突撃バッシュ」 </text>
+<text> 戦灰「戦技なし」 </text>
+<text> 戦灰「トープスの力場」 </text>
+<text> 戦灰「貫通射撃」 </text>
+<text> 戦灰「連続射撃」 </text>
+<text> 戦灰「強射」 </text>
+<text> 戦灰「宿し撃ち」 </text>
+<text> 戦灰「空撃ち」 </text>
+<text> 戦灰「アローレイン」 </text>
+<text> 戦灰「霜踏み」 </text>
+<text> 戦灰「嵐脚」 </text>
+<text> 戦灰「キック」 </text>
+<text> 戦灰「雷の羊」 </text>
+<text> 戦灰「赤獅子の炎」 </text>
+<text> 戦灰「ヒップドロップ」 </text>
+<text> 戦灰「黄金の尻撃」 </text>
+<text> 戦灰「暗黒波」 </text>
+<text> 戦灰「ホーラの地揺らし」 </text>
+<text> 戦灰「デターミネーション」 </text>
+<text> 戦灰「王騎士の決意」 </text>
+<text> 戦灰「暗殺の作法」 </text>
+<text> 戦灰「黄金樹に誓って」 </text>
+<text> 戦灰「聖律」 </text>
+<text> 戦灰「聖律共有」 </text>
+<text> 戦灰「切腹」 </text>
+<text> 戦灰「岩石剣」 </text>
+<text> 戦灰「野蛮な咆哮」 </text>
+<text> 戦灰「ウォークライ」 </text>
+<text> 戦灰「獣の咆哮」 </text>
+<text> 戦灰「トロルの咆哮」 </text>
+<text> 戦灰「誇示する咆哮」 </text>
+<text> 戦灰「我慢」 </text>
+<text> 戦灰「無敵」 </text>
+<text> 戦灰「聖域」 </text>
+<text> 戦灰「クイックステップ」 </text>
+<text> 戦灰「猟犬のステップ」 </text>
+<text> 戦灰「霧の猛禽」 </text>
+<text> 戦灰「白い影の誘い」 </text>
 
 </entries>

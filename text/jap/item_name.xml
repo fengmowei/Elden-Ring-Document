@@ -1,98 +1,688 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
 
-<text>ツール鞄</text>
-<text>地図断片(リムグレイブ西)</text>
-<text>錆びた鍵</text>
-<text>遠眼鏡</text>
-<text>霊馬の指笛</text>
-<text>矢</text>
-<text>青い秘文字の指環</text>
-<text>白い秘文字の指環</text>
-<text>鉤呼びの指薬</text>
-<text>指切り</text>
-<text>褪せ人の鉤指</text>
-<text>闘士の鉤指</text>
-<text>褪色者老指</text>
-<text>血の指</text>
-<text>暂缺</text>
-<text>祝福の幻想</text>
-<text>金の小偶像</text>
-<text>赤の小偶像</text>
-<text>緋雫の聖杯瓶</text>
-<text>青雫の聖杯瓶</text>
-<text>辺境人のルーン</text>
-<text>聖水壷</text>
-<text>言の葉石</text>
-<text>虹色石</text>
-<text>ロア・レーズン</text>
-<text>紐付き火炎壷</text>
-<text>灯り石</text>
-<text>霊薬の聖杯瓶</text>
-<text>貧者のルーン</text>
-<text>免疫の干し肉</text>
-<text>重隕石の破片</text>
-<text>亀首漬け</text>
-<text>火脂</text>
-<text>火の干し肝</text>
-<text>火炎壷</text>
-<text>ボーンナイフ</text>
-<text>血の苔薬</text>
-<text>鳥脚の黄金漬け</text>
-<text>毒の苔薬</text>
-<text>勇者の肉塊</text>
-<text>睡眠壷</text>
-<text>竜の心臓</text>
-<text>スローイングダガー</text>
-<text>遺跡石</text>
-<text>鍛石の欠片</text>
-<text>武具職人の製法書</text>
-<text>ファリスの製法書</text>
-<text>宣教師の製法書</text>
-<text>逃亡戦士の製法書</text>
-<text>根脂</text>
-<text>血の薔薇</text>
-<text>アルテリアの葉</text>
-<text>そぎ肉</text>
-<text>獣肝</text>
-<text>獣肉の塊</text>
-<text>燻り蝶</text>
-<text>毒花</text>
-<text>洞窟苔</text>
-<text>暂缺</text>
-<text>亀の首肉</text>
-<text>暂缺</text>
-<text>暂缺</text>
-<text>暂缺</text>
-<text>暂缺</text>
-<text>色褪せた金輪草</text>
-<text>暂缺</text>
-<text>暂缺</text>
-<text>大トンボの頭</text>
-<text>ヘルパ</text>
-<text>暂缺</text>
-<text>トリーナのスイレン</text>
-<text>ロアの実</text>
-<text>細い獣骨</text>
-<text>四指の鳥脚</text>
-<text>風切羽</text>
-<text>紐</text>
-<text>ヒビ壺</text>
-<text>暂缺</text>
-<text>落葉花</text>
-<text>破裂した結晶雫</text>
-<text>青色の結晶雫</text>
-<text>緋色の結晶雫</text>
-<text>青色の結晶雫</text>
-<text>骨の火矢</text>
-<text>骨の火矢(羽付き)</text>
-<text>骨の矢</text>
-<text>骨の矢(羽付き)</text>
-<text>トリーナの矢</text>
-<text>骨の眠り矢(羽付き)</text>
+<text> 褪せ人の鉤指 </text>
+<text> 闘士の鉤指 </text>
+<text> 血の指 </text>
+<text> 指切り </text>
+<text> 白い秘文字の指環 </text>
+<text> 青い秘文字の指環 </text>
+<text> 褪せ人の老指 </text>
+<text> 血指の幻影 </text>
+<text> 嘲弄者の舌 </text>
+<text> 金の小偶像 </text>
+<text> 赤の小偶像 </text>
+<text> 爛れた血指 </text>
+<text> 背律の指 </text>
+<text> 背律指の幻影 </text>
+<text> 祝福の記憶 </text>
+<text> 大ルーンの幻影 </text>
+<text> 鉤呼びの指薬 </text>
+<text> 霊馬の指笛 </text>
+<text> ルーンの弧 </text>
+<text> ゴドリックの大ルーン </text>
+<text> ラダーンの大ルーン </text>
+<text> モーゴットの大ルーン </text>
+<text> ライカードの大ルーン </text>
+<text> モーグの大ルーン </text>
+<text> マレニアの大ルーン </text>
+<text> 緋雫の聖杯瓶 </text>
+<text> 青雫の聖杯瓶 </text>
+<text> 霊薬の聖杯瓶 </text>
+<text> 火炎壺 </text>
+<text> 赤獅子の火炎壺 </text>
+<text> 巨人火の火炎壺 </text>
+<text> 雷壺 </text>
+<text> 古竜の雷壺 </text>
+<text> 糞壺 </text>
+<text> 蠅壺 </text>
+<text> 聖水壺 </text>
+<text> 聖律壺 </text>
+<text> 氷結壺 </text>
+<text> 毒壺 </text>
+<text> 油壷 </text>
+<text> 誘い壺 </text>
+<text> 獣誘いの壺 </text>
+<text> 紐付き火炎壺 </text>
+<text> 紐付き雷壺 </text>
+<text> 紐付き糞壺 </text>
+<text> 紐付き毒壺 </text>
+<text> 紐付き油壷 </text>
+<text> 紐付き魔力壺 </text>
+<text> 紐付き蠅壺 </text>
+<text> 紐付き氷結壺 </text>
+<text> 紐付き火山壺 </text>
+<text> 紐付き聖水壺 </text>
+<text> 火山壺 </text>
+<text> しろがね壺 </text>
+<text> 呪血壺 </text>
+<text> 眠り壺 </text>
+<text> 怨霊壺 </text>
+<text> 魔力壺 </text>
+<text> 学院の魔力壺 </text>
+<text> 腐敗壺 </text>
+<text> ロア・レーズン </text>
+<text> スイート・レーズン </text>
+<text> フローズン・レーズン </text>
+<text> ゆでカニ </text>
+<text> ゆでエビ </text>
+<text> 毒の苔薬 </text>
+<text> 出血の苔薬 </text>
+<text> 冷気の苔薬 </text>
+<text> 睡眠の苔薬 </text>
+<text> 腐敗の苔薬 </text>
+<text> 死の苔薬 </text>
+<text> 発狂の苔薬 </text>
+<text> 亀首漬け </text>
+<text> 免疫の干し肉 </text>
+<text> 頑健の干し肉 </text>
+<text> 正気の干し肉 </text>
+<text> 斑色の干し肉 </text>
+<text> 抗魔の干し肝 </text>
+<text> 抗炎の干し肝 </text>
+<text> 抗雷の干し肝 </text>
+<text> 抗聖の干し肝 </text>
+<text> 鳥脚の白銀漬け </text>
+<text> 鳥脚の黄金漬け </text>
+<text> 勇者の肉塊 </text>
+<text> 抗死の干し肉 </text>
+<text> 生肉団子 </text>
+<text> シャブリリのブドウ </text>
+<text> 星光の欠片 </text>
+<text> 免疫の干し白肉 </text>
+<text> 頑健の干し白肉 </text>
+<text> 正気の干し白肉 </text>
+<text> 斑色の干し白肉 </text>
+<text> 抗死の干し白肉 </text>
+<text> 火脂 </text>
+<text> 雷脂 </text>
+<text> 魔力脂 </text>
+<text> 聖脂 </text>
+<text> 血脂 </text>
+<text> 眠り脂 </text>
+<text> 毒脂 </text>
+<text> 氷結脂 </text>
+<text> 竜傷脂 </text>
+<text> 腐敗脂 </text>
+<text> 紐付き火脂 </text>
+<text> 紐付き雷脂 </text>
+<text> 紐付き魔力脂 </text>
+<text> 紐付き聖脂 </text>
+<text> 紐付き血脂 </text>
+<text> 紐付き眠り脂 </text>
+<text> 紐付き毒脂 </text>
+<text> 紐付き氷結脂 </text>
+<text> 紐付き腐敗脂 </text>
+<text> 盾脂 </text>
+<text> スローイングダガー </text>
+<text> 骨の投げ矢 </text>
+<text> 骨の毒投げ矢 </text>
+<text> ククリ </text>
+<text> 結晶投げ矢 </text>
+<text> 扇投暗器 </text>
+<text> 遺跡石 </text>
+<text> 臭い立つ肉塊 </text>
+<text> 爆発石 </text>
+<text> 爆発石の塊 </text>
+<text> 毒石 </text>
+<text> 毒石の塊 </text>
+<text> 虹色石 </text>
+<text> 灯り石 </text>
+<text> 遠眼鏡 </text>
+<text> 祝福擬き </text>
+<text> ランタン </text>
+<text> 冒涜の爪 </text>
+<text> 死の根 </text>
+<text> ふんわり綿 </text>
+<text> 石鹸 </text>
+<text> 星の雫 </text>
+<text> マルギットの拘束具 </text>
+<text> モーグの拘束具 </text>
+<text> 純血騎士褒章 </text>
+<text> ミケラの針 </text>
+<text> 呼び声頭「こんにちは」 </text>
+<text> 呼び声頭「ありがとう」 </text>
+<text> 呼び声頭「ごめんなさい」 </text>
+<text> 呼び声頭「すばらしい！」 </text>
+<text> 呼び声頭「助けてくれ…」 </text>
+<text> 呼び声頭「愛している」 </text>
+<text> 呼び声頭「はじめようか」 </text>
+<text> 呼び声頭「貴方は美しいわ」 </text>
+<text> 黄金のルーン </text>
+<text> 稀人のルーン </text>
+<text> 英雄のルーン </text>
+<text> 王のルーン </text>
+<text> 接ぎ木の追憶 </text>
+<text> 星砕きの追憶 </text>
+<text> 忌み王の追憶 </text>
+<text> 冒涜の君主の追憶 </text>
+<text> 腐敗の女神の追憶 </text>
+<text> 血の君主の追憶 </text>
+<text> 黒き剣の追憶 </text>
+<text> ホーラ・ルーの追憶 </text>
+<text> 竜王の追憶 </text>
+<text> 満月の女王の追憶 </text>
+<text> 死竜の追憶 </text>
+<text> 火の巨人の追憶 </text>
+<text> 祖霊の王の追憶 </text>
+<text> エルデの追憶 </text>
+<text> 暗黒の落とし子の追憶 </text>
+<text> 狭間の地のルーン </text>
+<text> 幼祖霊の頭 </text>
+<text> 忌み水子 </text>
+<text> 王家の忌み水子 </text>
+<text> ミランダの祈り </text>
+<text> カッコウの輝石 </text>
+<text> 擬態のヴェール </text>
+<text> 屑輝石 </text>
+<text> 大きな屑輝石 </text>
+<text> 扇の重力石 </text>
+<text> 塊の重力石 </text>
+<text> 呪霊喚びの鈴 </text>
+<text> 聖水脂 </text>
+<text> ぬくもり石 </text>
+<text> 狂い火石 </text>
+<text> 言の葉石 </text>
+<text> 誘惑の枝 </text>
+<text> 帳の恩寵 </text>
+<text> 光射す帳の恩寵 </text>
+<text> 高揚の香り </text>
+<text> 火花の香り </text>
+<text> 鉄壺の香薬 </text>
+<text> 狂熱の香薬 </text>
+<text> 毒の噴霧 </text>
+<text> 酸の噴霧 </text>
+<text> 石剣の鍵 </text>
+<text> 錆びた鍵 </text>
+<text> 光刺す帳の恩寵 </text>
+<text> デクタスの割符（左） </text>
+<text> デクタスの割符（右） </text>
+<text> ロルドの割符 </text>
+<text> 学院の輝石鍵 </text>
+<text> カーリアの逆さ像 </text>
+<text> 暗月の指輪 </text>
+<text> 指痕のブドウ </text>
+<text> 火山館からの手紙 </text>
+<text> 忘却の秘薬 </text>
+<text> 蛇の羊膜 </text>
+<text> ラーヤの首飾り </text>
+<text> イレーナの手紙 </text>
+<text> 火山館からの手紙 </text>
+<text> 赤い手紙 </text>
+<text> 客間の鍵 </text>
+<text> ラーヤの首飾り </text>
+<text> 火山館の招待状 </text>
+<text> 琥珀の星光 </text>
+<text> セルブスの紹介状 </text>
+<text> セレンの原輝石 </text>
+<text> 小さなラニ </text>
+<text> 銀の雫、アスィミ </text>
+<text> ゴドリックの大ルーン </text>
+<text> ラダーンの大ルーン </text>
+<text> モーゴットの大ルーン </text>
+<text> ライカードの大ルーン </text>
+<text> モーグの大ルーン </text>
+<text> マレニアの大ルーン </text>
+<text> 血の君主の誓布 </text>
+<text> 血の君主の誓布 </text>
+<text> 墓地カラスの手紙 </text>
+<text> 霊喚びの鈴 </text>
+<text> 指殺しの刃 </text>
+<text> 縫い針 </text>
+<text> 黄金の縫い針 </text>
+<text> 裁縫道具 </text>
+<text> セルブスの精薬 </text>
+<text> 琥珀色の精薬 </text>
+<text> パッチへの手紙 </text>
+<text> 踊り子の打楽器 </text>
+<text> サリアの封印鍵 </text>
+<text> 蛹たちの形見 </text>
+<text> 黒き刃の刻印 </text>
+<text> ベルナールへの手紙 </text>
+<text> 学院の輝石鍵 </text>
+<text> 聖樹の秘割符（左） </text>
+<text> 聖樹の秘割符（右） </text>
+<text> 墓地カラスの手紙 </text>
+<text> 完全律の修復ルーン </text>
+<text> 死王子の修復ルーン </text>
+<text> 忌み呪いの修復ルーン </text>
+<text> 雫の幼生 </text>
+<text> 魔石剣の鍵 </text>
+<text> 小さなラニ </text>
+<text> 黄金の裁縫道具 </text>
+<text> イジーの告白書 </text>
+<text> 刻印の手がかり </text>
+<text> 死の呪痕 </text>
+<text> アスィミの抜け殻 </text>
+<text> 苗床の呪い </text>
+<text> 嵐鷹の古王 </text>
+<text> 銀の蛹、アスィミ </text>
+<text> 無垢金の針 </text>
+<text> 下水牢の鍵 </text>
+<text> 待ち合わせの地図 </text>
+<text> 捨てられた王家の鍵 </text>
+<text> 絵画「帰巣」 </text>
+<text> 絵画「再誕」 </text>
+<text> 絵画「英雄の歌」 </text>
+<text> 絵画「魔術師」 </text>
+<text> 絵画「預言」 </text>
+<text> 絵画「飛べない鳥」 </text>
+<text> 絵画「赤獅子」 </text>
+<text> ゾラーヤスの手紙 </text>
+<text> アレキサンダーの中身 </text>
+<text> ロジェールの手紙 </text>
+<text> ツール鞄 </text>
+<text> 砥石の小刀 </text>
+<text> 地図断片：リムグレイブ西部 </text>
+<text> 地図断片：啜り泣きの半島 </text>
+<text> 地図断片：リムグレイブ東部 </text>
+<text> 地図断片：リエーニエ東部 </text>
+<text> 地図断片：リエーニエ北部 </text>
+<text> 地図断片：リエーニエ西部 </text>
+<text> 地図断片：アルター高原 </text>
+<text> 地図断片：王都ローデイル </text>
+<text> 地図断片：ゲルミア火山 </text>
+<text> 地図断片：ケイリッド </text>
+<text> 地図断片：竜塚 </text>
+<text> 地図断片：巨人山嶺西部 </text>
+<text> 地図断片：巨人山嶺東部 </text>
+<text> 地図断片：エインセル河 </text>
+<text> 地図断片：腐れ湖 </text>
+<text> 地図断片：シーフラ河 </text>
+<text> 地図断片：モーグウィン王朝 </text>
+<text> 地図断片：深き根の底 </text>
+<text> 地図断片：聖別雪原 </text>
+<text> 蜃気楼の謎かけ </text>
+<text> 文書「隠し洞窟について」 </text>
+<text> 文書「インプ共の影について」 </text>
+<text> 文書「霊薬の聖杯瓶について」 </text>
+<text> 文書「石掘りトロルについて」 </text>
+<text> 文書「歩く霊廟について」 </text>
+<text> 文書「姿なき刺客について」 </text>
+<text> 文書「大棺について」 </text>
+<text> 文書「火の戦車について」 </text>
+<text> 文書「亜人どもについて」 </text>
+<text> 文書「陸ほやについて」 </text>
+<text> 文書「重力の力について」 </text>
+<text> 文書「幽鬼について」 </text>
+<text> 文書「宿場跡について」 </text>
+<text> 文書「転送門について」 </text>
+<text> 文書「ミケラの針について」 </text>
+<text> 文書「狂い火村について」 </text>
+<text> 文書「狂い火の主について」 </text>
+<text> 文書「隠し洞窟について」 </text>
+<text> 文書「インプ共の影について」 </text>
+<text> 文書「霊薬の聖杯瓶について」 </text>
+<text> 文書「石掘りトロルについて」 </text>
+<text> 文書「歩く霊廟について」 </text>
+<text> 文書「姿なき刺客について」 </text>
+<text> 文書「大棺について」 </text>
+<text> 文書「火の戦車について」 </text>
+<text> 文書「亜人どもについて」 </text>
+<text> 文書「陸ほやについて」 </text>
+<text> 文書「重力の力について」 </text>
+<text> 文書「幽鬼について」 </text>
+<text> 文書「宿場跡について」 </text>
+<text> 文書「転送門について」 </text>
+<text> 文書「狂い火村について」 </text>
+<text> 教室のスクロール </text>
+<text> 王家のスクロール </text>
+<text> 火の僧兵の祈祷書 </text>
+<text> 巨人の祈祷書 </text>
+<text> 神肌の祈祷書 </text>
+<text> 二本指の祈祷書 </text>
+<text> 暗部の祈祷書 </text>
+<text> 黄金樹の祈祷書 </text>
+<text> 黄金樹の古文書 </text>
+<text> 黄金律原論 </text>
+<text> 黄金律原論 </text>
+<text> 竜信仰の祈祷書 </text>
+<text> 古き竜の祈祷書 </text>
+<text> 学院のスクロール </text>
+<text> ピディの鈴玉 </text>
+<text> セルブスの鈴玉 </text>
+<text> パッチの鈴玉 </text>
+<text> セレンの鈴玉 </text>
+<text> Ｄの鈴玉 </text>
+<text> ベルナールの鈴玉 </text>
+<text> ミリエルの鈴玉 </text>
+<text> ゴストークの鈴玉 </text>
+<text> トープスの鈴玉 </text>
+<text> カーレの鈴玉 </text>
+<text> 放浪商人の鈴玉【１】 </text>
+<text> 放浪商人の鈴玉【２】 </text>
+<text> 放浪商人の鈴玉【３】 </text>
+<text> 放浪商人の鈴玉【４】 </text>
+<text> 放浪商人の鈴玉【５】 </text>
+<text> 隠遁商人の鈴玉【１】 </text>
+<text> 隠遁商人の鈴玉【２】 </text>
+<text> 放浪商人の鈴玉【６】 </text>
+<text> 世捨て商人の鈴玉【１】 </text>
+<text> 放浪商人の鈴玉【７】 </text>
+<text> 放浪商人の鈴玉【８】 </text>
+<text> 放浪商人の鈴玉【９】 </text>
+<text> 放浪商人の鈴玉【１０】 </text>
+<text> 放浪商人の鈴玉【１１】 </text>
+<text> 隠遁商人の鈴玉【３】 </text>
+<text> 世捨て商人の鈴玉【２】 </text>
+<text> 取り残された商人の鈴玉 </text>
+<text> 世捨て商人の鈴玉【３】 </text>
+<text> 囚われ商人の鈴玉 </text>
+<text> イジーの鈴玉 </text>
+<text> ロジェールの鈴玉 </text>
+<text> ならず者の鈴玉 </text>
+<text> コリンの鈴玉 </text>
+<text> ゴーリーの鈴玉 </text>
+<text> 骨売りの鈴玉 </text>
+<text> 肉売りの鈴玉 </text>
+<text> 薬売りの鈴玉 </text>
+<text> 重力売りの鈴玉 </text>
+<text> 鍛石掘りの鈴玉【１】 </text>
+<text> 鍛石掘りの鈴玉【２】 </text>
+<text> 鍛石掘りの鈴玉【３】 </text>
+<text> 鍛石掘りの鈴玉【４】 </text>
+<text> 喪色掘りの鈴玉【１】 </text>
+<text> 喪色掘りの鈴玉【２】 </text>
+<text> 喪色掘りの鈴玉【３】 </text>
+<text> 喪色掘りの鈴玉【４】 </text>
+<text> 喪色掘りの鈴玉【５】 </text>
+<text> すずらん摘みの鈴玉【１】 </text>
+<text> すずらん摘みの鈴玉【２】 </text>
+<text> すずらん摘みの鈴玉【３】 </text>
+<text> 霊姿摘みの鈴玉【１】 </text>
+<text> 霊姿摘みの鈴玉【２】 </text>
+<text> 霊姿摘みの鈴玉【３】 </text>
+<text> 鉄の砥石刃 </text>
+<text> 灼けた砥石刃 </text>
+<text> 聖なる砥石刃 </text>
+<text> 輝石の砥石刃 </text>
+<text> 黒い砥石刃 </text>
+<text> 無垢金の針 </text>
+<text> 無垢金の針 </text>
+<text> 戦乙女の義手 </text>
+<text> サリアの街の秘密 </text>
+<text> 獣の瞳 </text>
+<text> 蝕まれた短剣 </text>
+<text> 放浪戦士の製法書【１】 </text>
+<text> 放浪戦士の製法書【３】 </text>
+<text> 放浪戦士の製法書【６】 </text>
+<text> 放浪戦士の製法書【１０】 </text>
+<text> 逃亡戦士の製法書【５】 </text>
+<text> 放浪戦士の製法書【７】 </text>
+<text> 放浪戦士の製法書【１２】 </text>
+<text> 放浪戦士の製法書【１９】 </text>
+<text> 放浪戦士の製法書【１３】 </text>
+<text> 放浪戦士の製法書【２３】 </text>
+<text> 放浪戦士の製法書【１７】 </text>
+<text> 放浪戦士の製法書【２】 </text>
+<text> 放浪戦士の製法書【２１】 </text>
+<text> 宣教師の製法書【６】 </text>
+<text> 武具職人の製法書【１】 </text>
+<text> 武具職人の製法書【２】 </text>
+<text> 放浪戦士の製法書【１１】 </text>
+<text> 放浪戦士の製法書【２０】 </text>
+<text> 武具職人の製法書【５】 </text>
+<text> 武具職人の製法書【７】 </text>
+<text> 武具職人の製法書【４】 </text>
+<text> 放浪戦士の製法書【１８】 </text>
+<text> 武具職人の製法書【３】 </text>
+<text> 放浪戦士の製法書【１６】 </text>
+<text> 武具職人の製法書【６】 </text>
+<text> 武具職人の製法書【５】 </text>
+<text> 輝石職人の製法書【４】 </text>
+<text> 輝石職人の製法書【１】 </text>
+<text> 輝石職人の製法書【５】 </text>
+<text> 放浪戦士の製法書【９】 </text>
+<text> 輝石職人の製法書【８】 </text>
+<text> 輝石職人の製法書【２】 </text>
+<text> 輝石職人の製法書【６】 </text>
+<text> 輝石職人の製法書【７】 </text>
+<text> 輝石職人の製法書【３】 </text>
+<text> 宣教師の製法書【２】 </text>
+<text> 宣教師の製法書【１】 </text>
+<text> 宣教師の製法書【３】 </text>
+<text> 宣教師の製法書【５】 </text>
+<text> 宣教師の製法書【４】 </text>
+<text> 宣教師の製法書【３】 </text>
+<text> 放浪戦士の製法書【４】 </text>
+<text> 調香師の製法書【１】 </text>
+<text> 調香師の製法書【２】 </text>
+<text> 放浪戦士の製法書【５】 </text>
+<text> 調香師の製法書【１】 </text>
+<text> 調香師の製法書【２】 </text>
+<text> 調香師の製法書【３】 </text>
+<text> 放浪戦士の製法書【１４】 </text>
+<text> 放浪戦士の製法書【８】 </text>
+<text> 放浪戦士の製法書【２２】 </text>
+<text> 放浪戦士の製法書【１５】 </text>
+<text> 放浪戦士の製法書【２４】 </text>
+<text> 調香師の製法書【４】 </text>
+<text> 調香師の製法書【１３】 </text>
+<text> 古竜信徒の製法書【１】 </text>
+<text> 古竜信徒の製法書【２】 </text>
+<text> 古竜信徒の製法書【４】 </text>
+<text> 古竜信徒の製法書【３】 </text>
+<text> ファリスの製法書【１】 </text>
+<text> ファリスの製法書【３】 </text>
+<text> ファリスの製法書【２】 </text>
+<text> 宣教師の製法書【７】 </text>
+<text> 病み人の製法書【１】 </text>
+<text> 病み人の製法書【２】 </text>
+<text> ヒビ壺 </text>
+<text> 儀式壺 </text>
+<text> 調香瓶 </text>
+<text> ガラス片 </text>
+<text> 黄金の種子 </text>
+<text> 聖杯の雫 </text>
+<text> メモリ・ストーン </text>
+<text> お守り袋 </text>
+<text> 竜の心臓 </text>
+<text> 喪失の戦灰 </text>
+<text> 産まれなき者の大ルーン </text>
+<text> 鍛石【１】 </text>
+<text> 鍛石【２】 </text>
+<text> 鍛石【３】 </text>
+<text> 鍛石【４】 </text>
+<text> 鍛石【５】 </text>
+<text> 鍛石【６】 </text>
+<text> 鍛石【７】 </text>
+<text> 鍛石【８】 </text>
+<text> 古竜岩の鍛石 </text>
+<text> 喪色の鍛石【１】 </text>
+<text> 喪色の鍛石【２】 </text>
+<text> 喪色の鍛石【３】 </text>
+<text> 喪色の鍛石【４】 </text>
+<text> 喪色の鍛石【５】 </text>
+<text> 喪色の鍛石【６】 </text>
+<text> 喪色の鍛石【７】 </text>
+<text> 喪色の鍛石【８】 </text>
+<text> 古竜岩の喪色鍛石 </text>
+<text> 喪色の鍛石【９】 </text>
+<text> 墓すずらん【１】 </text>
+<text> 墓すずらん【２】 </text>
+<text> 墓すずらん【３】 </text>
+<text> 墓すずらん【４】 </text>
+<text> 墓すずらん【５】 </text>
+<text> 墓すずらん【６】 </text>
+<text> 墓すずらん【７】 </text>
+<text> 墓すずらん【８】 </text>
+<text> 墓すずらん【９】 </text>
+<text> 墓すずらんの大輪 </text>
+<text> 霊姿の墓すずらん【１】 </text>
+<text> 霊姿の墓すずらん【２】 </text>
+<text> 霊姿の墓すずらん【３】 </text>
+<text> 霊姿の墓すずらん【４】 </text>
+<text> 霊姿の墓すずらん【５】 </text>
+<text> 霊姿の墓すずらん【６】 </text>
+<text> 霊姿の墓すずらん【７】 </text>
+<text> 霊姿の墓すずらん【８】 </text>
+<text> 霊姿の墓すずらん【９】 </text>
+<text> 霊姿すずらんの大輪 </text>
+<text> 緋溢れの結晶雫 </text>
+<text> 緑溢れの結晶雫 </text>
+<text> 緋色の結晶雫 </text>
+<text> 緋色の結晶雫 </text>
+<text> 青色の結晶雫 </text>
+<text> 青色の結晶雫 </text>
+<text> 斑彩色の硬雫 </text>
+<text> 緋色の泡雫 </text>
+<text> 真珠色の泡雫 </text>
+<text> 緋湧きの結晶雫 </text>
+<text> 緑湧きの結晶雫 </text>
+<text> 真珠色の硬雫 </text>
+<text> 羽の結晶雫 </text>
+<text> 連棘の割れ雫 </text>
+<text> 大棘の割れ雫 </text>
+<text> 風の結晶雫 </text>
+<text> 破裂した結晶雫 </text>
+<text> 破裂した結晶雫 </text>
+<text> 鉛色の硬雫 </text>
+<text> 細枝の割れ雫 </text>
+<text> 緋色渦の泡雫 </text>
+<text> 筋力瘤の結晶雫 </text>
+<text> 技量瘤の結晶雫 </text>
+<text> 知力瘤の結晶雫 </text>
+<text> 信仰瘤の結晶雫 </text>
+<text> 青色の秘雫 </text>
+<text> 岩棘の割れ雫 </text>
+<text> 浄血の結晶雫 </text>
+<text> 炎纏いの割れ雫 </text>
+<text> 魔力纏いの割れ雫 </text>
+<text> 雷纏いの割れ雫 </text>
+<text> 聖纏いの割れ雫 </text>
+<text> そぎ肉 </text>
+<text> 獣肝 </text>
+<text> 獣肉の塊 </text>
+<text> 獣血 </text>
+<text> 古牙 </text>
+<text> 角の芽 </text>
+<text> 風切羽 </text>
+<text> 隠し羽 </text>
+<text> 四指の鳥脚 </text>
+<text> 亀の首肉 </text>
+<text> 人骨の欠片 </text>
+<text> 大トンボの頭 </text>
+<text> 睡卵 </text>
+<text> 蟹たま </text>
+<text> 蛸たま </text>
+<text> ミランダパウダー </text>
+<text> 白そぎ肉 </text>
+<text> 金糞 </text>
+<text> 細い獣骨 </text>
+<text> 太い獣骨 </text>
+<text> 屑輝石 </text>
+<text> 紐 </text>
+<text> 生き壺の破片 </text>
+<text> しろがねの凝血 </text>
+<text> 嵐鷹の羽 </text>
+<text> 毒花 </text>
+<text> トリーナのスイレン </text>
+<text> 雷花 </text>
+<text> ミケラのスイレン </text>
+<text> 墓紫 </text>
+<text> 変色した落葉花 </text>
+<text> 落葉花 </text>
+<text> アルタスの花 </text>
+<text> 火の花 </text>
+<text> 金輪草 </text>
+<text> 色褪せた金輪草 </text>
+<text> ヘルバ </text>
+<text> アルテリアの葉 </text>
+<text> 夜露のヘルバ </text>
+<text> ロアの実 </text>
+<text> 黄金のロア </text>
+<text> ロアの原種 </text>
+<text> 血の薔薇 </text>
+<text> イエロの瞳 </text>
+<text> 結晶の木の芽 </text>
+<text> 氷結晶の木の芽 </text>
+<text> 聖血の木の芽 </text>
+<text> キノコ </text>
+<text> 蕩けたキノコ </text>
+<text> 毒カビキノコ </text>
+<text> 根脂 </text>
+<text> 壊れた結晶 </text>
+<text> 神殿石 </text>
+<text> 幼生蝶 </text>
+<text> エオニアの蝶 </text>
+<text> 燻り蝶 </text>
+<text> 銀色ホタル </text>
+<text> 金色ホタル </text>
+<text> 輝石ホタル </text>
+<text> 黄金百足 </text>
+<text> 銀雫の殻 </text>
+<text> 金の排泄物 </text>
+<text> 血の混じった排泄物 </text>
+<text> 洞窟苔 </text>
+<text> 洞窟苔の花芽 </text>
+<text> 洞窟苔の結晶 </text>
+<text> 黄色い残り火 </text>
+<text> 火山石 </text>
+<text> 蟻酸石 </text>
+<text> さざれ石 </text>
+<text> 黒き刃、ティシー </text>
+<text> 失地騎士、オレグ </text>
+<text> 失地騎士、イングヴァル </text>
+<text> 牙鬼インプの遺灰 </text>
+<text> しろがねのラティナ </text>
+<text> 放浪の民の遺灰 </text>
+<text> 夜巫女と剣士の傀儡 </text>
+<text> 写し身の雫の遺灰 </text>
+<text> 結晶人の遺灰 </text>
+<text> 祖霊の民の遺灰 </text>
+<text> 翼の混種の遺灰 </text>
+<text> しろがね人の遺灰 </text>
+<text> 民兵スケルトンの遺灰 </text>
+<text> 山賊スケルトンの遺灰 </text>
+<text> 神託の使者たちの遺灰 </text>
+<text> 腐った亡者の遺灰 </text>
+<text> 堕落調香師、カルマーン </text>
+<text> 調香師、トリシャ </text>
+<text> 輝石魔術師の遺灰 </text>
+<text> 双賢魔術師の遺灰 </text>
+<text> 小姓の遺灰 </text>
+<text> 戦魔術師、ユーグ </text>
+<text> 泥人の遺灰 </text>
+<text> 貴腐の騎士、フィンレイ </text>
+<text> 腐敗の眷属の遺灰 </text>
+<text> 人形兵の遺灰 </text>
+<text> 鳥人形兵の遺灰 </text>
+<text> 火の僧兵の遺灰 </text>
+<text> 黒炎僧兵、アモン </text>
+<text> 蛇人の遺灰 </text>
+<text> アズラの獣人の遺灰 </text>
+<text> カイデンの傭兵の遺灰 </text>
+<text> はぐれ狼の遺灰 </text>
+<text> 大ネズミの遺灰 </text>
+<text> 亜人団の遺灰 </text>
+<text> 腐った野犬の遺灰 </text>
+<text> 霊クラゲの遺灰 </text>
+<text> 戦鷹の遺灰 </text>
+<text> 嵐の鷹、ディーネ </text>
+<text> 猟犬騎士、フロー </text>
+<text> さまよえる貴人の遺灰 </text>
+<text> 貴人の魔術師の遺灰 </text>
+<text> 卑兵の遺灰 </text>
+<text> かぼちゃの狂兵の遺灰 </text>
+<text> 陸ほやの遺灰 </text>
+<text> 小ミランダの遺灰 </text>
+<text> 特攻野郎たちの遺灰 </text>
+<text> 忌み潰しのロロ </text>
+<text> 大盾兵の遺灰 </text>
+<text> 弓兵の遺灰 </text>
+<text> ゴドリック兵の遺灰 </text>
+<text> レアルカリア兵の遺灰 </text>
+<text> ローデイル兵の遺灰 </text>
+<text> ラダーン兵の遺灰 </text>
+<text> 霊廟兵の遺灰 </text>
+<text> 聖樹兵の遺灰 </text>
+<text> 古竜の騎士、クリストフ </text>
+<text> 赤獅子騎士、オウガ </text>
+<text> 首なし騎士、ルーテル </text>
+<text> ネフェリ・ルーの傀儡 </text>
+<text> 糞喰いの傀儡 </text>
+<text> 指巫女サロリナの傀儡 </text>
+<text> 眠りのドローレスの傀儡 </text>
+<text> 壺男の傀儡 </text>
 
 </entries>
-
-
-
-

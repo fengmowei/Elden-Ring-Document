@@ -1,23 +1,176 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
 
-<text>輝石のつぶて</text>
-<text>輝石の流星</text>
-<text>輝石のアーク</text>
-<text>魔力のシャボン</text>
-<text>罪の茨</text>
-<text>メテオライト</text>
-<text>カーリアの貫き</text>
-<text>性急な回復</text>
-<text>回復</text>
-<text>毒の治療</text>
-<text>拒絶</text>
-<text>死を正す聖律</text>
-<text>火よ！</text>
-<text>火をくらえ</text>
-<text>獣爪</text>
-<text>竜炎</text>
-<text>グレイオールの咆哮</text>
-<text>狂い火</text>
+<text> 輝石のつぶて </text>
+<text> 輝石の大つぶて </text>
+<text> 輝石の速つぶて </text>
+<text> 輝石の彗星 </text>
+<text> ほうき星 </text>
+<text> 渦巻くつぶて </text>
+<text> 輝石の流星 </text>
+<text> 流星群 </text>
+<text> 結晶連弾 </text>
+<text> 輝石のアーク </text>
+<text> ハイマの砲丸 </text>
+<text> 結晶散弾 </text>
+<text> 岩盤砕き </text>
+<text> 岩盤発破 </text>
+<text> ハイマの大槌 </text>
+<text> 魔術の地 </text>
+<text> 星灯り </text>
+<text> 彗星アズール </text>
+<text> 創星雨 </text>
+<text> 滅びの流星 </text>
+<text> 輝剣の円陣 </text>
+<text> カーリアの円陣 </text>
+<text> 巨剣陣 </text>
+<text> レナラの満月 </text>
+<text> ラニの暗月 </text>
+<text> 降り注ぐ魔力 </text>
+<text> ローレッタの大弓 </text>
+<text> ローレッタの絶技 </text>
+<text> 魔術の輝剣 </text>
+<text> 輝石の氷塊 </text>
+<text> ザミェルの氷嵐 </text>
+<text> 氷の霧 </text>
+<text> カーリアの大剣 </text>
+<text> アデューラの月の剣 </text>
+<text> カーリアの速剣 </text>
+<text> カーリアの貫き </text>
+<text> 魔力の武器 </text>
+<text> 魔力の盾 </text>
+<text> 冷静 </text>
+<text> 氷結の武器 </text>
+<text> 砕け散る結晶 </text>
+<text> 結晶の解放 </text>
+<text> 放たれる結晶 </text>
+<text> 奇襲のつぶて </text>
+<text> 夜のつぶて </text>
+<text> 夜の彗星 </text>
+<text> トープスの力場 </text>
+<text> カーリアの返報 </text>
+<text> 永遠の暗黒 </text>
+<text> 見えざる刃 </text>
+<text> 見えざる姿 </text>
+<text> メテオライト </text>
+<text> アステール・メテオ </text>
+<text> 岩石弾 </text>
+<text> 重力弾 </text>
+<text> 星砕き </text>
+<text> 溶岩弾 </text>
+<text> ゲルミアの怒り </text>
+<text> たぎる溶岩 </text>
+<text> ライカードの怨霊 </text>
+<text> 罪の茨 </text>
+<text> 罰の茨 </text>
+<text> 怨霊呼び </text>
+<text> 古き死の怨霊 </text>
+<text> 爆ぜる霊炎 </text>
+<text> フィアの霧 </text>
+<text> ティビアの呼び声 </text>
+<text> 死の雷撃 </text>
+<text> 神託のシャボン </text>
+<text> 神託の大シャボン </text>
+<text> 火付け </text>
+<text> 火よ！ </text>
+<text> 火投げ </text>
+<text> 火よ、降り注げ </text>
+<text> 火よ、渦巻け </text>
+<text> 火の癒しよ </text>
+<text> 火よ、力を！ </text>
+<text> 火の護りよ </text>
+<text> 巨人の火をくらえ </text>
+<text> 悪神の火 </text>
+<text> 火よ、焼き尽くせ！ </text>
+<text> 黒炎 </text>
+<text> 火よ、迸れ </text>
+<text> 薙ぎ払う黒炎 </text>
+<text> 黒炎の儀式 </text>
+<text> 黒炎の刃 </text>
+<text> 黒炎の護り </text>
+<text> 貴種の腹芸 </text>
+<text> 血炎の爪痕 </text>
+<text> 血授 </text>
+<text> 血炎の刃 </text>
+<text> 黄金の魔力防護 </text>
+<text> 黄金樹の護り </text>
+<text> 拒絶 </text>
+<text> 黄金の怒り </text>
+<text> 性急な回復 </text>
+<text> 回復 </text>
+<text> 大回復 </text>
+<text> 王たる回復 </text>
+<text> 黄金樹の回復 </text>
+<text> 恵みの祝福 </text>
+<text> 黄金樹の恵み </text>
+<text> 毒の治癒 </text>
+<text> 王たる癒し </text>
+<text> 炎防護 </text>
+<text> 魔力防護 </text>
+<text> 雷防護 </text>
+<text> 聖防護 </text>
+<text> 王たる聖防護 </text>
+<text> 夜巫女の霧 </text>
+<text> 暗部の歩法 </text>
+<text> 影送り </text>
+<text> 暗闇 </text>
+<text> 黄金樹に誓って </text>
+<text> 光輪 </text>
+<text> 三なる光輪 </text>
+<text> ラダゴンの光輪 </text>
+<text> エルデの流星 </text>
+<text> 回帰性原理 </text>
+<text> 不易の盾 </text>
+<text> 死を正す聖律 </text>
+<text> 因果性原理 </text>
+<text> 聖律の剣 </text>
+<text> 聖律の治癒 </text>
+<text> 獣の石 </text>
+<text> グラングの岩 </text>
+<text> 獣爪 </text>
+<text> グラングの獣爪 </text>
+<text> 獣の生命 </text>
+<text> 獣の頑健 </text>
+<text> 雷の槍 </text>
+<text> 古竜の雷撃 </text>
+<text> 雷撃 </text>
+<text> 氷の雷槍 </text>
+<text> 狙いすます雷撃 </text>
+<text> 古竜の雷槍 </text>
+<text> フォルサクスの雷槍 </text>
+<text> ランサクスの薙刀 </text>
+<text> 雷の武器 </text>
+<text> ヴァイクの竜雷 </text>
+<text> 竜雷の加護 </text>
+<text> 竜炎 </text>
+<text> アギールの炎 </text>
+<text> 溶岩ブレス </text>
+<text> テオドリックスの溶岩 </text>
+<text> 竜氷 </text>
+<text> ボレアリスの氷霧 </text>
+<text> 腐敗ブレス </text>
+<text> エグズキスの腐敗 </text>
+<text> 輝石ブレス </text>
+<text> スマラグの輝石 </text>
+<text> プラキドサクスの滅び </text>
+<text> 竜爪 </text>
+<text> 竜咬 </text>
+<text> グレイオールの咆哮 </text>
+<text> 蟲糸 </text>
+<text> 蠅たかり </text>
+<text> 毒霧 </text>
+<text> 毒の刃 </text>
+<text> 朱きエオニア </text>
+<text> 発狂伝染 </text>
+<text> 狂い火 </text>
+<text> 堪えきれぬ狂い火 </text>
+<text> 空裂狂火 </text>
+<text> シャブリリの叫び </text>
+<text> 坩堝の諸相・尾 </text>
+<text> 坩堝の諸相・角 </text>
+<text> 坩堝の諸相・喉袋 </text>
+<text> 黒き剣 </text>
+<text> 火の大罪 </text>
+<text> 黄金の雷防護 </text>
 
 </entries>
