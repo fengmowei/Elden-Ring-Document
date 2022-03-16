@@ -1,23 +1,176 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
 
-<text>Glintstone Pebble</text>
-<text>Glintstone Stars</text>
-<text>Glintstone Arc</text>
-<text>Magic Bubble</text>
-<text>Briars of Sin</text>
-<text>Meteorite</text>
-<text>Carian Piercer</text>
-<text>Urgent Heal</text>
-<text>Heal</text>
-<text>Cure Poison</text>
-<text>Rejection</text>
-<text>Litany of Proper Death</text>
-<text>Oh, Flame!</text>
-<text>Feast Upon Flame</text>
-<text>Beast Claw</text>
-<text>Dragonfire</text>
-<text>Greyoll's Roar</text>
-<text>The Flame of Frenzy</text>
+<text> Glintstone Pebble </text>
+<text> Great Glintstone Shard </text>
+<text> Swift Glintstone Shard </text>
+<text> Glintstone Cometshard </text>
+<text> Comet </text>
+<text> Shard Spiral </text>
+<text> Glintstone Stars </text>
+<text> Star Shower </text>
+<text> Crystal Barrage </text>
+<text> Glintstone Arc </text>
+<text> Cannon of Haima </text>
+<text> Crystal Burst </text>
+<text> Shatter Earth </text>
+<text> Rock Blaster </text>
+<text> Gavel of Haima </text>
+<text> Terra Magicus </text>
+<text> Starlight </text>
+<text> Comet Azur </text>
+<text> Founding Rain of Stars </text>
+<text> Stars of Ruin </text>
+<text> Glintblade Phalanx </text>
+<text> Carian Phalanx </text>
+<text> Greatblade Phalanx </text>
+<text> Rennala's Full Moon </text>
+<text> Ranni's Dark Moon </text>
+<text> Magic Downpour </text>
+<text> Loretta's Greatbow </text>
+<text> Loretta's Mastery </text>
+<text> Magic Glintblade </text>
+<text> Glintstone Icecrag </text>
+<text> Zamor Ice Storm </text>
+<text> Freezing Mist </text>
+<text> Carian Greatsword </text>
+<text> Adula's Moonblade </text>
+<text> Carian Slicer </text>
+<text> Carian Piercer </text>
+<text> Scholar's Armament </text>
+<text> Scholar's Shield </text>
+<text> Lucidity </text>
+<text> Frozen Armament </text>
+<text> Shattering Crystal </text>
+<text> Crystal Release </text>
+<text> Crystal Torrent </text>
+<text> Ambush Shard </text>
+<text> Night Shard </text>
+<text> Night Comet </text>
+<text> Thops's Barrier </text>
+<text> Carian Retaliation </text>
+<text> Eternal Darkness </text>
+<text> Unseen Blade </text>
+<text> Unseen Form </text>
+<text> Meteorite </text>
+<text> Meteorite of Astel </text>
+<text> Rock Sling </text>
+<text> Gravity Well </text>
+<text> Collapsing Stars </text>
+<text> Magma Shot </text>
+<text> Gelmir's Fury </text>
+<text> Roiling Magma </text>
+<text> Rykard's Rancor </text>
+<text> Briars of Sin </text>
+<text> Briars of Punishment </text>
+<text> Rancorcall </text>
+<text> Ancient Death Rancor </text>
+<text> Explosive Ghostflame </text>
+<text> Fia's Mist </text>
+<text> Tibia's Summons </text>
+<text> Death Lightning </text>
+<text> Oracle Bubbles </text>
+<text> Great Oracular Bubble </text>
+<text> Catch Flame </text>
+<text> O, Flame! </text>
+<text> Flame Sling </text>
+<text> Flame, Fall Upon Them </text>
+<text> Whirl, O Flame! </text>
+<text> Flame, Cleanse Me </text>
+<text> Flame, Grant Me Strength </text>
+<text> Flame, Protect Me </text>
+<text> Giantsflame Take Thee </text>
+<text> Flame of the Fell God </text>
+<text> Burn, O Flame! </text>
+<text> Black Flame </text>
+<text> Surge, O Flame! </text>
+<text> Scouring Black Flame </text>
+<text> Black Flame Ritual </text>
+<text> Black Flame Blade </text>
+<text> Black Flame's Protection </text>
+<text> Noble Presence </text>
+<text> Bloodflame Talons </text>
+<text> Bloodboon </text>
+<text> Bloodflame Blade </text>
+<text> Barrier of Gold </text>
+<text> Protection of the Erdtree </text>
+<text> Rejection </text>
+<text> Wrath of Gold </text>
+<text> Urgent Heal </text>
+<text> Heal </text>
+<text> Great Heal </text>
+<text> Lord's Heal </text>
+<text> Erdtree Heal </text>
+<text> Blessing's Boon </text>
+<text> Blessing of the Erdtree </text>
+<text> Cure Poison </text>
+<text> Lord's Aid </text>
+<text> Flame Fortification </text>
+<text> Magic Fortification </text>
+<text> Lightning Fortification </text>
+<text> Divine Fortification </text>
+<text> Lord's Divine Fortification </text>
+<text> Night Maiden's Mist </text>
+<text> Assassin's Approach </text>
+<text> Shadow Bait </text>
+<text> Darkness </text>
+<text> Golden Vow </text>
+<text> Discus of Light </text>
+<text> Triple Rings of Light </text>
+<text> Radagon's Rings of Light </text>
+<text> Elden Stars </text>
+<text> Law of Regression </text>
+<text> Immutable Shield </text>
+<text> Litany of Proper Death </text>
+<text> Law of Causality </text>
+<text> Order's Blade </text>
+<text> Order Healing </text>
+<text> Bestial Sling </text>
+<text> Stone of Gurranq </text>
+<text> Beast Claw </text>
+<text> Gurranq's Beast Claw </text>
+<text> Bestial Vitality </text>
+<text> Bestial Constitution </text>
+<text> Lightning Spear </text>
+<text> Ancient Dragons' Lightning Strike </text>
+<text> Lightning Strike </text>
+<text> Frozen Lightning Spear </text>
+<text> Honed Bolt </text>
+<text> Ancient Dragons' Lightning Spear </text>
+<text> Fortissax's Lightning Spear </text>
+<text> Lansseax's Glaive </text>
+<text> Electrify Armament </text>
+<text> Vyke's Dragonbolt </text>
+<text> Dragonbolt Blessing </text>
+<text> Dragonfire </text>
+<text> Agheel's Flame </text>
+<text> Magma Breath </text>
+<text> Theodorix's Magma </text>
+<text> Dragonice </text>
+<text> Borealis's Mist </text>
+<text> Rotten Breath </text>
+<text> Ekzykes's Decay </text>
+<text> Glintstone Breath </text>
+<text> Smarag's Glintstone Breath </text>
+<text> Placidusax's Ruin </text>
+<text> Dragonclaw </text>
+<text> Dragonmaw </text>
+<text> Greyoll's Roar </text>
+<text> Pest Threads </text>
+<text> Swarm of Flies </text>
+<text> Poison Mist </text>
+<text> Poison Armament </text>
+<text> Scarlet Aeonia </text>
+<text> Inescapable Frenzy </text>
+<text> The Flame of Frenzy </text>
+<text> Unendurable Frenzy </text>
+<text> Frenzied Burst </text>
+<text> Howl of Shabriri </text>
+<text> Aspects of the Crucible: Tail </text>
+<text> Aspects of the Crucible: Horns </text>
+<text> Aspects of the Crucible: Breath </text>
+<text> Black Blade </text>
+<text> Fire's Deadly Sin </text>
+<text> Golden Lightning Fortification </text>
 
 </entries>

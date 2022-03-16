@@ -1,33 +1,508 @@
 <?xml version="1.0" encoding="utf-8"?>
 <entries>
 
-<text>Bloody Wolf Helm</text>
-<text>Bloody Wolf Armor</text>
-<text>Bloody Wolf Gauntlets</text>
-<text>Bloody Wolf Greaves</text>
-<text>Carian Knight Helm</text>
-<text>Carian Knight Armor</text>
-<text>Carian Knight Gauntlets</text>
-<text>Carian Knight Greaves</text>
-<text>Champion Headband</text>
-<text>Champion Pauldron</text>
-<text>Champion Gauntlets</text>
-<text>Badland Gaiters</text>
-<text>Crucible Axe Helm</text>
-<text>Crucible Axe Armor</text>
-<text>Crucible Gauntlets</text>
-<text>Crucible Greaves</text>
-<text>Prophet Blindfold</text>
-<text>Prophet Robe</text>
-<text>Prophet Trousers</text>
-<text>Karolos Mask</text>
-<text>Raya Lucarian Robe</text>
-<text>Sorcerer Manchettes</text>
-<text>Sorcerer Leggings</text>
-<text>Blue Cloth Cowl</text>
-<text>Blue Cloth Vest</text>
-<text>Swordsman Gauntlets</text>
-<text>Swordsman Greaves</text>
-<text>Pumpkin Helm</text>
+<text> Iron Helmet </text>
+<text> Scale Armor </text>
+<text> Iron Gauntlets </text>
+<text> Leather Trousers </text>
+<text> Kaiden Helm </text>
+<text> Kaiden Armor </text>
+<text> Kaiden Gauntlets </text>
+<text> Kaiden Trousers </text>
+<text> Drake Knight Helm </text>
+<text> Drake Knight Armor </text>
+<text> Drake Knight Gauntlets </text>
+<text> Drake Knight Greaves </text>
+<text> Scaled Helm </text>
+<text> Scaled Armor </text>
+<text> Scaled Gauntlets </text>
+<text> Scaled Greaves </text>
+<text> Perfumer Hood </text>
+<text> Perfumer Robe </text>
+<text> Perfumer Gloves </text>
+<text> Perfumer Sarong </text>
+<text> Traveler's Hat </text>
+<text> Perfumer's Traveling Garb </text>
+<text> Traveler's Gloves </text>
+<text> Traveler's Slops </text>
+<text> Alberich's Pointed Hat </text>
+<text> Alberich's Robe </text>
+<text> Alberich's Bracers </text>
+<text> Alberich's Trousers </text>
+<text> Spellblade's Pointed Hat </text>
+<text> Spellblade's Traveling Attire </text>
+<text> Spellblade's Gloves </text>
+<text> Spellblade's Trousers </text>
+<text> Bull-Goat Helm </text>
+<text> Bull-Goat Armor </text>
+<text> Bull-Goat Gauntlets </text>
+<text> Bull-Goat Greaves </text>
+<text> Iron Kasa </text>
+<text> Ronin's Armor </text>
+<text> Ronin's Gauntlets </text>
+<text> Ronin's Greaves </text>
+<text> Guilty Hood </text>
+<text> Cloth Garb </text>
+<text> Tarnished Wrap </text>
+<text> Cloth Trousers </text>
+<text> Black Wolf Mask </text>
+<text> Blaidd's Armor </text>
+<text> Blaidd's Gauntlets </text>
+<text> Blaidd's Greaves </text>
+<text> Black Knife Hood </text>
+<text> Black Knife Armor </text>
+<text> Black Knife Gauntlets </text>
+<text> Black Knife Greaves </text>
+<text> Exile Hood </text>
+<text> Exile Armor </text>
+<text> Exile Gauntlets </text>
+<text> Exile Greaves </text>
+<text> Banished Knight Helm </text>
+<text> Banished Knight Armor </text>
+<text> Banished Knight Gauntlets </text>
+<text> Banished Knight Greaves </text>
+<text> Briar Helm </text>
+<text> Briar Armor </text>
+<text> Briar Gauntlets </text>
+<text> Briar Greaves </text>
+<text> Page Hood </text>
+<text> Page Garb </text>
+<text> Page Trousers </text>
+<text> Night's Cavalry Helm </text>
+<text> Night's Cavalry Armor </text>
+<text> Night's Cavalry Gauntlets </text>
+<text> Night's Cavalry Greaves </text>
+<text> Blue Silver Mail Hood </text>
+<text> Blue Silver Mail Armor </text>
+<text> Blue Silver Bracelets </text>
+<text> Blue Silver Mail Skirt </text>
+<text> Nomadic Merchant's Chapeau </text>
+<text> Nomadic Merchant's Finery </text>
+<text> Nomadic Merchant's Trousers </text>
+<text> Malformed Dragon Helm </text>
+<text> Malformed Dragon Armor </text>
+<text> Malformed Dragon Gauntlets </text>
+<text> Malformed Dragon Greaves </text>
+<text> Tree Sentinel Helm </text>
+<text> Tree Sentinel Armor </text>
+<text> Tree Sentinel Gauntlets </text>
+<text> Tree Sentinel Greaves </text>
+<text> Royal Knight Helm </text>
+<text> Royal Knight Armor </text>
+<text> Royal Knight Gauntlets </text>
+<text> Royal Knight Greaves </text>
+<text> Nox Monk Hood </text>
+<text> Nox Monk Armor </text>
+<text> Nox Monk Bracelets </text>
+<text> Nox Monk Greaves </text>
+<text> Nox Swordstress Crown </text>
+<text> Nox Swordstress Armor </text>
+<text> Night Maiden Twin Crown </text>
+<text> Night Maiden Armor </text>
+<text> Great Horned Headband </text>
+<text> Fur Raiment </text>
+<text> Fur Leggings </text>
+<text> Shining Horned Headband </text>
+<text> Shaman Furs </text>
+<text> Shaman Leggings </text>
+<text> Duelist Helm </text>
+<text> Gravekeeper Cloak </text>
+<text> Duelist Greaves </text>
+<text> Sanguine Noble Hood </text>
+<text> Sanguine Noble Robe </text>
+<text> Sanguine Noble Waistcloth </text>
+<text> Guardian Mask </text>
+<text> Guardian Garb (Full Bloom) </text>
+<text> Guardian Bracers </text>
+<text> Guardian Greaves </text>
+<text> Guardian Garb </text>
+<text> Cleanrot Helm </text>
+<text> Cleanrot Armor </text>
+<text> Cleanrot Gauntlets </text>
+<text> Cleanrot Greaves </text>
+<text> Fire Monk Hood </text>
+<text> Fire Monk Armor </text>
+<text> Fire Monk Gauntlets </text>
+<text> Fire Monk Greaves </text>
+<text> Blackflame Monk Hood </text>
+<text> Blackflame Monk Armor </text>
+<text> Blackflame Monk Gauntlets </text>
+<text> Blackflame Monk Greaves </text>
+<text> Fire Prelate Helm </text>
+<text> Fire Prelate Armor </text>
+<text> Fire Prelate Gauntlets </text>
+<text> Fire Prelate Greaves </text>
+<text> Aristocrat Headband </text>
+<text> Aristocrat Garb </text>
+<text> Aristocrat Boots </text>
+<text> Aristocrat Hat </text>
+<text> Aristocrat Coat </text>
+<text> Old Aristocrat Cowl </text>
+<text> Old Aristocrat Gown </text>
+<text> Old Aristocrat Shoes </text>
+<text> Vulgar Militia Helm </text>
+<text> Vulgar Militia Armor </text>
+<text> Vulgar Militia Gauntlets </text>
+<text> Vulgar Militia Greaves </text>
+<text> Sage Hood </text>
+<text> Sage Robe </text>
+<text> Sage Trousers </text>
+<text> Pumpkin Helm </text>
+<text> Elden Lord Crown </text>
+<text> Elden Lord Armor </text>
+<text> Elden Lord Bracers </text>
+<text> Elden Lord Greaves </text>
+<text> Radahn's Redmane Helm </text>
+<text> Radahn's Lion Armor </text>
+<text> Radahn's Gauntlets </text>
+<text> Radahn's Greaves </text>
+<text> Lord of Blood's Robe </text>
+<text> Queen's Crescent Crown </text>
+<text> Queen's Robe </text>
+<text> Queen's Bracelets </text>
+<text> Queen's Leggings </text>
+<text> Godskin Apostle Hood </text>
+<text> Godskin Apostle Robe </text>
+<text> Godskin Apostle Bracelets </text>
+<text> Godskin Apostle Trousers </text>
+<text> Godskin Noble Hood </text>
+<text> Godskin Noble Robe </text>
+<text> Godskin Noble Bracelets </text>
+<text> Godskin Noble Trousers </text>
+<text> Depraved Perfumer Headscarf </text>
+<text> Depraved Perfumer Robe </text>
+<text> Depraved Perfumer Gloves </text>
+<text> Depraved Perfumer Trousers </text>
+<text> Crucible Axe Helm </text>
+<text> Crucible Axe Armor </text>
+<text> Crucible Gauntlets </text>
+<text> Crucible Greaves </text>
+<text> Crucible Tree Helm </text>
+<text> Crucible Tree Armor </text>
+<text> Lusat's Glintstone Crown </text>
+<text> Lusat's Robe </text>
+<text> Lusat's Manchettes </text>
+<text> Old Sorcerer's Legwraps </text>
+<text> Azur's Glintstone Crown </text>
+<text> Azur's Glintstone Robe </text>
+<text> Azur's Manchettes </text>
+<text> All-Knowing Helm </text>
+<text> All-Knowing Armor </text>
+<text> All-Knowing Gauntlets </text>
+<text> All-Knowing Greaves </text>
+<text> Twinned Helm </text>
+<text> Twinned Armor </text>
+<text> Twinned Gauntlets </text>
+<text> Twinned Greaves </text>
+<text> Ragged Hat </text>
+<text> Ragged Armor </text>
+<text> Ragged Gloves </text>
+<text> Ragged Loincloth </text>
+<text> Prophet Blindfold </text>
+<text> Corhyn's Robe </text>
+<text> Prophet Trousers </text>
+<text> Prophet Robe </text>
+<text> Astrologer Hood </text>
+<text> Astrologer Robe </text>
+<text> Astrologer Gloves </text>
+<text> Astrologer Trousers </text>
+<text> Lionel's Helm </text>
+<text> Lionel's Armor </text>
+<text> Lionel's Gauntlets </text>
+<text> Lionel's Greaves </text>
+<text> Hoslow's Helm </text>
+<text> Hoslow's Armor </text>
+<text> Hoslow's Gauntlets </text>
+<text> Hoslow's Greaves </text>
+<text> Diallos's Mask </text>
+<text> Vagabond Knight Helm </text>
+<text> Vagabond Knight Armor </text>
+<text> Vagabond Knight Gauntlets </text>
+<text> Vagabond Knight Greaves </text>
+<text> Blue Cloth Cowl </text>
+<text> Blue Cloth Vest </text>
+<text> Warrior Gauntlets </text>
+<text> Warrior Greaves </text>
+<text> White Mask </text>
+<text> War Surgeon Gown </text>
+<text> War Surgeon Gloves </text>
+<text> War Surgeon Trousers </text>
+<text> Royal Remains Helm </text>
+<text> Royal Remains Armor </text>
+<text> Royal Remains Gauntlets </text>
+<text> Royal Remains Greaves </text>
+<text> Brave's Cord Circlet </text>
+<text> Brave's Battlewear </text>
+<text> Brave's Bracer </text>
+<text> Brave's Legwraps </text>
+<text> Brave's Leather Helm </text>
+<text> Beast Champion Helm </text>
+<text> Beast Champion Armor </text>
+<text> Beast Champion Gauntlets </text>
+<text> Beast Champion Greaves </text>
+<text> Champion Headband </text>
+<text> Champion Pauldron </text>
+<text> Champion Bracers </text>
+<text> Champion Gaiters </text>
+<text> Crimson Hood </text>
+<text> Noble's Traveling Garb </text>
+<text> Noble's Gloves </text>
+<text> Noble's Trousers </text>
+<text> Navy Hood </text>
+<text> Maliketh's Helm </text>
+<text> Maliketh's Armor </text>
+<text> Maliketh's Gauntlets </text>
+<text> Maliketh's Greaves </text>
+<text> Malenia's Winged Helm </text>
+<text> Malenia's Armor </text>
+<text> Malenia's Gauntlet </text>
+<text> Malenia's Greaves </text>
+<text> Veteran's Helm </text>
+<text> Veteran's Armor </text>
+<text> Veteran's Gauntlets </text>
+<text> Veteran's Greaves </text>
+<text> Bloodhound Knight Helm </text>
+<text> Bloodhound Knight Armor </text>
+<text> Bloodhound Knight Gauntlets </text>
+<text> Bloodhound Knight Greaves </text>
+<text> Festive Hood </text>
+<text> Festive Garb </text>
+<text> Festive Hood (Altered) </text>
+<text> Festive Garb (Altered) </text>
+<text> Blue Festive Hood </text>
+<text> Blue Festive Garb </text>
+<text> Commoner's Headband </text>
+<text> Commoner's Garb </text>
+<text> Commoner's Shoes </text>
+<text> Commoner's Simple Garb </text>
+<text> Envoy Crown </text>
+<text> Twinsage Glintstone Crown </text>
+<text> Raya Lucarian Robe </text>
+<text> Sorcerer Manchettes </text>
+<text> Sorcerer Leggings </text>
+<text> Olivinus Glintstone Crown </text>
+<text> Lazuli Glintstone Crown </text>
+<text> Karolos Glintstone Crown </text>
+<text> Witch's Glintstone Crown </text>
+<text> Marionette Soldier Helm </text>
+<text> Marionette Soldier Armor </text>
+<text> Marionette Soldier Birdhelm </text>
+<text> Raging Wolf Helm </text>
+<text> Raging Wolf Armor </text>
+<text> Raging Wolf Gauntlets </text>
+<text> Raging Wolf Greaves </text>
+<text> Land of Reeds Helm </text>
+<text> Land of Reeds Armor </text>
+<text> Land of Reeds Gauntlets </text>
+<text> Land of Reeds Greaves </text>
+<text> Okina Mask </text>
+<text> White Reed Armor </text>
+<text> White Reed Gauntlets </text>
+<text> White Reed Greaves </text>
+<text> Confessor Hood </text>
+<text> Confessor Armor </text>
+<text> Confessor Gloves </text>
+<text> Confessor Boots </text>
+<text> Prisoner Iron Mask </text>
+<text> Prisoner Clothing </text>
+<text> Prisoner Trousers </text>
+<text> Blackguard's Iron Mask </text>
+<text> Traveling Maiden Hood </text>
+<text> Traveling Maiden Robe </text>
+<text> Traveling Maiden Gloves </text>
+<text> Traveling Maiden Boots </text>
+<text> Finger Maiden Fillet </text>
+<text> Finger Maiden Robe </text>
+<text> Finger Maiden Shoes </text>
+<text> Preceptor's Big Hat </text>
+<text> Preceptor's Long Gown </text>
+<text> Preceptor's Gloves </text>
+<text> Preceptor's Trousers </text>
+<text> Mask of Confidence </text>
+<text> Skeletal Mask </text>
+<text> Raptor's Black Feathers </text>
+<text> Bandit Manchettes </text>
+<text> Bandit Boots </text>
+<text> Bandit Garb </text>
+<text> Eccentric's Hood </text>
+<text> Eccentric's Armor </text>
+<text> Eccentric's Manchettes </text>
+<text> Eccentric's Breeches </text>
+<text> Fingerprint Helm </text>
+<text> Fingerprint Armor </text>
+<text> Fingerprint Gauntlets </text>
+<text> Fingerprint Greaves </text>
+<text> Consort's Mask </text>
+<text> Consort's Robe </text>
+<text> Consort's Trousers </text>
+<text> Ruler's Mask </text>
+<text> Ruler's Robe </text>
+<text> Upper-Class Robe </text>
+<text> Marais Mask </text>
+<text> Marais Robe </text>
+<text> Bloodsoaked Manchettes </text>
+<text> Bloodsoaked Mask </text>
+<text> Official's Attire </text>
+<text> Omen Helm </text>
+<text> Omen Armor </text>
+<text> Omen Gauntlets </text>
+<text> Omen Greaves </text>
+<text> Carian Knight Helm </text>
+<text> Carian Knight Armor </text>
+<text> Carian Knight Gauntlets </text>
+<text> Carian Knight Greaves </text>
+<text> Hierodas Glintstone Crown </text>
+<text> Errant Sorcerer Robe </text>
+<text> Errant Sorcerer Manchettes </text>
+<text> Errant Sorcerer Boots </text>
+<text> Haima Glintstone Crown </text>
+<text> Battlemage Robe </text>
+<text> Battlemage Manchettes </text>
+<text> Battlemage Legwraps </text>
+<text> Snow Witch Hat </text>
+<text> Snow Witch Robe </text>
+<text> Snow Witch Skirt </text>
+<text> Traveler's Clothes </text>
+<text> Traveler's Manchettes </text>
+<text> Traveler's Boots </text>
+<text> Juvenile Scholar Cap </text>
+<text> Juvenile Scholar Robe </text>
+<text> Radiant Gold Mask </text>
+<text> Goldmask's Rags </text>
+<text> Gold Bracelets </text>
+<text> Gold Waistwrap </text>
+<text> Fell Omen Cloak </text>
+<text> Albinauric Mask </text>
+<text> Dirty Chainmail </text>
+<text> Zamor Mask </text>
+<text> Zamor Armor </text>
+<text> Zamor Bracelets </text>
+<text> Zamor Legwraps </text>
+<text> Imp Head (Cat) </text>
+<text> Imp Head (Fanged) </text>
+<text> Imp Head (Long-Tongued) </text>
+<text> Imp Head (Corpse) </text>
+<text> Imp Head (Wolf) </text>
+<text> Imp Head (Elder) </text>
+<text> Silver Tear Mask </text>
+<text> Chain Coif </text>
+<text> Chain Armor </text>
+<text> Chain Gauntlets </text>
+<text> Chain Leggings </text>
+<text> Greathelm </text>
+<text> Eye Surcoat </text>
+<text> Tree Surcoat </text>
+<text> Octopus Head </text>
+<text> Jar </text>
+<text> Mushroom Head </text>
+<text> Mushroom Body </text>
+<text> Mushroom Arms </text>
+<text> Mushroom Legs </text>
+<text> Nox Mirrorhelm </text>
+<text> Iji's Mirrorhelm </text>
+<text> Black Hood </text>
+<text> Leather Armor </text>
+<text> Leather Gloves </text>
+<text> Leather Boots </text>
+<text> Bandit Mask </text>
+<text> Knight Helm </text>
+<text> Knight Armor </text>
+<text> Knight Gauntlets </text>
+<text> Knight Greaves </text>
+<text> Greathood </text>
+<text> Godrick Soldier Helm </text>
+<text> Tree-and-Beast Surcoat </text>
+<text> Godrick Soldier Gauntlets </text>
+<text> Godrick Soldier Greaves </text>
+<text> Raya Lucarian Helm </text>
+<text> Cuckoo Surcoat </text>
+<text> Raya Lucarian Gauntlets </text>
+<text> Raya Lucarian Greaves </text>
+<text> Leyndell Soldier Helm </text>
+<text> Erdtree Surcoat </text>
+<text> Leyndell Soldier Gauntlets </text>
+<text> Leyndell Soldier Greaves </text>
+<text> Radahn Soldier Helm </text>
+<text> Redmane Surcoat </text>
+<text> Radahn Soldier Gauntlets </text>
+<text> Radahn Soldier Greaves </text>
+<text> Mausoleum Surcoat </text>
+<text> Mausoleum Gauntlets </text>
+<text> Mausoleum Greaves </text>
+<text> Haligtree Helm </text>
+<text> Haligtree Crest Surcoat </text>
+<text> Haligtree Gauntlets </text>
+<text> Haligtree Greaves </text>
+<text> Gelmir Knight Helm </text>
+<text> Gelmir Knight Armor </text>
+<text> Gelmir Knight Gauntlets </text>
+<text> Gelmir Knight Greaves </text>
+<text> Godrick Knight Helm </text>
+<text> Godrick Knight Armor </text>
+<text> Godrick Knight Gauntlets </text>
+<text> Godrick Knight Greaves </text>
+<text> Cuckoo Knight Helm </text>
+<text> Cuckoo Knight Armor </text>
+<text> Cuckoo Knight Gauntlets </text>
+<text> Cuckoo Knight Greaves </text>
+<text> Leyndell Knight Helm </text>
+<text> Leyndell Knight Armor </text>
+<text> Leyndell Knight Gauntlets </text>
+<text> Leyndell Knight Greaves </text>
+<text> Redmane Knight Helm </text>
+<text> Redmane Knight Armor </text>
+<text> Redmane Knight Gauntlets </text>
+<text> Redmane Knight Greaves </text>
+<text> Mausoleum Knight Armor </text>
+<text> Mausoleum Knight Gauntlets </text>
+<text> Mausoleum Knight Greaves </text>
+<text> Haligtree Knight Helm </text>
+<text> Haligtree Knight Armor </text>
+<text> Haligtree Knight Gauntlets </text>
+<text> Haligtree Knight Greaves </text>
+<text> Foot Soldier Cap </text>
+<text> Chain-Draped Tabard </text>
+<text> Foot Soldier Gauntlets </text>
+<text> Foot Soldier Greaves </text>
+<text> Foot Soldier Helmet </text>
+<text> Foot Soldier Tabard </text>
+<text> Gilded Foot Soldier Cap </text>
+<text> Leather-Draped Tabard </text>
+<text> Foot Soldier Helm </text>
+<text> Scarlet Tabard </text>
+<text> Bloodsoaked Tabard </text>
+<text> Sacred Crown Helm </text>
+<text> Ivory-Draped Tabard </text>
+<text> Omensmirk Mask </text>
+<text> Omenkiller Robe </text>
+<text> Omenkiller Long Gloves </text>
+<text> Omenkiller Boots </text>
+<text> Ash-of-War Scarab </text>
+<text> Incantation Scarab </text>
+<text> Glintstone Scarab </text>
+<text> Crimson Tear Scarab </text>
+<text> Cerulean Tear Scarab </text>
+<text> Deathbed Dress </text>
+<text> Deathbed Smalls </text>
+<text> Fia's Hood </text>
+<text> Fia's Robe </text>
+<text> 暂缺 </text>
+<text> Millicent's Robe </text>
+<text> Millicent's Gloves </text>
+<text> Millicent's Boots </text>
+<text> 暂缺 </text>
+<text> Millicent's Tunic </text>
+<text> Golden Prosthetic </text>
+<text> Highwayman Hood </text>
+<text> Highwayman Cloth Armor </text>
+<text> Highwayman Gauntlets </text>
+<text> High Page Hood </text>
+<text> High Page Clothes </text>
+<text> Rotten Duelist Helm </text>
+<text> Rotten Gravekeeper Cloak </text>
+<text> Rotten Duelist Greaves </text>
+<text> Mushroom Crown </text>
+<text> Black Dumpling </text>
+<text> Lazuli Robe </text>
 
 </entries>

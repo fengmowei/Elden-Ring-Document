@@ -1,28 +1,455 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
 
-<text>Reduvia</text>
-<text>Club</text>
-<text>Bastard Sword</text>
-<text>Ordovis' Greatsword</text>
-<text>Battle Axe</text>
-<text>Shortbow</text>
-<text>Carian Sorcerer Staff</text>
-<text>Winged Spear</text>
-<text>Lance</text>
-<text>Scimitar</text>
-<text>Dragonscale Blade</text>
-<text>Finger Seal</text>
-<text>Clawmark Seal</text>
-<text>Twinblade</text>
-<text>Longsword</text>
-<text>Red Thorn Roundshield</text>
-<text>Rickety Shield</text>
-<text>Iron Roundshield</text>
-<text>Buckler</text>
-<text>Carian Glintstone Shield</text>
-<text>Leather Shields</text>
-<text>Coil Shield</text>
-<text>Torch</text>
+<text> Unarmed </text>
+<text> Dagger </text>
+<text> Black Knife </text>
+<text> Parrying Dagger </text>
+<text> Miséricorde </text>
+<text> Reduvia </text>
+<text> Crystal Knife </text>
+<text> Celebrant's Sickle </text>
+<text> Glintstone Kris </text>
+<text> Scorpion's Stinger </text>
+<text> Great Knife </text>
+<text> Wakizashi </text>
+<text> Cinquedea </text>
+<text> Ivory Sickle </text>
+<text> Bloodstained Dagger </text>
+<text> Erdsteel Dagger </text>
+<text> Blade of Calling </text>
+<text> Longsword </text>
+<text> Short Sword </text>
+<text> Broadsword </text>
+<text> Royal Soldier Straight Sword </text>
+<text> Lordsworn's Straight Sword </text>
+<text> Weathered Straight Sword </text>
+<text> Ornamental Straight Sword </text>
+<text> Golden Epitaph </text>
+<text> Nox Flowing Sword </text>
+<text> Inseparable Sword </text>
+<text> Coded Sword </text>
+<text> Sword of Night and Flame </text>
+<text> Crystal Sword </text>
+<text> Carian Knight's Sword </text>
+<text> Sword of St. Trina </text>
+<text> Miquellan Knight's Sword </text>
+<text> Cane Sword </text>
+<text> Regalia of Eochaid </text>
+<text> Noble's Slender Sword </text>
+<text> Warhawk's Talon </text>
+<text> Lazuli Glintstone Sword </text>
+<text> Rotten Crystal Sword </text>
+<text> Bastard Sword </text>
+<text> Forked Greatsword </text>
+<text> Iron Greatsword </text>
+<text> Lordsworn's Greatsword </text>
+<text> Knight's Greatsword </text>
+<text> Flamberge </text>
+<text> Ordovis's Greatsword </text>
+<text> Alabaster Lord's Sword </text>
+<text> Banished Knight's Greatsword </text>
+<text> Dark Moon Greatsword </text>
+<text> Sacred Relic Sword </text>
+<text> Helphen's Steeple </text>
+<text> Blasphemous Blade </text>
+<text> Marais Executioner's Sword </text>
+<text> Sword of Milos </text>
+<text> Golden Order Greatsword </text>
+<text> Claymore </text>
+<text> Gargoyle's Greatsword </text>
+<text> Death's Poker </text>
+<text> Gargoyle's Blackblade </text>
+<text> Greatsword </text>
+<text> Watchdog's Greatsword </text>
+<text> Maliketh's Black Blade </text>
+<text> Troll's Golden Sword </text>
+<text> Zweihander </text>
+<text> Starscourge Greatsword </text>
+<text> Royal Greatsword </text>
+<text> Godslayer's Greatsword </text>
+<text> Ruins Greatsword </text>
+<text> Grafted Blade Greatsword </text>
+<text> Troll Knight's Sword </text>
+<text> Estoc </text>
+<text> Cleanrot Knight's Sword </text>
+<text> Rapier </text>
+<text> Rogier's Rapier </text>
+<text> Antspur Rapier </text>
+<text> Frozen Needle </text>
+<text> Noble's Estoc </text>
+<text> Bloody Helice </text>
+<text> Godskin Stitcher </text>
+<text> Great Épée </text>
+<text> Dragon King's Cragblade </text>
+<text> Falchion </text>
+<text> Beastman's Curved Sword </text>
+<text> Shotel </text>
+<text> Shamshir </text>
+<text> Bandit's Curved Sword </text>
+<text> Magma Blade </text>
+<text> Flowing Curved Sword </text>
+<text> Wing of Astel </text>
+<text> Scavenger's Curved Sword </text>
+<text> Sharktooth Curved Sword </text>
+<text> Eclipse Shotel </text>
+<text> Serpent-God's Curved Sword </text>
+<text> Mantis Blade </text>
+<text> Scimitar </text>
+<text> Grossmesser </text>
+<text> Onyx Lord's Greatsword </text>
+<text> Dismounter </text>
+<text> Bloodhound's Fang </text>
+<text> Magma Wyrm's Scalesword </text>
+<text> Zamor Curved Sword </text>
+<text> Omen Cleaver </text>
+<text> Monk's Flameblade </text>
+<text> Beastman's Cleaver </text>
+<text> Morgott's Cursed Sword </text>
+<text> Holy Inferno Greatsword </text>
+<text> Uchigatana </text>
+<text> Nagakiba </text>
+<text> Hand of Malenia </text>
+<text> Meteoric Ore Blade </text>
+<text> Rivers of Blood </text>
+<text> Moonveil </text>
+<text> Dragonscale Blade </text>
+<text> Serpentbone Blade </text>
+<text> Twinblade </text>
+<text> Godskin Peeler </text>
+<text> Twinned Knight Swords </text>
+<text> Eleonora's Poleblade </text>
+<text> Abundance and Decay Twinblade </text>
+<text> Abundance Twinblade </text>
+<text> Gargoyle's Twinblade </text>
+<text> Gargoyle's Black Blades </text>
+<text> Mace </text>
+<text> Club </text>
+<text> Curved Club </text>
+<text> Warpick </text>
+<text> Morning Star </text>
+<text> Varré's Bouquet </text>
+<text> Spiked Club </text>
+<text> Hammer </text>
+<text> Monk's Flamemace </text>
+<text> Envoy's Horn </text>
+<text> Scepter of the All-Knowing </text>
+<text> Nox Flowing Hammer </text>
+<text> Ringed Finger </text>
+<text> Stone Club </text>
+<text> Marika's Hammer </text>
+<text> Father Marika's Hammer </text>
+<text> Large Club </text>
+<text> Greathorn Hammer </text>
+<text> Battle Hammer </text>
+<text> Great Mace </text>
+<text> Curved Great Club </text>
+<text> Celebrant's Skull </text>
+<text> Pickaxe </text>
+<text> Beastclaw Greathammer </text>
+<text> Envoy's Long Horn </text>
+<text> Cranial Vessel Candlestand </text>
+<text> Great Stars </text>
+<text> Brick Hammer </text>
+<text> Devourer's Scepter </text>
+<text> Rotten Battle Hammer </text>
+<text> Nightrider Flail </text>
+<text> Flail </text>
+<text> Family Heads </text>
+<text> Bastard's Stars </text>
+<text> Chainlink Flail </text>
+<text> Battle Axe </text>
+<text> Forked Hatchet </text>
+<text> Hand Axe </text>
+<text> Jawbone Axe </text>
+<text> Iron Cleaver </text>
+<text> Ripple Blade </text>
+<text> Celebrant's Cleaver </text>
+<text> Icerind Hatchet </text>
+<text> Highland Axe </text>
+<text> Sacrificial Axe </text>
+<text> Rosus' Axe </text>
+<text> Burial Axe </text>
+<text> Stormhawk Axe </text>
+<text> Greataxe </text>
+<text> Warped Axe </text>
+<text> Great Omenkiller Cleaver </text>
+<text> Crescent Moon Axe </text>
+<text> Axe of Godrick </text>
+<text> Longhaft Axe </text>
+<text> Rusted Anchor </text>
+<text> Executioner's Greataxe </text>
+<text> Winged Greathorn </text>
+<text> Butchering Knife </text>
+<text> Gargoyle's Great Axe </text>
+<text> Gargoyle's Black Axe </text>
+<text> Short Spear </text>
+<text> Spear </text>
+<text> Crystal Spear </text>
+<text> Clayman's Harpoon </text>
+<text> Cleanrot Spear </text>
+<text> Partisan </text>
+<text> Celebrant's Rib-Rake </text>
+<text> Pike </text>
+<text> Torchpole </text>
+<text> Bolt of Gransax </text>
+<text> Cross-Naginata </text>
+<text> Death Ritual Spear </text>
+<text> Inquisitor's Girandole </text>
+<text> Spiked Spear </text>
+<text> Iron Spear </text>
+<text> Rotten Crystal Spear </text>
+<text> Mohgwyn's Sacred Spear </text>
+<text> Siluria's Tree </text>
+<text> Serpent-Hunter </text>
+<text> Vyke's War Spear </text>
+<text> Lance </text>
+<text> Treespear </text>
+<text> Halberd </text>
+<text> Pest's Glaive </text>
+<text> Lucerne </text>
+<text> Banished Knight's Halberd </text>
+<text> Commander's Standard </text>
+<text> Nightrider Glaive </text>
+<text> Ripple Crescent Halberd </text>
+<text> Vulgar Militia Saw </text>
+<text> Golden Halberd </text>
+<text> Glaive </text>
+<text> Loretta's War Sickle </text>
+<text> Guardian's Swordspear </text>
+<text> Vulgar Militia Shotel </text>
+<text> Dragon Halberd </text>
+<text> Gargoyle's Halberd </text>
+<text> Gargoyle's Black Halberd </text>
+<text> Scythe </text>
+<text> Grave Scythe </text>
+<text> Halo Scythe </text>
+<text> Heretic's Hook </text>
+<text> Winged Scythe </text>
+<text> Whip </text>
+<text> Thorned Whip </text>
+<text> Magma Whip Candlestick </text>
+<text> Hoslow's Petal Whip </text>
+<text> Giant's Red Braid </text>
+<text> Urumi </text>
+<text> Caestus </text>
+<text> Spiked Caestus </text>
+<text> Grafted Dragon </text>
+<text> Iron Ball </text>
+<text> Star Fist </text>
+<text> Katar </text>
+<text> Clinging Bone </text>
+<text> Veteran's Prosthesis </text>
+<text> Cipher Pata </text>
+<text> Hookclaws </text>
+<text> Bloodhound Claws </text>
+<text> Raptor Talons </text>
+<text> Prelate's Inferno Crozier </text>
+<text> Watchdog's Staff </text>
+<text> Great Club </text>
+<text> Envoy's Greathorn </text>
+<text> Duelist Greataxe </text>
+<text> Axe of Godfrey </text>
+<text> Dragon Greatclaw </text>
+<text> Staff of the Avatar </text>
+<text> Fallingstar Beast Jaw </text>
+<text> Ghiza's Wheel </text>
+<text> Giant-Crusher </text>
+<text> Golem's Halberd </text>
+<text> Troll's Hammer </text>
+<text> Rotten Staff </text>
+<text> Rotten Greataxe </text>
+<text> Torch </text>
+<text> Steel-Wire Torch </text>
+<text> St. Trina's Torch </text>
+<text> Ghostflame Torch </text>
+<text> Beast-Repellent Torch </text>
+<text> Sentry's Torch </text>
+<text> Buckler </text>
+<text> Perfumer's Shield </text>
+<text> Man-Serpent's Shield </text>
+<text> Rickety Shield </text>
+<text> Pillory Shield </text>
+<text> Beastman's Jar-Shield </text>
+<text> Red Thorn Roundshield </text>
+<text> Scripture Wooden Shield </text>
+<text> Riveted Wooden Shield </text>
+<text> Blue-White Wooden Shield </text>
+<text> Rift Shield </text>
+<text> Iron Roundshield </text>
+<text> Gilded Iron Shield </text>
+<text> Ice Crest Shield </text>
+<text> Smoldering Shield </text>
+<text> Spiralhorn Shield </text>
+<text> Coil Shield </text>
+<text> Kite Shield </text>
+<text> Marred Leather Shield </text>
+<text> Marred Wooden Shield </text>
+<text> Banished Knight's Shield </text>
+<text> Albinauric Shield </text>
+<text> Sun Realm Shield </text>
+<text> Silver Mirrorshield </text>
+<text> Round Shield </text>
+<text> Scorpion Kite Shield </text>
+<text> Twinbird Kite Shield </text>
+<text> Blue-Gold Kite Shield </text>
+<text> Brass Shield </text>
+<text> Great Turtle Shell </text>
+<text> Shield of the Guilty </text>
+<text> Carian Knight's Shield </text>
+<text> Large Leather Shield </text>
+<text> Horse Crest Wooden Shield </text>
+<text> Candletree Wooden Shield </text>
+<text> Flame Crest Wooden Shield </text>
+<text> Hawk Crest Wooden Shield </text>
+<text> Beast Crest Heater Shield </text>
+<text> Red Crest Heater Shield </text>
+<text> Blue Crest Heater Shield </text>
+<text> Eclipse Crest Heater Shield </text>
+<text> Inverted Hawk Heater Shield </text>
+<text> Heater Shield </text>
+<text> Black Leather Shield </text>
+<text> Dragon Towershield </text>
+<text> Distinguished Greatshield </text>
+<text> Crucible Hornshield </text>
+<text> Dragonclaw Shield </text>
+<text> Briar Greatshield </text>
+<text> Erdtree Greatshield </text>
+<text> Golden Beast Crest Shield </text>
+<text> Jellyfish Shield </text>
+<text> Fingerprint Stone Shield </text>
+<text> One-Eyed Shield </text>
+<text> Visage Shield </text>
+<text> Spiked Palisade Shield </text>
+<text> Manor Towershield </text>
+<text> Crossed-Tree Towershield </text>
+<text> Inverted Hawk Towershield </text>
+<text> Ant's Skull Plate </text>
+<text> Redmane Greatshield </text>
+<text> Eclipse Crest Greatshield </text>
+<text> Cuckoo Greatshield </text>
+<text> Golden Greatshield </text>
+<text> Gilded Greatshield </text>
+<text> Haligtree Crest Greatshield </text>
+<text> Wooden Greatshield </text>
+<text> Lordsworn's Shield </text>
+<text> Glintstone Staff </text>
+<text> Crystal Staff </text>
+<text> Gelmir Glintstone Staff </text>
+<text> Demi-Human Queen's Staff </text>
+<text> Carian Regal Scepter </text>
+<text> Digger's Staff </text>
+<text> Astrologer's Staff </text>
+<text> Carian Glintblade Staff </text>
+<text> Prince of Death's Staff </text>
+<text> Albinauric Staff </text>
+<text> Academy Glintstone Staff </text>
+<text> Carian Glintstone Staff </text>
+<text> Azur's Glintstone Staff </text>
+<text> Lusat's Glintstone Staff </text>
+<text> Meteorite Staff </text>
+<text> Staff of the Guilty </text>
+<text> Rotten Crystal Staff </text>
+<text> Staff of Loss </text>
+<text> Finger Seal </text>
+<text> Godslayer's Seal </text>
+<text> Giant's Seal </text>
+<text> Gravel Stone Seal </text>
+<text> Clawmark Seal </text>
+<text> %null% </text>
+<text> Golden Order Seal </text>
+<text> Erdtree Seal </text>
+<text> Dragon Communion Seal </text>
+<text> Frenzied Flame Seal </text>
+<text> Shortbow </text>
+<text> Misbegotten Shortbow </text>
+<text> Red Branch Shortbow </text>
+<text> Harp Bow </text>
+<text> Composite Bow </text>
+<text> Longbow </text>
+<text> Albinauric Bow </text>
+<text> Horn Bow </text>
+<text> Erdtree Bow </text>
+<text> Serpent Bow </text>
+<text> Pulley Bow </text>
+<text> Black Bow </text>
+<text> Lion Greatbow </text>
+<text> Golem Greatbow </text>
+<text> Erdtree Greatbow </text>
+<text> Greatbow </text>
+<text> Soldier's Crossbow </text>
+<text> Light Crossbow </text>
+<text> Heavy Crossbow </text>
+<text> Pulley Crossbow </text>
+<text> Full Moon Crossbow </text>
+<text> Arbalest </text>
+<text> Buckshot Crossbow </text>
+<text> Crepus's Black-Key Crossbow </text>
+<text> Hand Ballista </text>
+<text> Jar Cannon </text>
+<text> Arrow </text>
+<text> Fire Arrow </text>
+<text> Serpent Arrow </text>
+<text> Bone Arrow (Fletched) </text>
+<text> St. Trina's Arrow </text>
+<text> Shattershard Arrow (Fletched) </text>
+<text> Rainbow Stone Arrow (Fletched) </text>
+<text> Golden Arrow </text>
+<text> Dwelling Arrow </text>
+<text> Bone Arrow </text>
+<text> Firebone Arrow (Fletched) </text>
+<text> Firebone Arrow </text>
+<text> Poisonbone Arrow (Fletched) </text>
+<text> Poisonbone Arrow </text>
+<text> Sleepbone Arrow (Fletched) </text>
+<text> Sleepbone Arrow </text>
+<text> Stormwing Bone Arrow </text>
+<text> Lightningbone Arrow (Fletched) </text>
+<text> Lightningbone Arrow </text>
+<text> Rainbow Stone Arrow </text>
+<text> Shattershard Arrow </text>
+<text> Spiritflame Arrow </text>
+<text> Storm Arrow </text>
+<text> Magicbone Arrow (Fletched) </text>
+<text> Magicbone Arrow </text>
+<text> Haligbone Arrow (Fletched) </text>
+<text> Haligbone Arrow </text>
+<text> Bloodbone Arrow (Fletched) </text>
+<text> Bloodbone Arrow </text>
+<text> Coldbone Arrow (Fletched) </text>
+<text> Coldbone Arrow </text>
+<text> Rotbone Arrow (Fletched) </text>
+<text> Rotbone Arrow </text>
+<text> Great Arrow </text>
+<text> Golem's Great Arrow </text>
+<text> Golden Great Arrow </text>
+<text> Golem's Magic Arrow </text>
+<text> Radahn's Spear </text>
+<text> Bone Great Arrow (Fletched) </text>
+<text> Bone Great Arrow </text>
+<text> Bolt </text>
+<text> Lightning Bolt </text>
+<text> Perfumer's Bolt </text>
+<text> Black-Key Bolt </text>
+<text> Burred Bolt </text>
+<text> Meteor Bolt </text>
+<text> Explosive Bolt </text>
+<text> Golden Bolt </text>
+<text> Lordsworn's Bolt </text>
+<text> Bone Bolt </text>
+<text> Firebone Bolt </text>
+<text> Lightningbone Bolt </text>
+<text> Magicbone Bolt </text>
+<text> Haligbone Bolt </text>
+<text> Poisonbone Bolt </text>
+<text> Bloodbone Bolt </text>
+<text> Coldbone Bolt </text>
+<text> Rotbone Bolt </text>
+<text> Sleepbone Bolt </text>
+<text> Flaming Bolt </text>
+<text> Ballista Bolt </text>
+<text> Lightning Greatbolt </text>
+<text> Explosive Greatbolt </text>
+<text> Bone Ballista Bolt </text>
 
 </entries>

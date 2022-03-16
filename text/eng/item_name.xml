@@ -1,96 +1,688 @@
 <?xml version="1.0" encoding="utf-8"?>
 <entries>
 
-<text>Crafting Kit</text>
-<text>Map (Limgrave, West)</text>
-<text>Rusty Key</text>
-<text>Telescope</text>
-<text>Spectral Steed Whistle</text>
-<text>Arrow</text>
-<text>Blue Cipher Ring</text>
-<text>White Cipher Ring</text>
-<text>Furlcalling Finger Remedy</text>
-<text>Finger Severer</text>
-<text>Tarnished's Furled Finger</text>
-<text>Duelist's Furled Finger</text>
-<text>Tarnished's Wizened Finger</text>
-<text>Bloody Finger</text>
-<text>Taunter's Tongue</text>
-<text>Vision of Grace</text>
-<text>Small Golden Effigy</text>
-<text>Small Red Effigy</text>
-<text>Flask of Crimson Tears</text>
-<text>Flask of Cerulean Tears</text>
-<text>Fringefolk's Rune</text>
-<text>Holy Water Pot</text>
-<text>Scriptstone</text>
-<text>Rainbow Stone</text>
-<text>Rowa Raisin</text>
-<text>Roped Fire Pot</text>
-<text>Glowstone</text>
-<text>Flask of Wondrous Physick</text>
-<text>Pauper's Rune</text>
-<text>CURED IMMUNIZING MEAT</text>
-<text>Heavy Meteorite Fragment</text>
-<text>Pickled Turtle Neck</text>
-<text>Fire Grease</text>
-<text>Fireproof Dried Liver</text>
-<text>Fire Pot</text>
-<text>Bone Knife</text>
-<text>Staunching Boluses</text>
-<text>Gold-Pickled Fowl Foot</text>
-<text>Neutralizing Boluses</text>
-<text>Exalted Flesh</text>
-<text>Sleep Pot</text>
-<text>Dragon Heart</text>
-<text>Throwing Dagger</text>
-<text>Ruin Fragment</text>
-<text>Smithing Stone Shard</text>
-<text>Armorer's Cookbook</text>
-<text>Fevor's Cookbook</text>
-<text>Missionary's Cookbook</text>
-<text>Deserter's Cookbook</text>
-<text>Root Resin</text>
-<text>Bloodrose</text>
-<text>Arteria Leaf</text>
-<text>Sliver of Meat</text>
-<text>Beast Liver</text>
-<text>Lump of Flesh</text>
-<text>Smouldering Butterfly</text>
-<text>Poisonbloom</text>
-<text>Cave Moss</text>
-<text>Silver Firefly</text>
-<text>Turtle Neck Meat</text>
-<text>Land Octopus Ovary</text>
-<text>Strip of White Flesh</text>
-<text>Mushroom</text>
-<text>Gold-Tinged Excrement</text>
-<text>Tarnished Blossom</text>
-<text>Fulgurbloom</text>
-<text>Crab Eggs</text>
-<text>Great Dragonfly Head</text>
-<text>Herba</text>
-<text>Moon Egg</text>
-<text>Trina's Lily</text>
-<text>Rowa Fruit</text>
-<text>Thin Animal Bones</text>
-<text>Four-Toed Fowl Foot</text>
-<text>Flight Pinion</text>
-<text>String</text>
-<text>Cracked Pot</text>
-<text>Glintstone Scrap</text>
-<text>Erdleaf Flower</text>
-<text>Ruptured Crystal Tear</text>
-<text>GREENSPILL CRYSTAL TEAR</text>
-<text>CRIMSON CRYSTAL TEAR</text>
-<text>Cerulean Crystal Tear</text>
-<text>Firebone Arrow</text>
-<text>Firebone Arrow (Fletched)</text>
-<text>Bone Arrow</text>
-<text>Bone Arrow (Fletched)</text>
-<text>Trina's Arrow</text>
-<text>Sleepbone Arrow (Fletched)</text>
-<text>Poisonbone Arrow</text>
-<text>Poisonbone Arrow (Fletched)</text>
+<text> Tarnished's Furled Finger </text>
+<text> Duelist's Furled Finger </text>
+<text> Bloody Finger </text>
+<text> Finger Severer </text>
+<text> White Cipher Ring </text>
+<text> Blue Cipher Ring </text>
+<text> Tarnished's Wizened Finger </text>
+<text> Phantom Bloody Finger </text>
+<text> Taunter's Tongue </text>
+<text> Small Golden Effigy </text>
+<text> Small Red Effigy </text>
+<text> Festering Bloody Finger </text>
+<text> Recusant Finger </text>
+<text> Phantom Recusant Finger </text>
+<text> Memory of Grace </text>
+<text> Phantom Great Rune </text>
+<text> Furlcalling Finger Remedy </text>
+<text> Spectral Steed Whistle </text>
+<text> Rune Arc </text>
+<text> Godrick's Great Rune </text>
+<text> Radahn's Great Rune </text>
+<text> Morgott's Great Rune </text>
+<text> Rykard's Great Rune </text>
+<text> Mohg's Great Rune </text>
+<text> Malenia's Great Rune </text>
+<text> Flask of Crimson Tears </text>
+<text> Flask of Cerulean Tears </text>
+<text> Flask of Wondrous Physick </text>
+<text> Fire Pot </text>
+<text> Redmane Fire Pot </text>
+<text> Giantsflame Fire Pot </text>
+<text> Lightning Pot </text>
+<text> Ancient Dragonbolt Pot </text>
+<text> Fetid Pot </text>
+<text> Swarm Pot </text>
+<text> Holy Water Pot </text>
+<text> Sacred Order Pot </text>
+<text> Freezing Pot </text>
+<text> Poison Pot </text>
+<text> Oil Pot </text>
+<text> Alluring Pot </text>
+<text> Beastlure Pot </text>
+<text> Roped Fire Pot </text>
+<text> Roped Lightning Pot </text>
+<text> Roped Fetid Pot </text>
+<text> Roped Poison Pot </text>
+<text> Roped Oil Pot </text>
+<text> Roped Magic Pot </text>
+<text> Roped Fly Pot </text>
+<text> Roped Freezing Pot </text>
+<text> Roped Volcano Pot </text>
+<text> Roped Holy Water Pot </text>
+<text> Volcano Pot </text>
+<text> Albinauric Pot </text>
+<text> Cursed-Blood Pot </text>
+<text> Sleep Pot </text>
+<text> Rancor Pot </text>
+<text> Magic Pot </text>
+<text> Academy Magic Pot </text>
+<text> Rot Pot </text>
+<text> Rowa Raisin </text>
+<text> Sweet Raisin </text>
+<text> Frozen Raisin </text>
+<text> Boiled Crab </text>
+<text> Boiled Prawn </text>
+<text> Neutralizing Boluses </text>
+<text> Stanching Boluses </text>
+<text> Thawfrost Boluses </text>
+<text> Stimulating Boluses </text>
+<text> Preserving Boluses </text>
+<text> Rejuvenating Boluses </text>
+<text> Clarifying Boluses </text>
+<text> Pickled Turtle Neck </text>
+<text> Immunizing Cured Meat </text>
+<text> Invigorating Cured Meat </text>
+<text> Clarifying Cured Meat </text>
+<text> Dappled Cured Meat </text>
+<text> Spellproof Dried Liver </text>
+<text> Fireproof Dried Liver </text>
+<text> Lightningproof Dried Liver </text>
+<text> Holyproof Dried Liver </text>
+<text> Silver-Pickled Fowl Foot </text>
+<text> Gold-Pickled Fowl Foot </text>
+<text> Exalted Flesh </text>
+<text> Deathsbane Jerky </text>
+<text> Raw Meat Dumpling </text>
+<text> Shabriri Grape </text>
+<text> Starlight Shards </text>
+<text> Immunizing White Cured Meat </text>
+<text> Invigorating White Cured Meat </text>
+<text> Clarifying White Cured Meat </text>
+<text> Dappled White Cured Meat </text>
+<text> Deathsbane White Jerky </text>
+<text> Fire Grease </text>
+<text> Lightning Grease </text>
+<text> Magic Grease </text>
+<text> Holy Grease </text>
+<text> Blood Grease </text>
+<text> Soporific Grease </text>
+<text> Poison Grease </text>
+<text> Freezing Grease </text>
+<text> Dragonwound Grease </text>
+<text> Rot Grease </text>
+<text> Drawstring Fire Grease </text>
+<text> Drawstring Lightning Grease </text>
+<text> Drawstring Magic Grease </text>
+<text> Drawstring Holy Grease </text>
+<text> Drawstring Blood Grease </text>
+<text> Drawstring Soporific Grease </text>
+<text> Drawstring Poison Grease </text>
+<text> Drawstring Freezing Grease </text>
+<text> Drawstring Rot Grease </text>
+<text> Shield Grease </text>
+<text> Throwing Dagger </text>
+<text> Bone Dart </text>
+<text> Poisonbone Dart </text>
+<text> Kukri </text>
+<text> Crystal Dart </text>
+<text> Fan Daggers </text>
+<text> Ruin Fragment </text>
+<text> Fetid Flesh </text>
+<text> Explosive Stone </text>
+<text> Explosive Stone Clump </text>
+<text> Poisoned Stone </text>
+<text> Poisoned Stone Clump </text>
+<text> Rainbow Stone </text>
+<text> Glowstone </text>
+<text> Telescope </text>
+<text> Grace Mimic </text>
+<text> Lantern </text>
+<text> Blasphemous Claw </text>
+<text> Deathroot </text>
+<text> Soft Cotton </text>
+<text> Soap </text>
+<text> Celestial Dew </text>
+<text> Margit's Shackle </text>
+<text> Mohg's Shackle </text>
+<text> Pureblood Knight's Medal </text>
+<text> Miquella's Needle </text>
+<text> Prattling Pate "Hello" </text>
+<text> Prattling Pate "Thank you" </text>
+<text> Prattling Pate "Apologies" </text>
+<text> Prattling Pate "Wonderful" </text>
+<text> Prattling Pate "Please help" </text>
+<text> Prattling Pate "My beloved" </text>
+<text> Prattling Pate "Let's get to it" </text>
+<text> Prattling Pate "You're beautiful" </text>
+<text> Golden Rune </text>
+<text> Numen's Rune </text>
+<text> Hero's Rune </text>
+<text> Lord's Rune </text>
+<text> Remembrance of the Grafted </text>
+<text> Remembrance of the Starscourge </text>
+<text> Remembrance of the Omen King </text>
+<text> Remembrance of the Blasphemous </text>
+<text> Remembrance of the Rot Goddess </text>
+<text> Remembrance of the Blood Lord </text>
+<text> Remembrance of the Black Blade </text>
+<text> Remembrance of Hoarah Loux </text>
+<text> Remembrance of the Dragonlord </text>
+<text> Remembrance of the Full Moon Queen </text>
+<text> Remembrance of the Lichdragon </text>
+<text> Remembrance of the Fire Giant </text>
+<text> Remembrance of the Regal Ancestor </text>
+<text> Elden Remembrance </text>
+<text> Remembrance of the Naturalborn </text>
+<text> Lands Between Rune </text>
+<text> Ancestral Infant's Head </text>
+<text> Omen Bairn </text>
+<text> Regal Omen Bairn </text>
+<text> Miranda's Prayer </text>
+<text> Cuckoo Glintstone </text>
+<text> Mimic's Veil </text>
+<text> Glintstone Scrap </text>
+<text> Large Glintstone Scrap </text>
+<text> Gravity Stone Fan </text>
+<text> Gravity Stone Chunk </text>
+<text> Wraith Calling Bell </text>
+<text> Holy Water Grease </text>
+<text> Warming Stone </text>
+<text> Frenzyflame Stone </text>
+<text> Scriptstone </text>
+<text> Bewitching Branch </text>
+<text> Baldachin's Blessing </text>
+<text> Radiant Baldachin's Blessing </text>
+<text> Uplifting Aromatic </text>
+<text> Spark Aromatic </text>
+<text> Ironjar Aromatic </text>
+<text> Bloodboil Aromatic </text>
+<text> Poison Spraymist </text>
+<text> Acid Spraymist </text>
+<text> Stonesword Key </text>
+<text> Rusty Key </text>
+<text> Lucent Baldachin's Blessing </text>
+<text> Dectus Medallion (Left) </text>
+<text> Dectus Medallion (Right) </text>
+<text> Rold Medallion </text>
+<text> Academy Glintstone Key </text>
+<text> Carian Inverted Statue </text>
+<text> Dark Moon Ring </text>
+<text> Fingerprint Grape </text>
+<text> Letter from Volcano Manor </text>
+<text> Tonic of Forgetfulness </text>
+<text> Serpent's Amnion </text>
+<text> Rya's Necklace </text>
+<text> Irina's Letter </text>
+<text> Letter from Volcano Manor </text>
+<text> Red Letter </text>
+<text> Drawing-Room Key </text>
+<text> Rya's Necklace </text>
+<text> Volcano Manor Invitation </text>
+<text> Amber Starlight </text>
+<text> Seluvis's Introduction </text>
+<text> Sellen's Primal Glintstone </text>
+<text> Miniature Ranni </text>
+<text> Asimi, Silver Tear </text>
+<text> Godrick's Great Rune </text>
+<text> Radahn's Great Rune </text>
+<text> Morgott's Great Rune </text>
+<text> Rykard's Great Rune </text>
+<text> Mohg's Great Rune </text>
+<text> Malenia's Great Rune </text>
+<text> Lord of Blood's Favor </text>
+<text> Lord of Blood's Favor </text>
+<text> Burial Crow's Letter </text>
+<text> Spirit Calling Bell </text>
+<text> Fingerslayer Blade </text>
+<text> Sewing Needle </text>
+<text> Gold Sewing Needle </text>
+<text> Tailoring Tools </text>
+<text> Seluvis's Potion </text>
+<text> Amber Draught </text>
+<text> Letter to Patches </text>
+<text> Dancer's Castanets </text>
+<text> Sellian Sealbreaker </text>
+<text> Chrysalids' Memento </text>
+<text> Black Knifeprint </text>
+<text> Letter to Bernahl </text>
+<text> Academy Glintstone Key </text>
+<text> Haligtree Secret Medallion (Left) </text>
+<text> Haligtree Secret Medallion (Right) </text>
+<text> Burial Crow's Letter </text>
+<text> Mending Rune of Perfect Order </text>
+<text> Mending Rune of the Death-Prince </text>
+<text> Mending Rune of the Fell Curse </text>
+<text> Larval Tear </text>
+<text> Imbued Sword Key </text>
+<text> Miniature Ranni </text>
+<text> Golden Tailoring Tools </text>
+<text> Iji's Confession </text>
+<text> Knifeprint Clue </text>
+<text> Cursemark of Death </text>
+<text> Asimi's Husk </text>
+<text> Seedbed Curse </text>
+<text> The Stormhawk King </text>
+<text> Asimi, Silver Chrysalid </text>
+<text> Unalloyed Gold Needle </text>
+<text> Sewer-Gaol Key </text>
+<text> Meeting Place Map </text>
+<text> Discarded Palace Key </text>
+<text> Homing Instinct Painting </text>
+<text> Resurrection Painting </text>
+<text> Champion's Song Painting </text>
+<text> Sorcerer Painting </text>
+<text> Prophecy Painting </text>
+<text> Flightless Bird Painting </text>
+<text> Redmane Painting </text>
+<text> Zorayas's Letter </text>
+<text> Alexander's Innards </text>
+<text> Rogier's Letter </text>
+<text> Crafting Kit </text>
+<text> Whetstone Knife </text>
+<text> Map: Limgrave, West </text>
+<text> Map: Weeping Peninsula </text>
+<text> Map: Limgrave, East </text>
+<text> Map: Liurnia, East </text>
+<text> Map: Liurnia, North </text>
+<text> Map: Liurnia, West </text>
+<text> Map: Altus Plateau </text>
+<text> Map: Leyndell, Royal Capital </text>
+<text> Map: Mt. Gelmir </text>
+<text> Map: Caelid </text>
+<text> Map: Dragonbarrow </text>
+<text> Map: Mountaintops of the Giants, West </text>
+<text> Map: Mountaintops of the Giants, East </text>
+<text> Map: Ainsel River </text>
+<text> Map: Lake of Rot </text>
+<text> Map: Siofra River </text>
+<text> Map: Mohgwyn Palace </text>
+<text> Map: Deeproot Depths </text>
+<text> Map: Consecrated Snowfield </text>
+<text> Mirage Riddle </text>
+<text> Note: Hidden Cave </text>
+<text> Note: Imp Shades </text>
+<text> Note: Flask of Wondrous Physick </text>
+<text> Note: Stonedigger Trolls </text>
+<text> Note: Walking Mausoleum </text>
+<text> Note: Unseen Assassins </text>
+<text> Note: Great Coffins </text>
+<text> Note: Flame Chariots </text>
+<text> Note: Demi-human Mobs </text>
+<text> Note: Land Squirts </text>
+<text> Note: Gravity's Advantage </text>
+<text> Note: Revenants </text>
+<text> Note: Waypoint Ruins </text>
+<text> Note: Gateway </text>
+<text> Note: Miquella's Needle </text>
+<text> Note: Frenzied Flame Village </text>
+<text> Note: The Lord of Frenzied Flame </text>
+<text> Note: Hidden Cave </text>
+<text> Note: Imp Shades </text>
+<text> Note: Flask of Wondrous Physick </text>
+<text> Note: Stonedigger Trolls </text>
+<text> Note: Walking Mausoleum </text>
+<text> Note: Unseen Assassins </text>
+<text> Note: Great Coffins </text>
+<text> Note: Flame Chariots </text>
+<text> Note: Demi-human Mobs </text>
+<text> Note: Land Squirts </text>
+<text> Note: Gravity's Advantage </text>
+<text> Note: Revenants </text>
+<text> Note: Waypoint Ruins </text>
+<text> Note: Gateway </text>
+<text> Note: Frenzied Flame Village </text>
+<text> Conspectus Scroll </text>
+<text> Royal House Scroll </text>
+<text> Fire Monks' Prayerbook </text>
+<text> Giant's Prayerbook </text>
+<text> Godskin Prayerbook </text>
+<text> Two Fingers' Prayerbook </text>
+<text> Assassin's Prayerbook </text>
+<text> Erdtree Prayerbook </text>
+<text> Erdtree Codex </text>
+<text> Golden Order Principia </text>
+<text> Golden Order Principles </text>
+<text> Dragon Cult Prayerbook </text>
+<text> Ancient Dragon Prayerbook </text>
+<text> Academy Scroll </text>
+<text> Pidia's Bell Bearing </text>
+<text> Seluvis's Bell Bearing </text>
+<text> Patches' Bell Bearing </text>
+<text> Sellen's Bell Bearing </text>
+<text> D's Bell Bearing </text>
+<text> Bernahl's Bell Bearing </text>
+<text> Miriel's Bell Bearing </text>
+<text> Gostoc's Bell Bearing </text>
+<text> Thops's Bell Bearing </text>
+<text> Kalé's Bell Bearing </text>
+<text> Nomadic Merchant's Bell Bearing [1] </text>
+<text> Nomadic Merchant's Bell Bearing [2] </text>
+<text> Nomadic Merchant's Bell Bearing [3] </text>
+<text> Nomadic Merchant's Bell Bearing [4] </text>
+<text> Nomadic Merchant's Bell Bearing [5] </text>
+<text> Isolated Merchant's Bell Bearing [1] </text>
+<text> Isolated Merchant's Bell Bearing [2] </text>
+<text> Nomadic Merchant's Bell Bearing [6] </text>
+<text> Hermit Merchant's Bell Bearing [1] </text>
+<text> Nomadic Merchant's Bell Bearing [7] </text>
+<text> Nomadic Merchant's Bell Bearing [8] </text>
+<text> Nomadic Merchant's Bell Bearing [9] </text>
+<text> Nomadic Merchant's Bell Bearing [10] </text>
+<text> Nomadic Merchant's Bell Bearing [11] </text>
+<text> Isolated Merchant's Bell Bearing [3] </text>
+<text> Hermit Merchant's Bell Bearing [2] </text>
+<text> Abandoned Merchant's Bell Bearing </text>
+<text> Hermit Merchant's Bell Bearing [3] </text>
+<text> Imprisoned Merchant's Bell Bearing </text>
+<text> Iji's Bell Bearing </text>
+<text> Rogier's Bell Bearing </text>
+<text> Blackguard's Bell Bearing </text>
+<text> Corhyn's Bell Bearing </text>
+<text> Gowry's Bell Bearing </text>
+<text> Bone Peddler's Bell Bearing </text>
+<text> Meat Peddler's Bell Bearing </text>
+<text> Medicine Peddler's Bell Bearing </text>
+<text> Gravity Stone Peddler's Bell Bearing </text>
+<text> Smithing-Stone Miner's Bell Bearing [1] </text>
+<text> Smithing-Stone Miner's Bell Bearing [2] </text>
+<text> Smithing-Stone Miner's Bell Bearing [3] </text>
+<text> Smithing-Stone Miner's Bell Bearing [4] </text>
+<text> Somberstone Miner's Bell Bearing [1] </text>
+<text> Somberstone Miner's Bell Bearing [2] </text>
+<text> Somberstone Miner's Bell Bearing [3] </text>
+<text> Somberstone Miner's Bell Bearing [4] </text>
+<text> Somberstone Miner's Bell Bearing [5] </text>
+<text> Glovewort Picker's Bell Bearing [1] </text>
+<text> Glovewort Picker's Bell Bearing [2] </text>
+<text> Glovewort Picker's Bell Bearing [3] </text>
+<text> Ghost-Glovewort Picker's Bell Bearing [1] </text>
+<text> Ghost-Glovewort Picker's Bell Bearing [2] </text>
+<text> Ghost-Glovewort Picker's Bell Bearing [3] </text>
+<text> Iron Whetblade </text>
+<text> Red-Hot Whetblade </text>
+<text> Sanctified Whetblade </text>
+<text> Glintstone Whetblade </text>
+<text> Black Whetblade </text>
+<text> Unalloyed Gold Needle </text>
+<text> Unalloyed Gold Needle </text>
+<text> Valkyrie's Prosthesis </text>
+<text> Sellia's Secret </text>
+<text> Beast Eye </text>
+<text> Weathered Dagger </text>
+<text> Nomadic Warrior's Cookbook [1] </text>
+<text> Nomadic Warrior's Cookbook [3] </text>
+<text> Nomadic Warrior's Cookbook [6] </text>
+<text> Nomadic Warrior's Cookbook [10] </text>
+<text> Fugitive Warrior's Recipe [5] </text>
+<text> Nomadic Warrior's Cookbook [7] </text>
+<text> Nomadic Warrior's Cookbook [12] </text>
+<text> Nomadic Warrior's Cookbook [19] </text>
+<text> Nomadic Warrior's Cookbook [13] </text>
+<text> Nomadic Warrior's Cookbook [23] </text>
+<text> Nomadic Warrior's Cookbook [17] </text>
+<text> Nomadic Warrior's Cookbook [2] </text>
+<text> Nomadic Warrior's Cookbook [21] </text>
+<text> Missionary's Cookbook [6] </text>
+<text> Armorer's Cookbook [1] </text>
+<text> Armorer's Cookbook [2] </text>
+<text> Nomadic Warrior's Cookbook [11] </text>
+<text> Nomadic Warrior's Cookbook [20] </text>
+<text> Armorer's Cookbook (5) </text>
+<text> Armorer's Cookbook [7] </text>
+<text> Armorer's Cookbook [4] </text>
+<text> Nomadic Warrior's Cookbook [18] </text>
+<text> Armorer's Cookbook [3] </text>
+<text> Nomadic Warrior's Cookbook [16] </text>
+<text> Armorer's Cookbook [6] </text>
+<text> Armorer's Cookbook [5] </text>
+<text> Glintstone Craftsman's Cookbook [4] </text>
+<text> Glintstone Craftsman's Cookbook [1] </text>
+<text> Glintstone Craftsman's Cookbook [5] </text>
+<text> Nomadic Warrior's Cookbook [9] </text>
+<text> Glintstone Craftsman's Cookbook [8] </text>
+<text> Glintstone Craftsman's Cookbook [2] </text>
+<text> Glintstone Craftsman's Cookbook [6] </text>
+<text> Glintstone Craftsman's Cookbook [7] </text>
+<text> Glintstone Craftsman's Cookbook [3] </text>
+<text> Missionary's Cookbook [2] </text>
+<text> Missionary's Cookbook [1] </text>
+<text> Missionary's Cookbook (3) </text>
+<text> Missionary's Cookbook [5] </text>
+<text> Missionary's Cookbook [4] </text>
+<text> Missionary's Cookbook [3] </text>
+<text> Nomadic Warrior's Cookbook [4] </text>
+<text> Perfumer's Cookbook (1) </text>
+<text> Perfumer's Cookbook (2) </text>
+<text> Nomadic Warrior's Cookbook [5] </text>
+<text> Perfumer's Cookbook [1] </text>
+<text> Perfumer's Cookbook [2] </text>
+<text> Perfumer's Cookbook [3] </text>
+<text> Nomadic Warrior's Cookbook [14] </text>
+<text> Nomadic Warrior's Cookbook [8] </text>
+<text> Nomadic Warrior's Cookbook [22] </text>
+<text> Nomadic Warrior's Cookbook [15] </text>
+<text> Nomadic Warrior's Cookbook [24] </text>
+<text> Perfumer's Cookbook [4] </text>
+<text> Perfumer's Cookbook (13) </text>
+<text> Ancient Dragon Apostle's Cookbook [1] </text>
+<text> Ancient Dragon Apostle's Cookbook [2] </text>
+<text> Ancient Dragon Apostle's Cookbook [4] </text>
+<text> Ancient Dragon Apostle's Cookbook [3] </text>
+<text> Fevor's Cookbook [1] </text>
+<text> Fevor's Cookbook [3] </text>
+<text> Fevor's Cookbook [2] </text>
+<text> Missionary's Cookbook [7] </text>
+<text> Frenzied's Cookbook [1] </text>
+<text> Frenzied's Cookbook [2] </text>
+<text> Cracked Pot </text>
+<text> Ritual Pot </text>
+<text> Perfume Bottle </text>
+<text> Glass Shard </text>
+<text> Golden Seed </text>
+<text> Sacred Tear </text>
+<text> Memory Stone </text>
+<text> Talisman Pouch </text>
+<text> Dragon Heart </text>
+<text> Lost Ashes of War </text>
+<text> Great Rune of the Unborn </text>
+<text> Smithing Stone [1] </text>
+<text> Smithing Stone [2] </text>
+<text> Smithing Stone [3] </text>
+<text> Smithing Stone [4] </text>
+<text> Smithing Stone [5] </text>
+<text> Smithing Stone [6] </text>
+<text> Smithing Stone [7] </text>
+<text> Smithing Stone [8] </text>
+<text> Ancient Dragon Smithing Stone </text>
+<text> Somber Smithing Stone [1] </text>
+<text> Somber Smithing Stone [2] </text>
+<text> Somber Smithing Stone [3] </text>
+<text> Somber Smithing Stone [4] </text>
+<text> Somber Smithing Stone [5] </text>
+<text> Somber Smithing Stone [6] </text>
+<text> Somber Smithing Stone [7] </text>
+<text> Somber Smithing Stone [8] </text>
+<text> Somber Ancient Dragon Smithing Stone </text>
+<text> Somber Smithing Stone [9] </text>
+<text> Grave Glovewort [1] </text>
+<text> Grave Glovewort [2] </text>
+<text> Grave Glovewort [3] </text>
+<text> Grave Glovewort [4] </text>
+<text> Grave Glovewort [5] </text>
+<text> Grave Glovewort [6] </text>
+<text> Grave Glovewort [7] </text>
+<text> Grave Glovewort [8] </text>
+<text> Grave Glovewort [9] </text>
+<text> Great Grave Glovewort </text>
+<text> Ghost Glovewort [1] </text>
+<text> Ghost Glovewort [2] </text>
+<text> Ghost Glovewort [3] </text>
+<text> Ghost Glovewort [4] </text>
+<text> Ghost Glovewort [5] </text>
+<text> Ghost Glovewort [6] </text>
+<text> Ghost Glovewort [7] </text>
+<text> Ghost Glovewort [8] </text>
+<text> Ghost Glovewort [9] </text>
+<text> Great Ghost Glovewort </text>
+<text> Crimsonspill Crystal Tear </text>
+<text> Greenspill Crystal Tear </text>
+<text> Crimson Crystal Tear </text>
+<text> Crimson Crystal Tear </text>
+<text> Cerulean Crystal Tear </text>
+<text> Cerulean Crystal Tear </text>
+<text> Speckled Hardtear </text>
+<text> Crimson Bubbletear </text>
+<text> Opaline Bubbletear </text>
+<text> Crimsonburst Crystal Tear </text>
+<text> Greenburst Crystal Tear </text>
+<text> Opaline Hardtear </text>
+<text> Winged Crystal Tear </text>
+<text> Thorny Cracked Tear </text>
+<text> Spiked Cracked Tear </text>
+<text> Windy Crystal Tear </text>
+<text> Ruptured Crystal Tear </text>
+<text> Ruptured Crystal Tear </text>
+<text> Leaden Hardtear </text>
+<text> Twiggy Cracked Tear </text>
+<text> Crimsonwhorl Bubbletear </text>
+<text> Strength-knot Crystal Tear </text>
+<text> Dexterity-knot Crystal Tear </text>
+<text> Intelligence-knot Crystal Tear </text>
+<text> Faith-knot Crystal Tear </text>
+<text> Cerulean Hidden Tear </text>
+<text> Stonebarb Cracked Tear </text>
+<text> Purifying Crystal Tear </text>
+<text> Flame-Shrouding Cracked Tear </text>
+<text> Magic-Shrouding Cracked Tear </text>
+<text> Lightning-Shrouding Cracked Tear </text>
+<text> Holy-Shrouding Cracked Tear </text>
+<text> Sliver of Meat </text>
+<text> Beast Liver </text>
+<text> Lump of Flesh </text>
+<text> Beast Blood </text>
+<text> Old Fang </text>
+<text> Budding Horn </text>
+<text> Flight Pinion </text>
+<text> Hidden Plumage </text>
+<text> Four-Toed Fowl Foot </text>
+<text> Turtle Neck Meat </text>
+<text> Human Bone Shard </text>
+<text> Great Dragonfly Head </text>
+<text> Slumbering Egg </text>
+<text> Crab Eggs </text>
+<text> Land Octopus Ovary </text>
+<text> Miranda Powder </text>
+<text> Strip of White Flesh </text>
+<text> Golden Dung </text>
+<text> Thin Beast Bones </text>
+<text> Hefty Beast Bone </text>
+<text> Glinstone Scrap </text>
+<text> String </text>
+<text> Living Jar Shard </text>
+<text> Albinauric Bloodclot </text>
+<text> Stormhawk Feather </text>
+<text> Poisonbloom </text>
+<text> Trina's Lily </text>
+<text> Fulgurbloom </text>
+<text> Miquella's Lily </text>
+<text> Grave Violet </text>
+<text> Faded Erdleaf Flower </text>
+<text> Erdleaf Flower </text>
+<text> Altus Bloom </text>
+<text> Fire Blossom </text>
+<text> Golden Sunflower </text>
+<text> Tarnished Golden Sunflower </text>
+<text> Herba </text>
+<text> Arteria Leaf </text>
+<text> Dewkissed Herba </text>
+<text> Rowa Fruit </text>
+<text> Golden Rowa </text>
+<text> Rimed Rowa </text>
+<text> Bloodrose </text>
+<text> Eye of Yelough </text>
+<text> Crystal Bud </text>
+<text> Rimed Crystal Bud </text>
+<text> Sacramental Bud </text>
+<text> Mushroom </text>
+<text> Melted Mushroom </text>
+<text> Toxic Mushroom </text>
+<text> Root Resin </text>
+<text> Cracked Crystal </text>
+<text> Sanctuary Stone </text>
+<text> Nascent Butterfly </text>
+<text> Aeonian Butterfly </text>
+<text> Smoldering Butterfly </text>
+<text> Silver Firefly </text>
+<text> Gold Firefly </text>
+<text> Glintstone Firefly </text>
+<text> Golden Centipede </text>
+<text> Silver Tear Husk </text>
+<text> Gold-Tinged Excrement </text>
+<text> Blood-Tainted Excrement </text>
+<text> Cave Moss </text>
+<text> Budding Cave Moss </text>
+<text> Crystal Cave Moss </text>
+<text> Yellow Ember </text>
+<text> Volcanic Stone </text>
+<text> Formic Rock </text>
+<text> Gravel Stone </text>
+<text> Black Knife Tiche </text>
+<text> Banished Knight Oleg </text>
+<text> Banished Knight Engvall </text>
+<text> Fanged Imp Ashes </text>
+<text> Latenna the Albinauric </text>
+<text> Nomad Ashes </text>
+<text> Nightmaiden &amp; Swordstress Puppets </text>
+<text> Mimic Tear Ashes </text>
+<text> Crystalian Ashes </text>
+<text> Ancestral Follower Ashes </text>
+<text> Winged Misbegotten Ashes </text>
+<text> Albinauric Ashes </text>
+<text> Skeletal Militiaman Ashes </text>
+<text> Skeletal Bandit Ashes </text>
+<text> Oracle Envoy Ashes </text>
+<text> Putrid Corpse Ashes </text>
+<text> Depraved Perfumer Carmaan </text>
+<text> Perfumer Tricia </text>
+<text> Glintstone Sorcerer Ashes </text>
+<text> Twinsage Sorcerer Ashes </text>
+<text> Page Ashes </text>
+<text> Battlemage Hugues </text>
+<text> Clayman Ashes </text>
+<text> Cleanrot Knight Finlay </text>
+<text> Kindred of Rot Ashes </text>
+<text> Marionette Soldier Ashes </text>
+<text> Avionette Soldier Ashes </text>
+<text> Fire Monk Ashes </text>
+<text> Blackflame Monk Amon </text>
+<text> Man-Serpent Ashes </text>
+<text> Azula Beastman Ashes </text>
+<text> Kaiden Sellsword Ashes </text>
+<text> Lone Wolf Ashes </text>
+<text> Giant Rat Ashes </text>
+<text> Demi-Human Ashes </text>
+<text> Rotten Stray Ashes </text>
+<text> Spirit Jellyfish Ashes </text>
+<text> Warhawk Ashes </text>
+<text> Stormhawk Deenh </text>
+<text> Bloodhound Knight Floh </text>
+<text> Wandering Noble Ashes </text>
+<text> Noble Sorcerer Ashes </text>
+<text> Vulgar Militia Ashes </text>
+<text> Mad Pumpkin Head Ashes </text>
+<text> Land Squirt Ashes </text>
+<text> Miranda Sprout Ashes </text>
+<text> Soldjars of Fortune Ashes </text>
+<text> Omenkiller Rollo </text>
+<text> Greatshield Soldier Ashes </text>
+<text> Archer Ashes </text>
+<text> Godrick Soldier Ashes </text>
+<text> Raya Lucaria Soldier Ashes </text>
+<text> Leyndell Soldier Ashes </text>
+<text> Radahn Soldier Ashes </text>
+<text> Mausoleum Soldier Ashes </text>
+<text> Haligtree Soldier Ashes </text>
+<text> Ancient Dragon Knight Kristoff </text>
+<text> Redmane Knight Ogha </text>
+<text> Lhutel the Headless </text>
+<text> Nepheli Loux Puppet </text>
+<text> Dung Eater Puppet </text>
+<text> Finger Maiden Therolina Puppet </text>
+<text> Dolores the Sleeping Arrow Puppet </text>
+<text> Jarwight Puppet </text>
 
 </entries>
