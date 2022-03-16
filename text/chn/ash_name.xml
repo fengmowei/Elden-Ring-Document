@@ -1,21 +1,101 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
 
-<text>徘徊权贵骨灰</text>
-<text>离群野狼骨灰</text>
-<text>权贵魔法师骨灰</text>
-<text>北方佣兵的骨灰</text>
-<text>灵魂水母的骨灰</text>
-<text>战灰：重力</text>
-<text>战灰：卡利亚辉剑</text>
-<text>战灰：突刺</text>
-<text>战灰：连击</text>
-<text>战灰：圣域</text>
-<text>战灰：铁壁盾防</text>
-<text>战灰：风暴足</text>
-<text>战灰：风暴刃</text>
-<text>战灰：落雷</text>
-<text>战灰：辉剑圆阵</text>
-<text>战灰：决心</text>
+<text> 战灰：狮子斩 </text>
+<text> 战灰：贯穿 </text>
+<text> 战灰：突刺 </text>
+<text> 战灰：回旋斩 </text>
+<text> 战灰：突击 </text>
+<text> 战灰：箭步（上砍） </text>
+<text> 战灰：箭步（回旋斩） </text>
+<text> 战灰：鲜血征收 </text>
+<text> 战灰：连击 </text>
+<text> 战灰：盲击 </text>
+<text> 战灰：回旋击 </text>
+<text> 战灰：二连斩 </text>
+<text> 战灰：主教冲锋 </text>
+<text> 战灰：居合 </text>
+<text> 战灰：准备架式 </text>
+<text> 战灰：狩猎巨人 </text>
+<text> 战灰：火把攻击 </text>
+<text> 战灰：罗蕾塔的斩击 </text>
+<text> 战灰：双吻毒蛾 </text>
+<text> 战灰：转啊转 </text>
+<text> 战灰：风暴袭击 </text>
+<text> 战灰：唤起风暴 </text>
+<text> 战灰：剑舞 </text>
+<text> 战灰：回旋锁链 </text>
+<text> 战灰：辉剑圆阵 </text>
+<text> 战灰：神圣刀刃 </text>
+<text> 战灰：冰枪 </text>
+<text> 战灰：辉石魔砾 </text>
+<text> 战灰：鲜血斩击 </text>
+<text> 战灰：夺命拳 </text>
+<text> 战灰：熔岩火浆 </text>
+<text> 战灰：祈祷一击 </text>
+<text> 战灰：重力 </text>
+<text> 战灰：风暴刃 </text>
+<text> 战灰：撼地 </text>
+<text> 战灰：黄金大地 </text>
+<text> 战灰：炎击 </text>
+<text> 战灰：落雷 </text>
+<text> 战灰：雷击斩 </text>
+<text> 战灰：伟哉卡利亚 </text>
+<text> 战灰：卡利亚大剑 </text>
+<text> 战灰：真空斩 </text>
+<text> 战灰：黑焰漩涡 </text>
+<text> 战灰：神圣光环 </text>
+<text> 战灰：喷火 </text>
+<text> 战灰：血刃 </text>
+<text> 战灰：幻影共击 </text>
+<text> 战灰：幻影枪 </text>
+<text> 战灰：寒气冻雾 </text>
+<text> 战灰：毒雾 </text>
+<text> 战灰：盾牌冲击 </text>
+<text> 战灰：铁壁盾防 </text>
+<text> 战灰：格挡 </text>
+<text> 战灰：小圆盾格挡 </text>
+<text> 战灰：格挡 </text>
+<text> 战灰：卡利亚式奉还 </text>
+<text> 战灰：风暴障壁 </text>
+<text> 战灰：黄金格挡 </text>
+<text> 战灰：突进冲击 </text>
+<text> 战灰：无战技 </text>
+<text> 战灰：托普斯的力场 </text>
+<text> 战灰：贯穿射击 </text>
+<text> 战灰：连续射击 </text>
+<text> 战灰：拉满弓 </text>
+<text> 战灰：宿灵射击 </text>
+<text> 战灰：对空射击 </text>
+<text> 战灰：箭雨 </text>
+<text> 战灰：冻霜踏地 </text>
+<text> 战灰：风暴足 </text>
+<text> 战灰：踢击 </text>
+<text> 战灰：雷电羊球 </text>
+<text> 战灰：红狮子火焰 </text>
+<text> 战灰：坠落震击 </text>
+<text> 战灰：黄金坠落震击 </text>
+<text> 战灰：黑暗波动 </text>
+<text> 战灰：荷莱·露的撼地 </text>
+<text> 战灰：决心 </text>
+<text> 战灰：侍王骑士的决心 </text>
+<text> 战灰：暗杀办法 </text>
+<text> 战灰：黄金树立誓 </text>
+<text> 战灰：圣律 </text>
+<text> 战灰：共享圣律 </text>
+<text> 战灰：切腹 </text>
+<text> 战灰：岩石剑 </text>
+<text> 战灰：野蛮咆哮 </text>
+<text> 战灰：战吼 </text>
+<text> 战灰：野兽咆哮 </text>
+<text> 战灰：山妖咆哮 </text>
+<text> 战灰：夸耀咆哮 </text>
+<text> 战灰：忍耐 </text>
+<text> 战灰：无敌 </text>
+<text> 战灰：圣域 </text>
+<text> 战灰：碎步 </text>
+<text> 战灰：猎犬步法 </text>
+<text> 战灰：潜雾猛禽 </text>
+<text> 战灰：白影诱惑 </text>
 
 </entries>

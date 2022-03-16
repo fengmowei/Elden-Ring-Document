@@ -1,94 +1,688 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
 
-<text>工具袋</text>
-<text>地图碎片：宁姆格福地区（西）</text>
-<text>生锈钥匙</text>
-<text>望远镜</text>
-<text>灵马哨笛</text>
-<text>箭矢</text>
-<text>蓝秘文戒指</text>
-<text>白秘文戒指</text>
-<text>唤勾指药</text>
-<text>断指刀</text>
-<text>褪色者勾指</text>
-<text>斗士勾指</text>
-<text>褪色者老指</text>
-<text>血指</text>
-<text>嘲弄者舌头</text>
-<text>赐福幻象</text>
-<text>金色小雕像</text>
-<text>红色小雕像</text>
-<text>红露滴圣杯瓶</text>
-<text>蓝露滴圣杯瓶</text>
-<text>边境民卢恩</text>
-<text>圣水壶</text>
-<text>絮语石</text>
-<text>虹彩石</text>
-<text>罗亚果干</text>
-<text>附绳火焰壶</text>
-<text>照明石</text>
-<text>灵药圣杯瓶</text>
-<text>贫者卢恩</text>
-<text>免疫肉干</text>
-<text>重力陨石碎片</text>
-<text>腌制龟颈肉</text>
-<text>火脂</text>
-<text>火肝脏干</text>
-<text>火焰壶</text>
-<text>兽骨刀</text>
-<text>血苔药</text>
-<text>腌制金鸟爪</text>
-<text>毒苔药</text>
-<text>勇者肉块</text>
-<text>深眠壶</text>
-<text>龙心脏</text>
-<text>投掷匕首</text>
-<text>遗迹石</text>
-<text>锻造石碎片</text>
-<text>武器工匠的制作笔记</text>
-<text>法力斯制作笔记</text>
-<text>传道士的制作笔记</text>
-<text>亡命战士的制作笔记</text>
-<text>根脂</text>
-<text>血蔷薇</text>
-<text>亚缇莉亚叶</text>
-<text>肉片</text>
-<text>野兽肝脏</text>
-<text>野兽肉块</text>
-<text>火星蝶</text>
-<text>毒花</text>
-<text>洞窟苔藓</text>
-<text>银色萤火虫</text>
-<text>龟颈肉块</text>
-<text>陆生海鞘卵</text>
-<text>白色肉片</text>
-<text>蘑菇</text>
-<text>金色粪便</text>
-<text>褪色金轮草</text>
-<text>雷电花</text>
-<text>蟹卵</text>
-<text>大蜻蜓头部</text>
-<text>赫帕</text>
-<text>眠卵</text>
-<text>托莉娜睡莲</text>
-<text>罗亚果实</text>
-<text>细小兽骨</text>
-<text>四指鸟爪</text>
-<text>拨风羽毛</text>
-<text>绳索</text>
-<text>龟裂壶</text>
-<text>细碎辉石</text>
-<text>落叶花</text>
-<text>爆裂结晶雾滴</text>
-<text>漫绿结晶露滴</text>
-<text>红结晶露滴</text>
-<text>蓝结晶露滴</text>
-<text>兽骨火箭</text>
-<text>兽骨火箭(附箭羽)</text>
-<text>兽骨箭</text>
-<text>兽骨箭(附箭羽)</text>
-<text>托莉娜箭</text>
-<text>兽骨眠箭(附箭羽)</text>
+<text> 褪色者勾指 </text>
+<text> 斗士勾指 </text>
+<text> 血指 </text>
+<text> 断指刀 </text>
+<text> 白秘文戒指 </text>
+<text> 蓝秘文戒指 </text>
+<text> 褪色者老指 </text>
+<text> 血指幻影 </text>
+<text> 嘲弄者舌头 </text>
+<text> 金色小雕像 </text>
+<text> 红色小雕像 </text>
+<text> 溃烂血指 </text>
+<text> 叛律指头 </text>
+<text> 叛律指幻影 </text>
+<text> 赐福记忆 </text>
+<text> 大卢恩幻影 </text>
+<text> 唤勾指药 </text>
+<text> 灵马哨笛 </text>
+<text> 卢恩弯弧 </text>
+<text> 葛瑞克的大卢恩 </text>
+<text> 拉塔恩的大卢恩 </text>
+<text> 蒙葛特的大卢恩 </text>
+<text> 拉卡德的大卢恩 </text>
+<text> 蒙格的大卢恩 </text>
+<text> 玛莲妮亚的大卢恩 </text>
+<text> 红露滴圣杯瓶 </text>
+<text> 蓝露滴圣杯瓶 </text>
+<text> 灵药圣杯瓶 </text>
+<text> 火焰壶 </text>
+<text> 红狮子火焰壶 </text>
+<text> 巨人火火焰壶 </text>
+<text> 雷电壶 </text>
+<text> 古龙雷电壶 </text>
+<text> 粪便壶 </text>
+<text> 苍蝇壶 </text>
+<text> 圣水壶 </text>
+<text> 圣律壶 </text>
+<text> 结冰壶 </text>
+<text> 毒壶 </text>
+<text> 油壶 </text>
+<text> 诱敌壶 </text>
+<text> 引兽壶 </text>
+<text> 附绳火焰壶 </text>
+<text> 附绳雷电壶 </text>
+<text> 附绳粪便壶 </text>
+<text> 附绳毒壶 </text>
+<text> 附绳油壶 </text>
+<text> 附绳魔力壶 </text>
+<text> 附绳苍蝇壶 </text>
+<text> 附绳结冰壶 </text>
+<text> 附绳火山壶 </text>
+<text> 附绳圣水壶 </text>
+<text> 火山壶 </text>
+<text> 白金壶 </text>
+<text> 咒血壶 </text>
+<text> 催眠壶 </text>
+<text> 怨魂壶 </text>
+<text> 魔力壶 </text>
+<text> 学院魔力壶 </text>
+<text> 腐败壶 </text>
+<text> 罗亚果干 </text>
+<text> 甜酿果干 </text>
+<text> 冰冻果干 </text>
+<text> 煮熟螃蟹 </text>
+<text> 煮熟虾子 </text>
+<text> 中毒苔药 </text>
+<text> 出血苔药 </text>
+<text> 冻伤苔药 </text>
+<text> 催眠苔药 </text>
+<text> 腐败苔药 </text>
+<text> 死亡苔药 </text>
+<text> 发狂苔药 </text>
+<text> 腌制龟颈肉 </text>
+<text> 免疫肉干 </text>
+<text> 健壮肉干 </text>
+<text> 理智肉干 </text>
+<text> 斑斓肉干 </text>
+<text> 抗魔肝脏干 </text>
+<text> 抗火肝脏干 </text>
+<text> 抗雷肝脏干 </text>
+<text> 抗圣肝脏干 </text>
+<text> 腌制白银鸟爪 </text>
+<text> 腌制黄金鸟爪 </text>
+<text> 勇者肉块 </text>
+<text> 抗死肉干 </text>
+<text> 生肉丸 </text>
+<text> 夏玻利利葡萄 </text>
+<text> 星光碎片 </text>
+<text> 免疫白肉干 </text>
+<text> 健壮白肉干 </text>
+<text> 理智白肉干 </text>
+<text> 斑斓白肉干 </text>
+<text> 抗死白肉干 </text>
+<text> 火油脂 </text>
+<text> 雷油脂 </text>
+<text> 魔力油脂 </text>
+<text> 圣油脂 </text>
+<text> 出血油脂 </text>
+<text> 催眠油脂 </text>
+<text> 中毒油脂 </text>
+<text> 结冰油脂 </text>
+<text> 伤龙油脂 </text>
+<text> 腐败油脂 </text>
+<text> 附绳火油脂 </text>
+<text> 附绳雷油脂 </text>
+<text> 附绳魔力油脂 </text>
+<text> 附绳圣油脂 </text>
+<text> 附绳出血油脂 </text>
+<text> 附绳催眠油脂 </text>
+<text> 附绳中毒油脂 </text>
+<text> 附绳结冰油脂 </text>
+<text> 附绳腐败油脂 </text>
+<text> 坚盾油脂 </text>
+<text> 投掷匕首 </text>
+<text> 兽骨飞刀 </text>
+<text> 兽骨毒飞刀 </text>
+<text> 廓尔喀弯刀 </text>
+<text> 结晶飞刀 </text>
+<text> 扇形暗器 </text>
+<text> 遗迹石 </text>
+<text> 浓味肉块 </text>
+<text> 爆炸石 </text>
+<text> 爆炸石块 </text>
+<text> 毒石 </text>
+<text> 毒石块 </text>
+<text> 虹彩石 </text>
+<text> 照明石 </text>
+<text> 望远镜 </text>
+<text> 拟态赐福 </text>
+<text> 携带照明灯 </text>
+<text> 亵渎兽爪 </text>
+<text> 死根 </text>
+<text> 柔软棉花 </text>
+<text> 肥皂 </text>
+<text> 星星泪滴 </text>
+<text> 玛尔基特的囚具 </text>
+<text> 蒙格的囚具 </text>
+<text> 纯血骑士勋章 </text>
+<text> 米凯拉的针 </text>
+<text> 唤声泥颅“你好” </text>
+<text> 唤声泥颅“谢谢” </text>
+<text> 唤声泥颅“对不起” </text>
+<text> 唤声泥颅“太棒了！” </text>
+<text> 唤声泥颅“救命啊……” </text>
+<text> 唤声泥颅“我爱你” </text>
+<text> 唤声泥颅“我们开始吧” </text>
+<text> 唤声泥颅“你长得很好看” </text>
+<text> 黄金卢恩 </text>
+<text> 稀人卢恩 </text>
+<text> 英雄卢恩 </text>
+<text> 王之卢恩 </text>
+<text> 接肢的追忆 </text>
+<text> 碎星的追忆 </text>
+<text> 恶兆王的追忆 </text>
+<text> 亵渎君王的追忆 </text>
+<text> 腐败女神的追忆 </text>
+<text> 鲜血君王的追忆 </text>
+<text> 黑剑的追忆 </text>
+<text> 荷莱·露的追忆 </text>
+<text> 龙王的追忆 </text>
+<text> 满月女王的追忆 </text>
+<text> 死龙的追忆 </text>
+<text> 火焰巨人的追忆 </text>
+<text> 祖灵之王的追忆 </text>
+<text> 艾尔登的追忆 </text>
+<text> 黑暗弃子的追忆 </text>
+<text> 交界地卢恩 </text>
+<text> 稚幼祖灵头部 </text>
+<text> 恶兆幼子像 </text>
+<text> 王室恶兆幼子像 </text>
+<text> 米兰达的祈祷 </text>
+<text> 杜鹃辉石 </text>
+<text> 拟态面纱 </text>
+<text> 崩裂辉石 </text>
+<text> 大块崩裂辉石 </text>
+<text> 扇形重力石 </text>
+<text> 块状重力石 </text>
+<text> 召咒魂铃 </text>
+<text> 圣水油脂 </text>
+<text> 温热石 </text>
+<text> 癫火石 </text>
+<text> 絮语石 </text>
+<text> 魅惑树枝 </text>
+<text> 床帘恩泽 </text>
+<text> 透光床帘恩泽 </text>
+<text> 振奋香 </text>
+<text> 火花香 </text>
+<text> 铁壶香药 </text>
+<text> 狂热香药 </text>
+<text> 毒发喷雾 </text>
+<text> 酸蚀喷雾 </text>
+<text> 石剑钥匙 </text>
+<text> 生锈钥匙 </text>
+<text> 透光床帘恩惠 </text>
+<text> 迪可达斯符节（左） </text>
+<text> 迪可达斯符节（右） </text>
+<text> 洛德符节 </text>
+<text> 学院辉石钥匙 </text>
+<text> 卡利亚颠倒像 </text>
+<text> 暗月戒指 </text>
+<text> 指痕葡萄 </text>
+<text> 来自火山官邸的信 </text>
+<text> 遗忘秘药 </text>
+<text> 蛇的羊膜 </text>
+<text> 菈雅的项链 </text>
+<text> 伊蕾娜的信 </text>
+<text> 来自火山官邸的信 </text>
+<text> 鲜红书信 </text>
+<text> 客房钥匙 </text>
+<text> 菈雅的项链 </text>
+<text> 火山官邸的邀请函 </text>
+<text> 琥珀星光 </text>
+<text> 赛尔维斯的介绍信 </text>
+<text> 瑟濂的源辉石 </text>
+<text> 娇小菈妮 </text>
+<text> “银色泪滴”阿史米 </text>
+<text> 葛瑞克的大卢恩（使用后） </text>
+<text> 拉塔恩的大卢恩（使用后） </text>
+<text> 蒙葛特的大卢恩（使用后） </text>
+<text> 拉卡德的大卢恩（使用后） </text>
+<text> 蒙格的大卢恩（使用后） </text>
+<text> 玛莲妮亚的大卢恩（使用后） </text>
+<text> 鲜血君王的立誓布（前） </text>
+<text> 鲜血君王的立誓布（后） </text>
+<text> 墓地乌鸦的信1 </text>
+<text> 召魂铃 </text>
+<text> 猎杀指头刀 </text>
+<text> 缝衣针 </text>
+<text> 黄金缝衣针 </text>
+<text> 裁缝工具 </text>
+<text> 赛尔维斯的药水 </text>
+<text> 琥珀色药水 </text>
+<text> 给帕奇的信 </text>
+<text> 舞娘的打击乐器 </text>
+<text> 瑟利亚封印钥匙 </text>
+<text> 蛹群的遗物 </text>
+<text> 黑刀烙印 </text>
+<text> 给贝纳尔的信 </text>
+<text> 学院辉石钥匙 </text>
+<text> 圣树秘密符节（左） </text>
+<text> 圣树秘密符节（右） </text>
+<text> 墓地乌鸦的信2 </text>
+<text> 完美律法的修复卢恩 </text>
+<text> 死王子的修复卢恩 </text>
+<text> 忌讳诅咒的修复卢恩 </text>
+<text> 泪滴幼体 </text>
+<text> 魔石剑钥匙 </text>
+<text> 娇小菈妮 </text>
+<text> 黄金裁缝工具 </text>
+<text> 伊吉的自白信 </text>
+<text> 烙印的线索 </text>
+<text> 死亡的咒痕 </text>
+<text> 阿史米的蜕壳 </text>
+<text> 温床的诅咒 </text>
+<text> 风暴鹰古王 </text>
+<text> “银蛹”阿史米 </text>
+<text> 纯净金针 </text>
+<text> 下水道监牢钥匙 </text>
+<text> 会合用的地图 </text>
+<text> 被丢弃的王室钥匙 </text>
+<text> 绘画《归巢》 </text>
+<text> 绘画《再世》 </text>
+<text> 绘画《英雄之歌》 </text>
+<text> 绘画《魔法师》 </text>
+<text> 绘画《预言》 </text>
+<text> 绘画《不飞之鸟》 </text>
+<text> 绘画《红狮子》 </text>
+<text> 泽菈雅丝的信 </text>
+<text> 亚历山大的内容物 </text>
+<text> 罗杰尔的信 </text>
+<text> 工具皮袋 </text>
+<text> 砥石小刀 </text>
+<text> 地图碎片：宁姆格福（西） </text>
+<text> 地图碎片：啜泣半岛 </text>
+<text> 地图碎片：宁姆格福（东） </text>
+<text> 地图碎片：利耶尼亚（东） </text>
+<text> 地图碎片：利耶尼亚（北） </text>
+<text> 地图碎片：利耶尼亚（西） </text>
+<text> 地图碎片：亚坛高原 </text>
+<text> 地图碎片：王城罗德尔 </text>
+<text> 地图碎片：格密尔火山 </text>
+<text> 地图碎片：盖利德 </text>
+<text> 地图碎片：龙墓 </text>
+<text> 地图碎片：巨人山顶（西） </text>
+<text> 地图碎片：巨人山顶（东） </text>
+<text> 地图碎片：安瑟尔河 </text>
+<text> 地图碎片：腐败湖 </text>
+<text> 地图碎片：希芙拉河 </text>
+<text> 地图碎片：蒙格温王朝 </text>
+<text> 地图碎片：深根底层 </text>
+<text> 地图碎片：化圣雪原 </text>
+<text> 海市蜃楼的谜题 </text>
+<text> 文件：关于隐藏洞窟 </text>
+<text> 文件：关于小恶魔群的影子 </text>
+<text> 文件：关于灵药圣杯瓶 </text>
+<text> 文件：关于挖石山妖 </text>
+<text> 文件：关于漫步灵庙 </text>
+<text> 文件：关于看不见身影的刺客 </text>
+<text> 文件：关于大棺木 </text>
+<text> 文件：关于火焰战车 </text>
+<text> 文件：关于亚人集团 </text>
+<text> 文件：关于陆生海鞘 </text>
+<text> 文件：关于重力的力量 </text>
+<text> 文件：关于幽魂 </text>
+<text> 文件：关于驿站街遗迹 </text>
+<text> 文件：关于传送门 </text>
+<text> 文件：关于米凯拉的针 </text>
+<text> 文件：关于癫火村 </text>
+<text> 文件：关于癫火之主 </text>
+<text> 文件：关于隐藏洞窟 </text>
+<text> 文件：关于小恶魔群的影子 </text>
+<text> 文件：关于灵药圣杯瓶 </text>
+<text> 文件：关于挖石山妖 </text>
+<text> 文件：关于漫步灵庙 </text>
+<text> 文件：关于看不见身影的刺客 </text>
+<text> 文件：关于大棺木 </text>
+<text> 文件：关于火焰战车 </text>
+<text> 文件：关于亚人集团 </text>
+<text> 文件：关于陆生海鞘 </text>
+<text> 文件：关于重力的力量 </text>
+<text> 文件：关于幽魂 </text>
+<text> 文件：关于驿站街遗迹 </text>
+<text> 文件：关于传送门 </text>
+<text> 文件：关于癫火村 </text>
+<text> 教室卷轴 </text>
+<text> 王室卷轴 </text>
+<text> 火焰习武修士祷告书 </text>
+<text> 巨人祷告书 </text>
+<text> 神皮祷告书 </text>
+<text> 双指祷告书 </text>
+<text> 刺客祷告书 </text>
+<text> 黄金树祷告书 </text>
+<text> 黄金树古文书 </text>
+<text> 黄金律法原本 </text>
+<text> 黄金律法原本 </text>
+<text> 龙信仰祷告书 </text>
+<text> 古龙祷告书 </text>
+<text> 学院卷轴 </text>
+<text> 毕迪的铃珠 </text>
+<text> 赛尔维斯的铃珠 </text>
+<text> 帕奇的铃珠 </text>
+<text> 瑟濂的铃珠 </text>
+<text> Ｄ的铃珠 </text>
+<text> 贝纳尔的铃珠 </text>
+<text> 米利耶的铃珠 </text>
+<text> 葛托克的铃珠 </text>
+<text> 托普斯的铃珠 </text>
+<text> 咖列的铃珠 </text>
+<text> 流浪商人的铃珠【１】 </text>
+<text> 流浪商人的铃珠【２】 </text>
+<text> 流浪商人的铃珠【３】 </text>
+<text> 流浪商人的铃珠【４】 </text>
+<text> 流浪商人的铃珠【５】 </text>
+<text> 隐居商人的铃珠【１】 </text>
+<text> 隐居商人的铃珠【２】 </text>
+<text> 流浪商人的铃珠【６】 </text>
+<text> 遁世商人的铃珠【１】 </text>
+<text> 流浪商人的铃珠【７】 </text>
+<text> 流浪商人的铃珠【８】 </text>
+<text> 流浪商人的铃珠【９】 </text>
+<text> 流浪商人的铃珠【１０】 </text>
+<text> 流浪商人的铃珠【１１】 </text>
+<text> 隐居商人的铃珠【３】 </text>
+<text> 遁世商人的铃珠【２】 </text>
+<text> 见弃商人的铃珠 </text>
+<text> 遁世商人的铃珠【３】 </text>
+<text> 受囚商人的铃珠 </text>
+<text> 伊吉的铃珠 </text>
+<text> 罗杰尔的铃珠 </text>
+<text> 流氓的铃珠 </text>
+<text> 柯林的铃珠 </text>
+<text> 格威的铃珠 </text>
+<text> 兽骨贩子的铃珠 </text>
+<text> 兽肉贩子的铃珠 </text>
+<text> 苔药贩子的铃珠 </text>
+<text> 重力贩子的铃珠 </text>
+<text> 锻造石矿工的铃珠【１】 </text>
+<text> 锻造石矿工的铃珠【２】 </text>
+<text> 锻造石矿工的铃珠【３】 </text>
+<text> 锻造石矿工的铃珠【４】 </text>
+<text> 失色石矿工的铃珠【１】 </text>
+<text> 失色石矿工的铃珠【２】 </text>
+<text> 失色石矿工的铃珠【３】 </text>
+<text> 失色石矿工的铃珠【４】 </text>
+<text> 失色石矿工的铃珠【５】 </text>
+<text> 铃兰摘采工的铃珠【１】 </text>
+<text> 铃兰摘采工的铃珠【２】 </text>
+<text> 铃兰摘采工的铃珠【３】 </text>
+<text> 灵依摘采工的铃珠【１】 </text>
+<text> 灵依摘采工的铃珠【２】 </text>
+<text> 灵依摘采工的铃珠【３】 </text>
+<text> 铁制砥石刀 </text>
+<text> 灼热砥石刀 </text>
+<text> 神圣砥石刀 </text>
+<text> 辉石砥石刀 </text>
+<text> 漆黑砥石刀 </text>
+<text> 纯净金针（损） </text>
+<text> 纯净金针 </text>
+<text> 女武神的义手 </text>
+<text> 瑟利亚镇的秘密 </text>
+<text> 野兽眼眸 </text>
+<text> 侵蚀短剑 </text>
+<text> 流浪战士的制作笔记【１】 </text>
+<text> 流浪战士的制作笔记【３】 </text>
+<text> 流浪战士的制作笔记【６】 </text>
+<text> 流浪战士的制作笔记【１０】 </text>
+<text> 亡命战士的制作笔记【５】 </text>
+<text> 流浪战士的制作笔记【７】 </text>
+<text> 流浪战士的制作笔记【１２】 </text>
+<text> 流浪战士的制作笔记【１９】 </text>
+<text> 流浪战士的制作笔记【１３】 </text>
+<text> 流浪战士的制作笔记【２３】 </text>
+<text> 流浪战士的制作笔记【１７】 </text>
+<text> 流浪战士的制作笔记【２】 </text>
+<text> 流浪战士的制作笔记【２１】 </text>
+<text> 传道士的制作笔记【６】 </text>
+<text> 武器工匠的制作笔记【１】 </text>
+<text> 武器工匠的制作笔记【２】 </text>
+<text> 流浪战士的制作笔记【１１】 </text>
+<text> 流浪战士的制作笔记【２０】 </text>
+<text> 武器工匠的制作笔记【５】 </text>
+<text> 武器工匠的制作笔记【７】 </text>
+<text> 武器工匠的制作笔记【４】 </text>
+<text> 流浪战士的制作笔记【１８】 </text>
+<text> 武器工匠的制作笔记【３】 </text>
+<text> 流浪战士的制作笔记【１６】 </text>
+<text> 武器工匠的制作笔记【６】 </text>
+<text> 武器工匠的制作笔记【５】 </text>
+<text> 辉石工匠的制作笔记【４】 </text>
+<text> 辉石工匠的制作笔记【１】 </text>
+<text> 辉石工匠的制作笔记【５】 </text>
+<text> 流浪战士的制作笔记【９】 </text>
+<text> 辉石工匠的制作笔记【８】 </text>
+<text> 辉石工匠的制作笔记【２】 </text>
+<text> 辉石工匠的制作笔记【６】 </text>
+<text> 辉石工匠的制作笔记【７】 </text>
+<text> 辉石工匠的制作笔记【３】 </text>
+<text> 传道士的制作笔记【２】 </text>
+<text> 传道士的制作笔记【１】 </text>
+<text> 传道士的制作笔记【３】 </text>
+<text> 传道士的制作笔记【５】 </text>
+<text> 传道士的制作笔记【４】 </text>
+<text> 传道士的制作笔记【３】 </text>
+<text> 流浪战士的制作笔记【４】 </text>
+<text> 调香师的制作笔记【１】 </text>
+<text> 调香师的制作笔记【２】 </text>
+<text> 流浪战士的制作笔记【５】 </text>
+<text> 调香师的制作笔记【１】 </text>
+<text> 调香师的制作笔记【２】 </text>
+<text> 调香师的制作笔记【３】 </text>
+<text> 流浪战士的制作笔记【１４】 </text>
+<text> 流浪战士的制作笔记【８】 </text>
+<text> 流浪战士的制作笔记【２２】 </text>
+<text> 流浪战士的制作笔记【１５】 </text>
+<text> 流浪战士的制作笔记【２４】 </text>
+<text> 调香师的制作笔记【４】 </text>
+<text> 调香师的制作笔记【１３】 </text>
+<text> 古龙信徒的制作笔记【１】 </text>
+<text> 古龙信徒的制作笔记【２】 </text>
+<text> 古龙信徒的制作笔记【４】 </text>
+<text> 古龙信徒的制作笔记【３】 </text>
+<text> 法力斯的制作笔记【１】 </text>
+<text> 法力斯的制作笔记【３】 </text>
+<text> 法力斯的制作笔记【２】 </text>
+<text> 传道士的制作笔记【７】 </text>
+<text> 罹病者的制作笔记【１】 </text>
+<text> 罹病者的制作笔记【２】 </text>
+<text> 龟裂壶 </text>
+<text> 仪式壶 </text>
+<text> 调香瓶 </text>
+<text> 玻璃碎片 </text>
+<text> 黄金种子 </text>
+<text> 圣杯露滴 </text>
+<text> 记忆石 </text>
+<text> 护符皮袋 </text>
+<text> 龙心脏 </text>
+<text> 失力战灰 </text>
+<text> 无缘诞生者的大卢恩 </text>
+<text> 锻造石【１】 </text>
+<text> 锻造石【２】 </text>
+<text> 锻造石【３】 </text>
+<text> 锻造石【４】 </text>
+<text> 锻造石【５】 </text>
+<text> 锻造石【６】 </text>
+<text> 锻造石【７】 </text>
+<text> 锻造石【８】 </text>
+<text> 古龙岩锻造石 </text>
+<text> 失色锻造石【１】 </text>
+<text> 失色锻造石【２】 </text>
+<text> 失色锻造石【３】 </text>
+<text> 失色锻造石【４】 </text>
+<text> 失色锻造石【５】 </text>
+<text> 失色锻造石【６】 </text>
+<text> 失色锻造石【７】 </text>
+<text> 失色锻造石【８】 </text>
+<text> 古龙岩失色锻造石 </text>
+<text> 失色锻造石【９】 </text>
+<text> 墓地铃兰【１】 </text>
+<text> 墓地铃兰【２】 </text>
+<text> 墓地铃兰【３】 </text>
+<text> 墓地铃兰【４】 </text>
+<text> 墓地铃兰【５】 </text>
+<text> 墓地铃兰【６】 </text>
+<text> 墓地铃兰【７】 </text>
+<text> 墓地铃兰【８】 </text>
+<text> 墓地铃兰【９】 </text>
+<text> 大朵墓地铃兰 </text>
+<text> 灵依墓地铃兰【１】 </text>
+<text> 灵依墓地铃兰【２】 </text>
+<text> 灵依墓地铃兰【３】 </text>
+<text> 灵依墓地铃兰【４】 </text>
+<text> 灵依墓地铃兰【５】 </text>
+<text> 灵依墓地铃兰【６】 </text>
+<text> 灵依墓地铃兰【７】 </text>
+<text> 灵依墓地铃兰【８】 </text>
+<text> 灵依墓地铃兰【９】 </text>
+<text> 大朵灵依墓地铃兰 </text>
+<text> 漫红结晶露滴 </text>
+<text> 漫绿结晶露滴 </text>
+<text> 红结晶露滴 </text>
+<text> 红结晶露滴 </text>
+<text> 蓝结晶露滴 </text>
+<text> 蓝结晶露滴 </text>
+<text> 斑斓硬露滴 </text>
+<text> 红泡状露滴 </text>
+<text> 珍珠泡状露滴 </text>
+<text> 涌红结晶露滴 </text>
+<text> 涌绿结晶露滴 </text>
+<text> 珍珠硬露滴 </text>
+<text> 羽毛结晶露滴 </text>
+<text> 连刺破露滴 </text>
+<text> 大刺破露滴 </text>
+<text> 风结晶露滴 </text>
+<text> 爆裂结晶露滴 </text>
+<text> 爆裂结晶露滴 </text>
+<text> 铅化硬露滴 </text>
+<text> 细枝破露滴 </text>
+<text> 红漩泡状露滴 </text>
+<text> 力气瘤结晶露滴 </text>
+<text> 灵巧瘤结晶露滴 </text>
+<text> 智力瘤结晶露滴 </text>
+<text> 信仰瘤结晶露滴 </text>
+<text> 蓝秘密露滴 </text>
+<text> 岩刺破露滴 </text>
+<text> 净血结晶露滴 </text>
+<text> 带火破露滴 </text>
+<text> 带魔力破露滴 </text>
+<text> 带雷破露滴 </text>
+<text> 带圣破露滴 </text>
+<text> 肉片 </text>
+<text> 野兽肝 </text>
+<text> 野兽肉块 </text>
+<text> 野兽血液 </text>
+<text> 古牙 </text>
+<text> 芽角 </text>
+<text> 拨风羽毛 </text>
+<text> 隐密羽毛 </text>
+<text> 四趾鸟爪 </text>
+<text> 龟颈肉块 </text>
+<text> 人骨碎片 </text>
+<text> 大蜻蜓头部 </text>
+<text> 眠卵 </text>
+<text> 蟹卵 </text>
+<text> 章鱼卵 </text>
+<text> 米兰达花粉 </text>
+<text> 白色肉片 </text>
+<text> 褪色粪便 </text>
+<text> 细小兽骨 </text>
+<text> 粗大兽骨 </text>
+<text> 细碎辉石 </text>
+<text> 绳索 </text>
+<text> 活壶碎片 </text>
+<text> 白金凝血 </text>
+<text> 风暴鹰羽毛 </text>
+<text> 毒花 </text>
+<text> 托莉娜睡莲 </text>
+<text> 雷电花 </text>
+<text> 米凯拉睡莲 </text>
+<text> 墓地紫花 </text>
+<text> 变色落叶花 </text>
+<text> 落叶花 </text>
+<text> 亚塔斯花 </text>
+<text> 火焰花 </text>
+<text> 金轮草 </text>
+<text> 褪色金轮草 </text>
+<text> 赫帕草 </text>
+<text> 亚缇莉亚叶 </text>
+<text> 夜露赫帕草 </text>
+<text> 罗亚果实 </text>
+<text> 黄金罗亚果实 </text>
+<text> 罗亚原种果实 </text>
+<text> 血蔷薇 </text>
+<text> 耶罗眼珠 </text>
+<text> 结晶木芽 </text>
+<text> 冰结晶木芽 </text>
+<text> 圣血木芽 </text>
+<text> 蘑菇 </text>
+<text> 稠液蘑菇 </text>
+<text> 毒霉蘑菇 </text>
+<text> 根脂 </text>
+<text> 崩解结晶 </text>
+<text> 神殿石 </text>
+<text> 蜕生蝶 </text>
+<text> 艾奥尼亚蝶 </text>
+<text> 火星蝶 </text>
+<text> 银色萤火虫 </text>
+<text> 金色萤火虫 </text>
+<text> 辉石萤火虫 </text>
+<text> 黄金百足 </text>
+<text> 银色泪滴空壳 </text>
+<text> 金色排泄物 </text>
+<text> 和血排泄物 </text>
+<text> 洞窟苔藓 </text>
+<text> 洞窟苔藓的花苞 </text>
+<text> 洞窟苔藓的结晶 </text>
+<text> 黄色余火 </text>
+<text> 火山石 </text>
+<text> 蚁酸石 </text>
+<text> 碎石 </text>
+<text> “黑刀”狄希 </text>
+<text> “失乡骑士”奥雷格 </text>
+<text> “失乡骑士”英格威尔 </text>
+<text> 尖牙小恶魔的骨灰 </text>
+<text> 白金之子勒缇娜 </text>
+<text> 流浪民族的骨灰 </text>
+<text> 黑夜女巫与剑士的傀儡 </text>
+<text> 仿身泪滴的骨灰 </text>
+<text> 结晶人的骨灰 </text>
+<text> 祖灵之民的骨灰 </text>
+<text> 带翼混种的骨灰 </text>
+<text> 白金之子的骨灰 </text>
+<text> 枯瘦民兵的骨灰 </text>
+<text> 枯瘦山贼的骨灰 </text>
+<text> 神谕众使者的骨灰 </text>
+<text> 腐烂长生者的骨灰 </text>
+<text> “堕落调香师”卡尔曼 </text>
+<text> 调香师托莉夏 </text>
+<text> 辉石魔法师的骨灰 </text>
+<text> 双贤魔法师的骨灰 </text>
+<text> 随从的骨灰 </text>
+<text> 战场魔法师犹格 </text>
+<text> 泥人的骨灰 </text>
+<text> “尊腐骑士”芬雷 </text>
+<text> 腐败眷属的骨灰 </text>
+<text> 人偶士兵的骨灰 </text>
+<text> 鸟身人偶士兵的骨灰 </text>
+<text> 火焰习武修士的骨灰 </text>
+<text> 黑焰习武修士亚蒙 </text>
+<text> 蛇人的骨灰 </text>
+<text> 亚兹拉的兽人的骨灰 </text>
+<text> 凯丹佣兵的骨灰 </text>
+<text> 离群野狼的骨灰 </text>
+<text> 大老鼠的骨灰 </text>
+<text> 亚人集团的骨灰 </text>
+<text> 腐败野狗的骨灰 </text>
+<text> 灵魂水母的骨灰 </text>
+<text> 战鹰的骨灰 </text>
+<text> 风暴鹰汀涅 </text>
+<text> “猎犬骑士”弗罗 </text>
+<text> 徘徊权贵的骨灰 </text>
+<text> 权贵魔法师的骨灰 </text>
+<text> 恶兵的骨灰 </text>
+<text> 发狂南瓜头士兵的骨灰 </text>
+<text> 陆生海鞘的骨灰 </text>
+<text> 小米兰达的骨灰 </text>
+<text> 特攻先锋群的骨灰 </text>
+<text> 恶兆猎人罗洛 </text>
+<text> 大盾士兵的骨灰 </text>
+<text> 操弓士兵的骨灰 </text>
+<text> 葛瑞克士兵的骨灰 </text>
+<text> 雷亚卢卡利亚士兵的骨灰 </text>
+<text> 罗德尔士兵的骨灰 </text>
+<text> 拉塔恩士兵的骨灰 </text>
+<text> 灵庙士兵的骨灰 </text>
+<text> 圣树士兵的骨灰 </text>
+<text> “古龙骑士”克里斯托福 </text>
+<text> “红狮子骑士”奥加 </text>
+<text> “无头骑士”露缇尔 </text>
+<text> 涅斐丽·露的傀儡 </text>
+<text> 食粪者的傀儡 </text>
+<text> 指头女巫瑟萝莉娜的傀儡 </text>
+<text> “深眠之箭”朵罗雷丝的傀儡 </text>
+<text> 壶男的傀儡 </text>
 
 </entries>

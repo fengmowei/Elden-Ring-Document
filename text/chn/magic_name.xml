@@ -1,23 +1,176 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <entries>
 
-<text>辉石碎石</text>
-<text>辉石流星</text>
-<text>辉石弯弧</text>
-<text>魔力泡沫</text>
-<text>罪恶荆棘</text>
-<text>陨石</text>
-<text>卡利亚突刺</text>
-<text>紧急恢复</text>
-<text>恢复</text>
-<text>疗愈毒性</text>
-<text>拒绝</text>
-<text>纠死神圣律法</text>
-<text>火焰啊！</text>
-<text>感受火焰吧</text>
-<text>兽爪</text>
-<text>龙焰</text>
-<text>桂奥尔咆哮</text>
-<text>颠火</text>
+<text> 辉石魔砾 </text>
+<text> 辉石大魔砾 </text>
+<text> 辉石迅魔砾 </text>
+<text> 辉石彗星 </text>
+<text> 帚星 </text>
+<text> 旋飞魔砾 </text>
+<text> 辉石流星 </text>
+<text> 流星雨 </text>
+<text> 结晶连弹 </text>
+<text> 辉石弯弧 </text>
+<text> 海摩炮弹 </text>
+<text> 结晶散射 </text>
+<text> 爆碎岩盘 </text>
+<text> 爆破岩盘 </text>
+<text> 海摩大槌 </text>
+<text> 魔法之境 </text>
+<text> 星光 </text>
+<text> 彗星亚兹勒 </text>
+<text> 创星雨 </text>
+<text> 毁灭流星 </text>
+<text> 辉剑圆阵 </text>
+<text> 卡利亚圆阵 </text>
+<text> 巨剑阵 </text>
+<text> 蕾娜菈的满月 </text>
+<text> 菈妮的暗月 </text>
+<text> 天降魔力 </text>
+<text> 罗蕾塔的大弓 </text>
+<text> 罗蕾塔的绝招 </text>
+<text> 魔法辉剑 </text>
+<text> 辉石冰块 </text>
+<text> 萨米尔冰风暴 </text>
+<text> 冰雾 </text>
+<text> 卡利亚大剑 </text>
+<text> 亚杜拉的月光剑 </text>
+<text> 卡利亚迅剑 </text>
+<text> 卡利亚贯刺 </text>
+<text> 魔力武器 </text>
+<text> 魔力盾牌 </text>
+<text> 镇定 </text>
+<text> 结冰武器 </text>
+<text> 爆散结晶 </text>
+<text> 飞散结晶 </text>
+<text> 奔放结晶 </text>
+<text> 奇袭魔砾 </text>
+<text> 黑夜魔砾 </text>
+<text> 黑夜彗星 </text>
+<text> 托普斯的力场 </text>
+<text> 卡利亚式奉还 </text>
+<text> 亘古黑暗 </text>
+<text> 无形刀刃 </text>
+<text> 化为无形 </text>
+<text> 陨石 </text>
+<text> 艾丝缇陨石 </text>
+<text> 岩石球 </text>
+<text> 重力球 </text>
+<text> 碎星 </text>
+<text> 熔岩球 </text>
+<text> 格密尔之怒 </text>
+<text> 滚烫熔岩 </text>
+<text> 拉卡德的怨魂 </text>
+<text> 罪恶荆棘 </text>
+<text> 责罚荆棘 </text>
+<text> 召唤怨魂 </text>
+<text> 古老死亡怨魂 </text>
+<text> 迸发灵火 </text>
+<text> 菲雅烟雾 </text>
+<text> 提比亚的唤声 </text>
+<text> 死亡雷击 </text>
+<text> 神谕泡泡 </text>
+<text> 神谕大泡泡 </text>
+<text> 燃火 </text>
+<text> 火焰啊！ </text>
+<text> 投火 </text>
+<text> 火焰啊，倾注吧 </text>
+<text> 火焰啊，缠绕吧 </text>
+<text> 火焰的疗愈啊 </text>
+<text> 火焰啊，赐予我力量！ </text>
+<text> 火焰的庇佑啊 </text>
+<text> 感受巨人火焰吧 </text>
+<text> 恶神火焰 </text>
+<text> 火焰啊，吞噬一切！ </text>
+<text> 黑焰 </text>
+<text> 火焰啊，喷发吧 </text>
+<text> 横扫黑焰 </text>
+<text> 黑焰仪式 </text>
+<text> 黑焰刀刃 </text>
+<text> 黑焰庇佑 </text>
+<text> 贵族气场 </text>
+<text> 血焰爪痕 </text>
+<text> 授血 </text>
+<text> 血焰刀刃 </text>
+<text> 黄金魔力防护 </text>
+<text> 黄金树庇佑 </text>
+<text> 拒绝 </text>
+<text> 黄金之怒 </text>
+<text> 紧急恢复 </text>
+<text> 恢复 </text>
+<text> 大恢复 </text>
+<text> 王之恢复 </text>
+<text> 黄金树恢复 </text>
+<text> 恩惠赐福 </text>
+<text> 黄金树恩惠 </text>
+<text> 疗愈毒性 </text>
+<text> 王之疗愈 </text>
+<text> 火防护 </text>
+<text> 魔力防护 </text>
+<text> 雷防护 </text>
+<text> 圣防护 </text>
+<text> 王之圣防护 </text>
+<text> 黑夜女巫烟雾 </text>
+<text> 刺客步法 </text>
+<text> 诱敌幻影 </text>
+<text> 黑暗 </text>
+<text> 黄金树立誓 </text>
+<text> 光环 </text>
+<text> 化三光环 </text>
+<text> 拉达冈的光环 </text>
+<text> 艾尔登流星 </text>
+<text> 回归性原理 </text>
+<text> 不变盾牌 </text>
+<text> 纠死圣律 </text>
+<text> 因果性原理 </text>
+<text> 圣律剑刃 </text>
+<text> 圣律疗愈 </text>
+<text> 兽石 </text>
+<text> 古兰格的岩石 </text>
+<text> 兽爪 </text>
+<text> 古兰格的兽爪 </text>
+<text> 野兽活力 </text>
+<text> 野兽健壮 </text>
+<text> 雷电枪 </text>
+<text> 古龙雷击 </text>
+<text> 雷击 </text>
+<text> 冰雷枪 </text>
+<text> 精准雷击 </text>
+<text> 古龙雷枪 </text>
+<text> 弗尔桑克斯的雷枪 </text>
+<text> 兰斯桑克斯的刀 </text>
+<text> 雷武器 </text>
+<text> 维克的龙雷 </text>
+<text> 龙雷庇佑 </text>
+<text> 龙焰 </text>
+<text> 亚基尔的火焰 </text>
+<text> 熔岩吐息 </text>
+<text> 席欧朵利克的熔岩 </text>
+<text> 龙冰 </text>
+<text> 玻列琉斯的冰雾 </text>
+<text> 腐败吐息 </text>
+<text> 艾格基斯的腐败 </text>
+<text> 辉石吐息 </text>
+<text> 史玛拉格的辉石 </text>
+<text> 普拉顿桑克斯的凋亡 </text>
+<text> 龙爪 </text>
+<text> 龙咬 </text>
+<text> 桂奥尔的咆哮 </text>
+<text> 虫丝 </text>
+<text> 蝇群 </text>
+<text> 毒雾 </text>
+<text> 毒刃 </text>
+<text> 猩红艾奥尼亚 </text>
+<text> 发狂扩散 </text>
+<text> 癫火 </text>
+<text> 难耐癫火 </text>
+<text> 划空癫火 </text>
+<text> 夏玻利利的嘶吼 </text>
+<text> 熔炉百相之尾 </text>
+<text> 熔炉百相之角 </text>
+<text> 熔炉百相之喉囊 </text>
+<text> 黑剑 </text>
+<text> 火焰重罪 </text>
+<text> 黄金雷防护 </text>
 
 </entries>
