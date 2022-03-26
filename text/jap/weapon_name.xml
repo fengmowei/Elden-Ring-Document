@@ -21,7 +21,6 @@
 <text> ロングソード </text>
 <text> ショートソード </text>
 <text> ブロードソード </text>
-<text> 兵士の直剣 </text>
 <text> 君主軍の直剣 </text>
 <text> 古びた直剣 </text>
 <text> 儀仗の直剣 </text>
@@ -91,7 +90,6 @@
 <text> 流水の曲剣 </text>
 <text> アステールの薄羽 </text>
 <text> 死体漁りの曲剣 </text>
-<text> 鮫歯の曲剣 </text>
 <text> 蝕のショーテル </text>
 <text> 蛇神の曲刀 </text>
 <text> 蟷螂刀 </text>
@@ -119,8 +117,6 @@
 <text> 神肌剥ぎ </text>
 <text> ツインナイトソード </text>
 <text> エレオノーラの双薙刀 </text>
-<text> 豊穣と腐敗の両刃剣 </text>
-<text> エブレフェールの両刃剣 </text>
 <text> ガーゴイルの両刃剣 </text>
 <text> ガーゴイルの黒両刃 </text>
 <text> メイス </text>
@@ -138,7 +134,6 @@
 <text> 指輪指 </text>
 <text> 石の棍棒 </text>
 <text> マリカの槌 </text>
-<text> 神父のマリカ槌 </text>
 <text> ラージクラブ </text>
 <text> 大角の槌 </text>
 <text> バトルハンマー </text>
@@ -169,7 +164,6 @@
 <text> ハイランドアクス </text>
 <text> 生贄の斧 </text>
 <text> ローゼスの斧 </text>
-<text> 副葬の斧 </text>
 <text> 嵐鷹の斧 </text>
 <text> グレートアクス </text>
 <text> 歪んだ斧 </text>
@@ -224,7 +218,6 @@
 <text> 大鎌 </text>
 <text> 墓場の大鎌 </text>
 <text> 光輪のサイス </text>
-<text> 異教の鉤鎌 </text>
 <text> 翼の鎌 </text>
 <text> ウィップ </text>
 <text> 茨鞭 </text>
@@ -242,6 +235,7 @@
 <text> 宿将の義足 </text>
 <text> 秘文字のパタ </text>
 <text> 鉤爪 </text>
+<text> 毒蛇の牙 </text>
 <text> 猟犬の爪 </text>
 <text> 猛禽の鉤爪 </text>
 <text> 司教の大炎槌 </text>
@@ -318,6 +312,7 @@
 <text> 獣紋の黄金盾 </text>
 <text> クラゲの盾 </text>
 <text> 指紋石の盾 </text>
+<text> 神聖画の盾 </text>
 <text> 単眼の盾 </text>
 <text> ガンメンの盾 </text>
 <text> 鋲壁の盾 </text>
@@ -356,7 +351,6 @@
 <text> 巨人の聖印 </text>
 <text> さざれ石の聖印 </text>
 <text> 爪痕の聖印 </text>
-<text> 巨人の火の聖印（神肌） </text>
 <text> 黄金律の聖印 </text>
 <text> 黄金樹の聖印 </text>
 <text> 竜餐の印 </text>
@@ -383,7 +377,6 @@
 <text> 滑車の弩 </text>
 <text> 月輪の弩 </text>
 <text> アーバレスト </text>
-<text> 散弾クロスボウ </text>
 <text> クレプスの黒鍵 </text>
 <text> 手持ちバリスタ </text>
 <text> 壺大砲 </text>
@@ -409,7 +402,6 @@
 <text> 虹色石の矢 </text>
 <text> 細片の音矢 </text>
 <text> 霊火の矢 </text>
-<text> 嵐の矢 </text>
 <text> 骨の魔力矢（羽付き） </text>
 <text> 骨の魔力矢 </text>
 <text> 骨の聖矢（羽付き） </text>
@@ -450,6 +442,5 @@
 <text> バリスタボルト </text>
 <text> ライトニング大ボルト </text>
 <text> 爆発大ボルト </text>
-<text> 骨のバリスタボルト </text>
 
 </entries>
