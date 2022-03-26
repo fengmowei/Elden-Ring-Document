@@ -21,7 +21,6 @@
 <text> Longsword </text>
 <text> Short Sword </text>
 <text> Broadsword </text>
-<text> Royal Soldier Straight Sword </text>
 <text> Lordsworn's Straight Sword </text>
 <text> Weathered Straight Sword </text>
 <text> Ornamental Straight Sword </text>
@@ -91,7 +90,6 @@
 <text> Flowing Curved Sword </text>
 <text> Wing of Astel </text>
 <text> Scavenger's Curved Sword </text>
-<text> Sharktooth Curved Sword </text>
 <text> Eclipse Shotel </text>
 <text> Serpent-God's Curved Sword </text>
 <text> Mantis Blade </text>
@@ -119,8 +117,6 @@
 <text> Godskin Peeler </text>
 <text> Twinned Knight Swords </text>
 <text> Eleonora's Poleblade </text>
-<text> Abundance and Decay Twinblade </text>
-<text> Abundance Twinblade </text>
 <text> Gargoyle's Twinblade </text>
 <text> Gargoyle's Black Blades </text>
 <text> Mace </text>
@@ -138,7 +134,6 @@
 <text> Ringed Finger </text>
 <text> Stone Club </text>
 <text> Marika's Hammer </text>
-<text> Father Marika's Hammer </text>
 <text> Large Club </text>
 <text> Greathorn Hammer </text>
 <text> Battle Hammer </text>
@@ -169,7 +164,6 @@
 <text> Highland Axe </text>
 <text> Sacrificial Axe </text>
 <text> Rosus' Axe </text>
-<text> Burial Axe </text>
 <text> Stormhawk Axe </text>
 <text> Greataxe </text>
 <text> Warped Axe </text>
@@ -224,7 +218,6 @@
 <text> Scythe </text>
 <text> Grave Scythe </text>
 <text> Halo Scythe </text>
-<text> Heretic's Hook </text>
 <text> Winged Scythe </text>
 <text> Whip </text>
 <text> Thorned Whip </text>
@@ -242,6 +235,7 @@
 <text> Veteran's Prosthesis </text>
 <text> Cipher Pata </text>
 <text> Hookclaws </text>
+<text> Venomous Fang </text>
 <text> Bloodhound Claws </text>
 <text> Raptor Talons </text>
 <text> Prelate's Inferno Crozier </text>
@@ -318,6 +312,7 @@
 <text> Golden Beast Crest Shield </text>
 <text> Jellyfish Shield </text>
 <text> Fingerprint Stone Shield </text>
+<text> Icon Shield </text>
 <text> One-Eyed Shield </text>
 <text> Visage Shield </text>
 <text> Spiked Palisade Shield </text>
@@ -356,7 +351,6 @@
 <text> Giant's Seal </text>
 <text> Gravel Stone Seal </text>
 <text> Clawmark Seal </text>
-<text> %null% </text>
 <text> Golden Order Seal </text>
 <text> Erdtree Seal </text>
 <text> Dragon Communion Seal </text>
@@ -383,7 +377,6 @@
 <text> Pulley Crossbow </text>
 <text> Full Moon Crossbow </text>
 <text> Arbalest </text>
-<text> Buckshot Crossbow </text>
 <text> Crepus's Black-Key Crossbow </text>
 <text> Hand Ballista </text>
 <text> Jar Cannon </text>
@@ -409,7 +402,6 @@
 <text> Rainbow Stone Arrow </text>
 <text> Shattershard Arrow </text>
 <text> Spiritflame Arrow </text>
-<text> Storm Arrow </text>
 <text> Magicbone Arrow (Fletched) </text>
 <text> Magicbone Arrow </text>
 <text> Haligbone Arrow (Fletched) </text>
@@ -450,6 +442,5 @@
 <text> Ballista Bolt </text>
 <text> Lightning Greatbolt </text>
 <text> Explosive Greatbolt </text>
-<text> Bone Ballista Bolt </text>
 
 </entries>
