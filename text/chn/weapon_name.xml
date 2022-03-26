@@ -21,7 +21,6 @@
 <text> 长剑 </text>
 <text> 短剑 </text>
 <text> 阔剑 </text>
-<text> 士兵的直剑 </text>
 <text> 君王军直剑 </text>
 <text> 老旧直剑 </text>
 <text> 仪式直剑 </text>
@@ -91,7 +90,6 @@
 <text> 流水曲剑 </text>
 <text> 艾丝缇薄翼 </text>
 <text> 剥尸曲剑 </text>
-<text> 镰齿曲剑 </text>
 <text> 日蚀钩剑 </text>
 <text> 蛇神弯刀 </text>
 <text> 螳臂刀 </text>
@@ -106,7 +104,7 @@
 <text> 习武修士火纹刀 </text>
 <text> 兽人大弯刀 </text>
 <text> 蒙葛特咒剑 </text>
-<text> 神火大弯刀 </text>
+<text> 神火大弯刀（无法正常获取） </text>
 <text> 打刀 </text>
 <text> 长牙 </text>
 <text> 玛莲妮亚的义手刀 </text>
@@ -118,9 +116,7 @@
 <text> 双头剑 </text>
 <text> 神皮剥制剑 </text>
 <text> 骑士双头剑 </text>
-<text> 艾琉诺拉双头刀 </text>
-<text> 丰饶与腐败双刃剑 </text>
-<text> 埃布雷费尔双刃剑 </text>
+<text> 艾琉诺拉的双头刀 </text>
 <text> 石像鬼双头剑 </text>
 <text> 石像鬼黑双头剑 </text>
 <text> 锤矛 </text>
@@ -138,10 +134,9 @@
 <text> 戒指指头 </text>
 <text> 石棍棒 </text>
 <text> 玛莉卡的石槌 </text>
-<text> 神父的玛莉卡槌 </text>
 <text> 大棍棒 </text>
 <text> 大角槌 </text>
-<text> 战锤 </text>
+<text> 斗技锤 </text>
 <text> 巨型锤矛 </text>
 <text> 弯曲大棍棒 </text>
 <text> 庆典大头盖骨 </text>
@@ -152,7 +147,7 @@
 <text> 巨星锤 </text>
 <text> 砌石槌 </text>
 <text> 吞世权杖 </text>
-<text> 腐败战锤 </text>
+<text> 腐败斗技锤 </text>
 <text> 黑夜骑兵连枷 </text>
 <text> 连枷 </text>
 <text> 家人头连枷 </text>
@@ -169,7 +164,6 @@
 <text> 高地斧 </text>
 <text> 活祭品斧 </text>
 <text> 罗泽司的斧 </text>
-<text> 副葬斧 </text>
 <text> 风暴鹰斧 </text>
 <text> 巨斧 </text>
 <text> 歪柄斧 </text>
@@ -224,7 +218,6 @@
 <text> 大镰刀 </text>
 <text> 墓地大镰刀 </text>
 <text> 光环镰刀 </text>
-<text> 异端钩刃镰刀 </text>
 <text> 展翼镰刀 </text>
 <text> 软鞭 </text>
 <text> 荆棘鞭 </text>
@@ -242,6 +235,7 @@
 <text> 老将的义足 </text>
 <text> 秘文帕塔剑 </text>
 <text> 钩爪 </text>
+<text> 毒蛇牙 </text>
 <text> 猎犬弯爪 </text>
 <text> 猛禽钩爪 </text>
 <text> 主教大火槌 </text>
@@ -318,6 +312,7 @@
 <text> 兽纹黄金盾 </text>
 <text> 水母盾 </text>
 <text> 指纹石盾 </text>
+<text> 神圣绘画盾 </text>
 <text> 独眼盾 </text>
 <text> 颜面盾 </text>
 <text> 钉墙盾 </text>
@@ -356,7 +351,6 @@
 <text> 巨人圣印记 </text>
 <text> 碎石圣印记 </text>
 <text> 爪痕圣印记 </text>
-<text> 巨人之火的圣印（神肤） </text>
 <text> 黄金律法圣印记 </text>
 <text> 黄金树圣印记 </text>
 <text> 龙飨印记 </text>
@@ -383,7 +377,6 @@
 <text> 滑轮弩 </text>
 <text> 圆月弩 </text>
 <text> 钢弩 </text>
-<text> 弹弓 </text>
 <text> 克雷普的黑键 </text>
 <text> 携带型弩炮 </text>
 <text> 壶大炮 </text>
@@ -409,7 +402,6 @@
 <text> 虹彩石箭 </text>
 <text> 碎片生音箭 </text>
 <text> 灵火箭 </text>
-<text> 风暴箭 </text>
 <text> 兽骨魔力箭（附箭羽） </text>
 <text> 兽骨魔力箭 </text>
 <text> 兽骨圣箭（附箭羽） </text>
@@ -450,6 +442,5 @@
 <text> 弩炮箭 </text>
 <text> 雷电大弩箭 </text>
 <text> 爆炸大弩箭 </text>
-<text> 兽骨弩炮箭 </text>
 
 </entries>
